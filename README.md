@@ -1,4 +1,3 @@
-# shortcut.github.io
 
 <html>
 <head>
@@ -50,7 +49,7 @@
 </ul>
 <hr>
 
-<ul class="list-group">  <li class="list-group-item"><h4></i> ☻联系方式</h4></li>
+<ul class="list-group">  <li class="list-group-item"><h4> ☻联系方式</h4></li>
   <li class="list-group-item">
 微信：Miss-baby_ </li>
  <li class="list-group-item">
@@ -59,13 +58,6 @@
 QQ：56794501</li>
   <li class="list-group-item">
 邮箱📮：56794501@qq.com </li>
-</tr>
-</table></div>
-</li>
 </ul>
 <hr>
 
-</div>
-
-</body>
-</html>
