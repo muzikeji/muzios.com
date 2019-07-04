@@ -1,10 +1,8 @@
 # shortcut.github.io
 
-<html>>
+<html>
 
-<head>
 
-</head>
 <body>
 
 <div class="container rounded">
