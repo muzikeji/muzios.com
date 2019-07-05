@@ -15,7 +15,19 @@
  <li class="list-group-item">
 <p>
 <a href="https://jiejinghe.com/shortcuts/7076318015">
-<img  border="10" src="https://i.loli.net/2019/07/05/5d1eec7bd86d237278.png" alt="木子李" width="280" height="155"></a></p></li>
+<img  border="10" src="https://i.loli.net/2019/07/05/5d1f5fcebe4a414057.png" alt="木子李" width="280" height="155"></a></p></li>
+ <li class="list-group-item">
+<p>
+<a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
+<img  border="10" src="https://i.loli.net/2019/07/05/5d1f5f1a21b1560316.png" alt="木子李" width="280" height="155"></a></p></li>
+ <li class="list-group-item">
+<p>
+<a href="https://jiejinghe.com/shortcuts/3548598087">
+<img  border="10" src="https://i.loli.net/2019/07/05/5d1f600e11d4731393.png" alt="木子李" width="280" height="155"></a></p></li>
+ <li class="list-group-item">
+<p>
+<a href="https://jiejinghe.com/shortcuts/3251736150">
+<img  border="10" src="https://i.loli.net/2019/07/05/5d1f5c8e15d6017806.png" alt="木子李" width="280" height="155"></a></p></li>
   <li class="list-group-item">
 <a style="color: #d23f3f;text-decoration:none;" href="https://weibo.com/u/5090561214"><h3> 关注作者微博 </h3>
 <li class="list-group-item">
@@ -36,7 +48,7 @@
 <tr><th> 人生如逆旅，我亦是行人。 </th>
 
 </tr>
-</div>
+</table></div>
 </li>
 </ul>
 <hr>
