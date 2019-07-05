@@ -2,28 +2,20 @@
 <html>
 <head>
    <meta charset="utf-8" />     
-<body>
 <div class="container rounded">
 <ul class="list-group">
   <li class="list-group-item"><h1>作者主页</h1><p>
 <a href="https://jiejinghe.com/users/6563404841">
-<img  border="10" src="https://i.loli.net/2019/06/27/5d14b5b33217297297.jpeg" alt="木子李" width="50" height="50"></a>点击头像直达</p></li>
+<img  border="10" src="https://i.loli.net/2019/06/27/5d14b5b33217297297.jpeg" alt="木子李" width="32" height="32"></a>点击头像直达</p></li>
   <li class="list-group-item">越接近，越完美；用捷径，更轻松！</li></ul>
 <hr>
-<ul class="list-group">  <li class="list-group-item"><h2>
+<ul class="list-group">  <li class="list-group-item"><h4>
 
-⌘捷径推荐</h2><h5>点击捷径名称获取（iOS12下载历史版本）。</h5></li>
+⌘捷径推荐</h4><h5>点击捷径名称获取（iOS12下载历史版本）。</h5></li>
  <li class="list-group-item">
-<a style="color: #4843e0;text-decoration:none;" href="https://jiejinghe.com/shortcuts/5130922633"><h3> 安心记加班</h3>
- <h5>简介： 安心记加班上线了，记录每天加班，算出加班费，保存信息，每月查看</h5>
-<li class="list-group-item">
-<a style="color: #cf44ea;text-decoration:none;" href="https://www.icloud.com/shortcuts/63daae50ef8c43038a67c19224cef537"><h3> 在线影视资源</h3>
-<h5>简介：‍可‍以‍解析‍各大影视会员视频‍，也可以在线搜索观看视频。解析视频使用方法：1⃣️复制会员视频链接2⃣️运行此捷径，选择解析接口即可播放。</h5>
-<li class="list-group-item">
-<a style="color: #ee2828;text-decoration:none;" href="https://jiejinghe.com/shortcuts/7076318015"><h3> ◐双色球</h3><h5>简介： 这是一个双色球摇号和查询开奖的工具，在这里你可以随机抽取属于你的幸运号码！</h5>
-<li class="list-group-item">
-<a style="color: #3f844e;text-decoration:none;" href="https://jiejinghe.com/shortcuts/3548598087"><h3> 快捷支付</h3>
-<h5>简介：‍快捷‍打开‍常用‍支付‍方式‍以及‍常用‍应用，‍菜单‍附带‍图标，‍‍清晰‍可见</h5>
+<p>
+<a href="https://jiejinghe.com/shortcuts/7076318015">
+<img  border="10" src="https://i.loli.net/2019/07/05/5d1eec7bd86d237278.png" alt="木子李" width="805" height="450"></a></p></li>
   <li class="list-group-item">
 <a style="color: #d23f3f;text-decoration:none;" href="https://weibo.com/u/5090561214"><h3> 关注作者微博 </h3>
 <li class="list-group-item">
@@ -44,7 +36,7 @@
 <tr><th> 人生如逆旅，我亦是行人。 </th>
 
 </tr>
-</div>
+</table></div>
 </li>
 </ul>
 <hr>
