@@ -57,7 +57,7 @@
   <li class="list-group-item">
 QQ：56794501</li>
   <li class="list-group-item">
-邮箱📮：56794501@qq.com </li>
+<a href = "mailto: 56794501@qq.com">QQ Email</a> </li>
 </ul>
 <hr>
 
