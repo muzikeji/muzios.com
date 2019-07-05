@@ -15,7 +15,7 @@
  <li class="list-group-item">
 <p>
 <a href="https://jiejinghe.com/shortcuts/7076318015">
-<img  border="10" src="https://i.loli.net/2019/07/05/5d1eec7bd86d237278.png" alt="木子李" width="805" height="450"></a></p></li>
+<img  border="10" src="https://i.loli.net/2019/07/05/5d1eec7bd86d237278.png" alt="木子李" width="450" height="805"></a></p></li>
   <li class="list-group-item">
 <a style="color: #d23f3f;text-decoration:none;" href="https://weibo.com/u/5090561214"><h3> 关注作者微博 </h3>
 <li class="list-group-item">
