@@ -36,7 +36,7 @@
 <tr><th> 人生如逆旅，我亦是行人。 </th>
 
 </tr>
-</table></div>
+</div>
 </li>
 </ul>
 <hr>
