@@ -3,7 +3,7 @@
 <head>
    <meta charset="utf-8" />   
   <div id="web_bg" style="position:absolute; width:100%; height:100%; z-index:-1">
-	<img style="position:fixed;" src="http://a.lanyes.org/bg1.jpg" height="100%" width="100%" />
+	<img style="position:fixed;" src="https://i.loli.net/2019/07/06/5d1fe60661f0047556.jpeg" height="100%" width="100%" />
 </div>
 
 
