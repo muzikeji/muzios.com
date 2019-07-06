@@ -45,8 +45,3 @@
 </li>
 </ul>
 </hr>
-<div>
-<hr>
-<li class="list-group-item">
-<a href = "mailto: 56794501@qq.com">QQ Email</a> </li>
-</ul>
