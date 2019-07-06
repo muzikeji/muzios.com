@@ -43,5 +43,4 @@
 <a href="https://www.icloud.com/shortcuts/6fcb210155b047b8a609f0e87db7a6a8">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202c774100c14856.png" alt="木子李" width="300" height="auto"></a></p>
 </li>
-</ul>
-</hr>
+
