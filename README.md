@@ -7,7 +7,7 @@
 {
 	float:left;
 	width:310px;
-	height:auto;
+	height:173px;
 	margin:5px;
 }
 
