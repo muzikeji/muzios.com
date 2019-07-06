@@ -2,9 +2,6 @@
 <html>
 <head>
    <meta charset="utf-8" />   
-
-<head>
-<meta charset="utf-8"> 
 <style>
 .thumbnail 
 {
@@ -13,8 +10,6 @@
 	height:autopx;
 	margin:5px;
 }
-<div class="container rounded">
-<ul class="list-group">
 
 </style>
 </head>
@@ -24,9 +19,9 @@
 <img  border="10" src="https://i.loli.net/2019/06/27/5d14b5b33217297297.jpeg" alt="木子李" width="32" height="32"></a>点击头像查看更多捷径</p></li>
   <li class="list-group-item">越接近，越完美；用捷径，更轻松！</li></ul>
 <hr>
-<ul class="list-group">  <li class="list-group-item"><h4>
-
-⌘捷径推荐</h4><h5>点击捷径名称获取（iOS12下载历史版本）。</h5></li>
+  <li class="list-group-item">
+<h4>⌘捷径推荐</h4><h5>点击捷径名称获取（iOS12下载历史版本）。</h5></li>
+  <li class="list-group-item">
 
 <p>
 <a href="https://jiejinghe.com/shortcuts/7076318015">
@@ -47,13 +42,11 @@
 <p>
 <a href="https://www.icloud.com/shortcuts/6fcb210155b047b8a609f0e87db7a6a8">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202c774100c14856.png" alt="木子李" width="300" height="auto"></a></p>
-
-
+</li>
 </ul>
+</hr>
+<div>
 <hr>
-
-  <li class="list-group-item">
+<li class="list-group-item">
 <a href = "mailto: 56794501@qq.com">QQ Email</a> </li>
 </ul>
-<hr>
-
