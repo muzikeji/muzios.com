@@ -6,17 +6,11 @@
  .thumbnail
 {
 	float:left;
-	width:310px;
-	height:173px;
+	width:auto;
+	height:auto;
 	margin:5px;
 }
-div
-{
-	float:left;
-	width:310px;
-	height:173px;
-	margin:5px;
-}
+
 </style>
 </head>
 
@@ -25,7 +19,7 @@ div
 <img  border="10" src="https://i.loli.net/2019/06/27/5d14b5b33217297297.jpeg" alt="木子李" width="32" height="32"></a>点击头像查看更多捷径</p></li>
   <li class="list-group-item">越接近，越完美；用捷径，更轻松！</li>
    <li class="list-group-item">
-<h2>⌘捷径推荐</h2><h5>点击捷径名称获取（iOS12下载历史版本）</h5></li>
+<h4>⌘捷径推荐</h4><h5>点击捷径名称获取（iOS12下载历史版本）</h5></li>
 <p>
 <a href="https://jiejinghe.com/shortcuts/7076318015">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202978cabee94282.png" alt="木子李" width="300" height="auto"></a></p>
@@ -43,8 +37,11 @@ div
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202c774100c14856.png" alt="木子李" width="300" height="auto"></a></p>
 <p>
  
-<div class="list-group-item"> <li class="list-group-item"><h1>联系作者</h1>
+<div style="clear:both"> <li class="list-group-item"><h1>联系作者</h1>
 
 <p>
 <a href="mailto: 56794501@qq.com">
-<img  class="div"  src="https://i.loli.net/2019/07/06/5d2071f9c95c226961.jpeg" alt="木子李" width="50" height="auto"></a></p>
+<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/06/5d2071f9c95c226961.jpeg" alt="木子李" width="50" height="auto"></a></p>
+<p>
+<a href="https://weibo.com/u/5090561214">
+<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d21278c9f33e85383.jpeg" alt="木子李" width="50" height="auto"></a></p>
