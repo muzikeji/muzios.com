@@ -43,12 +43,10 @@ div
 <a href="https://www.icloud.com/shortcuts/6fcb210155b047b8a609f0e87db7a6a8">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202c774100c14856.png" alt="木子李" width="300" height="auto"></a></p>
 <p>
-</tr>
 <tr>
  
-<div style="clear:both"> <li class="list-group-item"><h1>联系作者</h1>
+<div style="clear:both"><h1>联系作者</h1>
 
 <p>
 <a href="mailto: 56794501@qq.com">
 <img  class="div"  src="https://i.loli.net/2019/07/06/5d2071f9c95c226961.jpeg" alt="木子李" width="50" height="auto"></a></p>
-</tr>
