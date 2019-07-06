@@ -9,8 +9,8 @@
 .thumbnail 
 {
 	float:left;
-	width:110px;
-	height:90px;
+	width:250px;
+	height:autopx;
 	margin:5px;
 }
 </style>
@@ -46,19 +46,10 @@
 <a href="https://www.icloud.com/shortcuts/6fcb210155b047b8a609f0e87db7a6a8">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202c774100c14856.png" alt="木子李" width="300" height="auto"></a></p>
 
-</tr>
-</table></div>
-</li>
+
 </ul>
 <hr>
 
-<ul class="list-group">  <li class="list-group-item"><h4> ☻联系方式</h4></li>
-  <li class="list-group-item">
-微信：Miss-baby_ </li>
- <li class="list-group-item">
-公众号：苹果捷径科技</li>
-  <li class="list-group-item">
-QQ：56794501</li>
   <li class="list-group-item">
 <a href = "mailto: 56794501@qq.com">QQ Email</a> </li>
 </ul>
