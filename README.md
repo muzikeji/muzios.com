@@ -6,8 +6,8 @@
  .thumbnail
 {
 	float:left;
-	width:310px;
-	height:173px;
+	width:300px;
+	height:168px;
 	margin:5px;
 }
 div
