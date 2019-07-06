@@ -14,9 +14,9 @@
 <img  border="10" src="https://i.loli.net/2019/06/27/5d14b5b33217297297.jpeg" alt="木子李" width="32" height="32"></a>点击头像直达</p></li>
   <li class="list-group-item">越接近，越完美；用捷径，更轻松！</li></ul>
 <hr>
-<ul class="list-group">  <li class="list-group-item"><h4>
+<ul class="list-group">  <li class="list-group-item"><h2>
 
-⌘捷径推荐</h4><h5>点击捷径名称获取（iOS12下载历史版本）。</h5></li>
+⌘捷径推荐</h2><h5>点击捷径名称获取（iOS12下载历史版本）。</h5></li>
  <li class="list-group-item">
 <p>
 <a href="https://jiejinghe.com/shortcuts/7076318015">
