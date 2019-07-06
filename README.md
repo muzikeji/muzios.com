@@ -6,8 +6,8 @@
  .thumbnail
 {
 	float:left;
-	width:300px;
-	height:168px;
+	width:310px;
+	height:173px;
 	margin:5px;
 }
 div
@@ -24,8 +24,7 @@ div
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="10" src="https://i.loli.net/2019/06/27/5d14b5b33217297297.jpeg" alt="木子李" width="32" height="32"></a>点击头像查看更多捷径</p></li>
   <li class="list-group-item">越接近，越完美；用捷径，更轻松！</li>
-<tr>
-   <li class="list-group-item">
+   <li class="thumbnail">
 <h4>⌘捷径推荐</h4><h5>点击捷径名称获取（iOS12下载历史版本）</h5></li>
 <p>
 <a href="https://jiejinghe.com/shortcuts/7076318015">
@@ -43,9 +42,8 @@ div
 <a href="https://www.icloud.com/shortcuts/6fcb210155b047b8a609f0e87db7a6a8">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202c774100c14856.png" alt="木子李" width="300" height="auto"></a></p>
 <p>
-<tr>
  
-<div style="clear:both"><h1>联系作者</h1>
+<div style="clear:both"> <li class="list-group-item"><h1>联系作者</h1>
 
 <p>
 <a href="mailto: 56794501@qq.com">
