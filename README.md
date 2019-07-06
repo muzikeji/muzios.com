@@ -7,7 +7,7 @@
 <ul class="list-group">
   <li class="list-group-item"><h1>作者主页</h1><p>
 <a href="https://jiejinghe.com/users/6563404841">
-<img  border="10" src="https://i.loli.net/2019/06/27/5d14b5b33217297297.jpeg" alt="木子李" width="32" height="32"></a>点击头像查看更多</p></li>
+<img  border="10" src="https://i.loli.net/2019/06/27/5d14b5b33217297297.jpeg" alt="木子李" width="32" height="32"></a>点击头像查看更多捷径</p></li>
   <li class="list-group-item">越接近，越完美；用捷径，更轻松！</li></ul>
 <hr>
 <ul class="list-group">  <li class="list-group-item"><h4>
@@ -16,11 +16,11 @@
  <li class="list-group-item">
 <p>
 <a href="https://jiejinghe.com/shortcuts/7076318015">
-<img  border="10" src="https://i.loli.net/2019/07/06/5d2023f034fdc87936.png" alt="木子李" width="300" height="auto"></a></p></li>
+<img  border="10" src="https://i.loli.net/2019/07/06/5d202978cabee94282.png" alt="木子李" width="300" height="auto"></a></p></li>
  <li class="list-group-item">
 <p>
 <a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
-<img  border="10" src="https://i.loli.net/2019/07/06/5d20242d440b464640.png" alt="木子李" width="300" height="auto"></a></p></li>
+<img  border="10" src="https://i.loli.net/2019/07/06/5d2029f4094cc65363.png" alt="木子李" width="300" height="auto"></a></p></li>
  <li class="list-group-item">
 <p>
 <a href="https://jiejinghe.com/shortcuts/3548598087">
@@ -28,11 +28,11 @@
  <li class="list-group-item">
 <p>
 <a href="https://jiejinghe.com/shortcuts/3251736150">
-<img  border="10" src="https://i.loli.net/2019/07/06/5d202598d8c0f90903.png" alt="木子李" width="300" height="auto"></a></p></li>
+<img  border="10" src="https://i.loli.net/2019/07/06/5d202bb965e0330944.png" alt="木子李" width="300" height="auto"></a></p></li>
  <li class="list-group-item">
 <p>
 <a href="https://www.icloud.com/shortcuts/6fcb210155b047b8a609f0e87db7a6a8">
-<img  border="10" src="https://i.loli.net/2019/07/06/5d202368c650147442.png" alt="木子李" width="300" height="auto"></a></p></li>
+<img  border="10" src="https://i.loli.net/2019/07/06/5d202c774100c14856.png" alt="木子李" width="300" height="auto"></a></p></li>
   <li class="list-group-item">
 <a style="color: #d23f3f;text-decoration:none;" href="https://weibo.com/u/5090561214"><h3> 关注作者微博 </h3>
 <li class="list-group-item">
