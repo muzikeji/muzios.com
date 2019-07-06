@@ -43,7 +43,7 @@ div
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202c774100c14856.png" alt="木子李" width="300" height="auto"></a></p>
 <p>
  
-<div style="div"> <li class="list-group-item"><h1>联系作者</h1>
+<div style="0"> <li class="list-group-item"><h1>联系作者</h1>
 
 <p>
 <a href="mailto: 56794501@qq.com">
