@@ -20,7 +20,7 @@
   <li class="list-group-item">越接近，越完美；用捷径，更轻松！</li>
 <hr>
   <li class="list-group-item">
-<h4>⌘捷径推荐</h4><h5>点击捷径名称获取（iOS12下载历史版本</h5></li>
+<h4>⌘捷径推荐</h4><h5>点击捷径名称获取（iOS12下载历史版本）</h5></li>
 <p>
 <a href="https://jiejinghe.com/shortcuts/7076318015">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202978cabee94282.png" alt="木子李" width="300" height="auto"></a></p>
