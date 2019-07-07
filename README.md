@@ -22,19 +22,19 @@
 <h2>⌘捷径推荐</h2><h5>点击捷径名称获取（iOS12下载历史版本）</h5></li>
 
 <a href="https://jiejinghe.com/shortcuts/7076318015">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d213eb233b0c31057.png" alt="木子李" width="300" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d213eb233b0c31057.png" alt="木子李" width="350" height="auto"></a>
 
 <a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d213f5ea211a25101.png" alt="木子李" width="300" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d213f5ea211a25101.png" alt="木子李" width="350" height="auto"></a>
 
 <a href="https://jiejinghe.com/shortcuts/3251736150">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202bb965e0330944.png" alt="木子李" width="300" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202bb965e0330944.png" alt="木子李" width="350" height="auto"></a>
 
 <a href="https://jiejinghe.com/shortcuts/3548598087">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d20309c6a95a72537.png" alt="木子李" width="300" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d20309c6a95a72537.png" alt="木子李" width="350" height="auto"></a>
 
 <a href="https://www.icloud.com/shortcuts/6fcb210155b047b8a609f0e87db7a6a8">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202c774100c14856.png" alt="木子李" width="300" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202c774100c14856.png" alt="木子李" width="350" height="auto"></a>
 <p>
  
 <div style="clear:both"> <li class="list-group-item">
