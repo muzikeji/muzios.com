@@ -12,12 +12,13 @@
 </style>
 </head>
 
-  <li class="list-group-item"><h1>作者主页</h1><p>
+  <li class="list-group-item">
+<p>
 <a href="https://jiejinghe.com/users/6563404841">
-<img  border="10" src="https://i.loli.net/2019/06/27/5d14b5b33217297297.jpeg" alt="木子李" width="32" height="32"></a>点击头像查看更多捷径</p></li>
+<img  border="10" src="https://i.loli.net/2019/07/07/5d214ffc12e4311788.png" alt="木子李" width="100%" height="auto"></a></p></li>
   <li class="list-group-item">越接近，越完美；用捷径，更轻松！</li>
    <li class="list-group-item">
-<h4>⌘捷径推荐</h4><h5>点击捷径名称获取（iOS12下载历史版本）</h5></li>
+<h2>⌘捷径推荐</h2><h5>点击捷径名称获取（iOS12下载历史版本）</h5></li>
 
 <a href="https://jiejinghe.com/shortcuts/7076318015">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d213eb233b0c31057.png" alt="木子李" width="300" height="auto"></a>
