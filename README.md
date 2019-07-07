@@ -6,8 +6,6 @@
  .thumbnail
 {
 	float:left;
-	width:auto;
-	height:auto;
 	margin:5px;
 }
 
