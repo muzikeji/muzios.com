@@ -17,6 +17,7 @@
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="10" src="https://i.loli.net/2019/07/07/5d214ffc12e4311788.png" alt="木子李" width="100%" height="auto"></a></p></li>
   <li class="list-group-item">越接近，越完美；用捷径，更轻松！</li>
+<p>--------------------------------</p>
    <li class="list-group-item">
 <h2>⌘捷径推荐</h2><h5>点击捷径名称获取（iOS12下载历史版本）</h5></li>
 
