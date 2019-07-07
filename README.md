@@ -40,6 +40,6 @@
 <div style="clear:both"> <li class="list-group-item"><h1>联系作者</h1>
 
 <a href="mailto: 56794501@qq.com">
-<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/06/5d2071f9c95c226961.jpeg" alt="木子李" width="50" height="auto"></a>
+<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d215a05d508b18955.png" alt="木子李" width="50" height="auto"></a>
 <a href="https://weibo.com/u/5090561214">
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d21278c9f33e85383.jpeg" alt="木子李" width="50" height="auto"></a>
