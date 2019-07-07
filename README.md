@@ -17,7 +17,6 @@
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="10" src="https://i.loli.net/2019/07/07/5d214ffc12e4311788.png" alt="木子李" width="100%" height="auto"></a></p></li>
   <li class="list-group-item">越接近，越完美；用捷径，更轻松！</li>
-<p>----------------------------------------------------------------</p>
    <li class="list-group-item">
 <h2>⌘捷径推荐</h2><h5>点击捷径名称获取（iOS12下载历史版本）</h5></li>
 
@@ -39,7 +38,24 @@
  
 <div style="clear:both"> <li class="list-group-item"><h1>联系作者</h1>
 
-<a href="mailto: 56794501@qq.com">
+
+<a href="">
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d215a05d508b18955.png" alt="木子李" width="50" height="auto"></a>
+
 <a href="https://weibo.com/u/5090561214">
-<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d21278c9f33e85383.jpeg" alt="木子李" width="50" height="auto"></a>
+<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d215abad8ff958491.png" alt="木子李" width="50" height="auto"></a>
+
+<a href="http://v.douyin.com/kkpWm9/">
+<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d216a27b4acd10285.png" alt="木子李" width="50" height="auto"></a>
+
+<a href="https://i.loli.net/2019/07/07/5d21713ea8cde54484.png">
+<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d216e380ff8823531.png" alt="木子李" width="50" height="auto"></a>
+
+<a href="https://i.loli.net/2019/07/07/5d2171753d97057790.gif">
+<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d21702f19bb953560.png" alt="木子李" width="50" height="auto"></a>
+
+<a href="mqq://im/chat?chat_type=wpa&uin=56794501&version=1&src_type=web">
+<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d216e05110ad68168.png" alt="木子李" width="50" height="auto"></a>
+
+<a href="https://jq.qq.com/?_wv=1027&k=52kOjWC">
+<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d21707b0882377033.png" alt="木子李" width="50" height="auto"></a>
