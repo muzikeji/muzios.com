@@ -20,10 +20,10 @@
 <h4>⌘捷径推荐</h4><h5>点击捷径名称获取（iOS12下载历史版本）</h5></li>
 <p>
 <a href="https://jiejinghe.com/shortcuts/7076318015">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d212a55807ef43904.png" alt="木子李" width="300" height="auto"></a></p>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d213eb233b0c31057.png" alt="木子李" width="300" height="auto"></a></p>
 <p>
 <a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d212a8c82cc029497.png" alt="木子李" width="300" height="auto"></a></p>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d213f5ea211a25101.png" alt="木子李" width="300" height="auto"></a></p>
 <p>
 <a href="https://jiejinghe.com/shortcuts/3251736150">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/06/5d202bb965e0330944.png" alt="木子李" width="300" height="auto"></a></p>
