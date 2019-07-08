@@ -17,7 +17,8 @@ h5 {color:#000000;}
 </style>
 </head>
 <a href="https://jiejinghe.com/users/6563404841">
-<img  border="0" src="https://i.loli.net/2019/07/07/5d21f0823601198384.jpeg" alt="木子李" width="100%" height="auto"></a>
+<img  border="0" src="https://i.loli.net/2019/07/08/5d2302eb097e054357.png" alt="木子李" width="100%" height="auto"></a>
+
 
 <h1>⌘捷径推荐</h1>
 
@@ -36,7 +37,6 @@ h5 {color:#000000;}
 <a href="https://www.icloud.com/shortcuts/6fcb210155b047b8a609f0e87db7a6a8">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227a09ea8af13718.png" alt="木子李" width="400" height="auto"></a>
 <p>
-
 <h1>联系作者</h1>
 
 <a href="mailto: 56794501@qq.com">
