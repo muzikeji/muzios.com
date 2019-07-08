@@ -3,6 +3,14 @@
 <head>
    <meta charset="utf-8" />   
 <style>
+
+div
+{
+	background:url(https://i.loli.net/2019/07/08/5d22e1f4ee76623885.png);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+
  .thumbnail
 {
 	float:left;
@@ -11,6 +19,7 @@
 
 </style>
 </head>
+<div>
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://i.loli.net/2019/07/07/5d21f0823601198384.jpeg" alt="木子李" width="100%" height="auto"></a>
 
