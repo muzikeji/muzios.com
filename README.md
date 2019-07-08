@@ -4,16 +4,9 @@
    <meta charset="utf-8" />   
 <style>
 
-div
-{
-	background:url(https://i.loli.net/2019/07/08/5d22ea0d655c982565.png);
-	background-size:100% 100%;
-
-}
-
 body {color:#000000;}
-h1 {color:#ffffff;}
-h5 {color:#ffffff;}
+h1 {color:#000000;}
+h5 {color:#000000;}
 
  .thumbnail
 {
@@ -23,7 +16,6 @@ h5 {color:#ffffff;}
 
 </style>
 </head>
-<div>
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://i.loli.net/2019/07/07/5d21f0823601198384.jpeg" alt="木子李" width="100%" height="auto"></a>
 
