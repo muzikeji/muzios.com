@@ -13,7 +13,7 @@
 </head>
 <p>
 <a href="https://jiejinghe.com/users/6563404841">
-<img  border="0" src="https://i.loli.net/2019/07/08/5d22b393377ff10543.jpeg" alt="木子李" width="100%" height="150"></a></p>
+<img  border="0" src="https://i.loli.net/2019/07/08/5d22b393377ff10543.jpeg" alt="木子李" width="100%" height="auto"></a></p>
    <li class="list-group-item">
 <h2>⌘捷径推荐</h2><h5>点击捷径名称获取（iOS12下载历史版本）</h5></li>
 
