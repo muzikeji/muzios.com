@@ -13,7 +13,7 @@
 </head>
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://i.loli.net/2019/07/07/5d21f0823601198384.jpeg" alt="木子李" width="100%" height="auto"></a>
-  
+
 <h2>⌘捷径推荐</h2><h5>点击捷径名称获取（iOS12下载历史版本）</h5>
 
 <a href="https://jiejinghe.com/shortcuts/7076318015">
@@ -56,4 +56,4 @@
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d2190199d6b528735.png" alt="木子李" width="50" height="auto"></a>
 
 <a href="https://jq.qq.com/?_wv=1027&k=5T9JYqT">
-<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c5243693423646.jpeg" alt="木子李" width="50" height="auto"></a>
+<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c9528370440157.jpeg" alt="木子李" width="50" height="auto"></a>
