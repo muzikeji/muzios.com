@@ -44,8 +44,6 @@ h5 {color:#ffffff;}
 <a href="https://www.icloud.com/shortcuts/6fcb210155b047b8a609f0e87db7a6a8">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227a09ea8af13718.png" alt="木子李" width="400" height="auto"></a>
 <p>
- 
-<style="clear:both"> 
 <h1>联系作者</h1>
 
 <a href="mailto: 56794501@qq.com">
