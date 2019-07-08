@@ -6,7 +6,7 @@
 
 div
 {
-	background:url(https://i.loli.net/2019/07/08/5d22e3a9cd59e10671.jpeg);
+	background:url(https://i.loli.net/2019/07/08/5d22ea0d655c982565.png);
 	background-size:100% 100%;
 
 }
