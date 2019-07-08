@@ -11,7 +11,7 @@ div
 
 }
 
-body {color:#ffffff;}
+body {color:#000000;}
 h1 {color:#ffffff;}
 h5 {color:#ffffff;}
 
