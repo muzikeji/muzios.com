@@ -1,5 +1,6 @@
 
 
+
 <html>
 <head>
    <meta charset="utf-8" />   
@@ -23,26 +24,31 @@ h5 {color:#000000;}
 
 </style>
 </head>
+
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://i.loli.net/2019/07/08/5d2302eb097e054357.png" alt="木子李" width="100%" height="auto"></a>
+
+
 <h1>⌘捷径推荐</h1>
 
 <a href="https://jiejinghe.com/shortcuts/7076318015">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d21d9592cc1430268.png" alt="木子李" width="400" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d21d9592cc1430268.png" alt="木子李" width="300" height="auto"></a>
 
 <a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d2278c05448766573.png" alt="木子李" width="400" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d2278c05448766573.png" alt="木子李" width="300" height="auto"></a>
 
 <a href="https://jiejinghe.com/shortcuts/3251736150">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227b6ed63a266271.png" alt="木子李" width="400" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227b6ed63a266271.png" alt="木子李" width="300" height="auto"></a>
 
 <a href="https://jiejinghe.com/shortcuts/3548598087">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227953f236d36006.png" alt="木子李" width="400" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227953f236d36006.png" alt="木子李" width="300" height="auto"></a>
 
 <a href="https://www.icloud.com/shortcuts/6fcb210155b047b8a609f0e87db7a6a8">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227a09ea8af13718.png" alt="木子李" width="400" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227a09ea8af13718.png" alt="木子李" width="300" height="auto"></a>
+<p>
 
-<h1 class="text_line">联系作者</h1>
+<h1 class="text_line"> ✆联系作者</h1>
+
 
 <a href="mailto: 56794501@qq.com">
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d21902b5cd7c55863.png" alt="木子李" width="50" height="auto"></a>
