@@ -45,8 +45,7 @@ h5 {color:#ffffff;}
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227a09ea8af13718.png" alt="木子李" width="400" height="auto"></a>
 <p>
  
-<style="clear:both"> <li class="list-group-item">
-<p> ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃</p>
+<style="clear:both"> 
 <h1>联系作者</h1>
 
 <a href="mailto: 56794501@qq.com">
