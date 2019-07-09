@@ -103,5 +103,4 @@ li a:hover:not(.active) {
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c9528370440157.jpeg" alt="木子李" width="50" height="auto"></a>
 
 
-</body>
-</html>
+
