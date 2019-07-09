@@ -51,7 +51,7 @@ li a:hover:not(.active) {
 <ul>
   <li><a class="active" href="http://jiejingkeji.top">主页</a></li>
   <li><a href="https://jiejinghe.com/search">捷径搜索</a></li>
-  <li><a href="#contact">联系</a></li>
+  <li><a href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
   <li><a href="https://mzljjkj.github.io/.github.io/">关于</a></li>
 </ul>
 
