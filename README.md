@@ -48,13 +48,12 @@ li a:hover:not(.active) {
 <img  border="0" src="https://i.loli.net/2019/07/08/5d2302eb097e054357.png" alt="木子李" width="100%" height="auto"></a>
 <ul>
   <li><a class="active" href="http://jiejingkeji.top">主页</a></li>
-  <li><a href="#news">新闻</a></li>
+  <li><a href="https://jiejinghe.com/search">捷径搜索🔍</a></li>
   <li><a href="#contact">联系</a></li>
-  <li><a href="#about">关于</a></li>
+  <li><a href="https://mzljjkj.github.io/.github.io/">关于捷径</a></li>
 </ul>
 
 
-<h1>⌘捷径推荐</h1>
 
 <a href="https://jiejinghe.com/shortcuts/7076318015">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d21d9592cc1430268.png" alt="木子李" width="315" height="auto"></a>
