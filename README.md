@@ -45,6 +45,12 @@ h5 {color:#000000;}
 
 <a href="https://www.icloud.com/shortcuts/6fcb210155b047b8a609f0e87db7a6a8">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227a09ea8af13718.png" alt="木子李" width="315" height="auto"></a>
+
+<a href="https://jiejinghe.com/shortcuts/3012186721">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d232cf589cab38531.png" alt="木子李" width="315" height="auto"></a>
+
+<a href="https://jiejinghe.com/shortcuts/5138320051">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/09/5d23f3ae3fb4931879.png" alt="木子李" width="315" height="auto"></a>
 <p>
 
 <h1 class="text_line"> ✆联系作者</h1>
