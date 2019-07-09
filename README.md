@@ -1,14 +1,34 @@
-
-
-
 <html>
 <head>
-   <meta charset="utf-8" />   
+<meta charset="utf-8">
 <style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
 
-body {color:#000000;}
-h1 {color:#000000;}
-h5 {color:#000000;}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
 
  .thumbnail
 {
@@ -21,12 +41,17 @@ h5 {color:#000000;}
 	clear:both;
 	margin-bottom:2px;
 }
-
 </style>
 </head>
 
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://i.loli.net/2019/07/08/5d2302eb097e054357.png" alt="木子李" width="100%" height="auto"></a>
+<ul>
+  <li><a class="active" href="http://jiejingkeji.top">主页</a></li>
+  <li><a href="#news">新闻</a></li>
+  <li><a href="#contact">联系</a></li>
+  <li><a href="#about">关于</a></li>
+</ul>
 
 
 <h1>⌘捷径推荐</h1>
@@ -76,3 +101,7 @@ h5 {color:#000000;}
 
 <a href="https://jq.qq.com/?_wv=1027&k=5T9JYqT">
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c9528370440157.jpeg" alt="木子李" width="50" height="auto"></a>
+
+
+</body>
+</html>
