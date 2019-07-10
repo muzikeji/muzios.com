@@ -53,6 +53,16 @@ border:5px solid gray;
 margin:0px;
 }
 
+.goToTop {
+    position: fixed;
+    right: 0;
+    bottom: 10px;
+    z-index: 200;
+    width: 20px;
+    background-color: #2e6da4;
+}
+
+
 </style>
 </head>
 
@@ -96,3 +106,10 @@ margin:0px;
 <h2>®️版权所有|盗版必究</h2>
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="mailto:56794501@qq.com">致信给我们</a>，我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
 </div>
+
+<div class="content">
+</div>
+<div class="goToTop none">
+        ⇧
+</div>
+
