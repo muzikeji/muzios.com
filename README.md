@@ -66,6 +66,8 @@ margin:0px;
 </style>
 </head>
 
+<div class="content">
+
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="100%" height="auto"></a>
 <ul>
@@ -105,9 +107,7 @@ margin:0px;
 <div class="ex">
 <h2>®️版权所有|盗版必究</h2>
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="mailto:56794501@qq.com">致信给我们</a>，我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
-</div>
 
-<div class="content">
 </div>
 <div class="goToTop none">
         ⇧
