@@ -86,7 +86,7 @@ li a:hover:not(.active) {
 <a href="https://jiejinghe.com/shortcuts/5138320051">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/09/5d23f3ae3fb4931879.png" alt="木子李" width="320" height="auto"></a>
 
-<h2 id="example1"class="text_line" >
-®️版权所有|盗版必究</h2>
+<div id="example1"class="text_line" >
+<h2>®️版权所有|盗版必究</h2>
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="56794501@qq.com&subject=Summer%20Party&body=You%20are%20invited%20to%20a%20big%20summer%20party!" target="_top">致信给我们</a>我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
 </div>
