@@ -57,7 +57,7 @@ margin:0px;
 </head>
 
 <a href="https://jiejinghe.com/users/6563404841">
-<img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="100%" height="auto"></a>
+<img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="auto" height="auto"></a>
 <ul>
   <li><a class="active" href="http://jiejingkeji.top">主页</a></li>
   <li><a href="https://jiejinghe.com/search">捷径搜索</a></li>
@@ -108,7 +108,7 @@ important;height:40px !important;" src="http://pic.kuaizhan.com/g2/M00/71/9D/wKj
          <img style="position:fixed;right:0; bottom:100px; z-index:99999; width:40px !
 important;height:40px!important;" src="http://pic.kuaizhan.com/g2/M00/71/80/CgpQVFbSmpCAdtMEAAEO6ESdBwI3920068" />
  
-
+</div>
 
  
  
