@@ -96,19 +96,19 @@ margin:0px;
 <h2>®️版权所有|盗版必究</h2>
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="mailto:56794501@qq.com">致信给我们</a>，我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
 </div>
+  <div style='height:50px; line-height:50px; text-align:center; color: #b2b2b2;'>
+ 
+    <a href="http://jiejingkeji.top">
+ 
+        <img style="position:fixed;right:0; bottom:160px; z-index:99999; width:40px !
+important;height:40px !important;" src="http://pic.kuaizhan.com/g2/M00/71/9D/wKjmqlbSmoyAYCswAAEVnPTZD8E8141345" />
+ 
+    <a style="z-index:99999;" id="goTop" href="#">
+ 
+         <img style="position:fixed;right:0; bottom:100px; z-index:99999; width:40px !
+important;height:40px!important;" src="http://pic.kuaizhan.com/g2/M00/71/80/CgpQVFbSmpCAdtMEAAEO6ESdBwI3920068" />
+ 
+</div>
 
-    $(".phone").hide();
-    //检测屏幕高度
-    var height=$(window).height();
-    //scroll() 方法为滚动事件
-     $(window).scroll(function(){
-          if ($(window).scrollTop()>height){
-             $(".phone").fadeIn(500);
-          }else{
-             $(".phone").fadeOut(500);
-          }
-     });
-     $(".phone .top").click(function(){
-          $('body,html').animate({scrollTop:0},100);
-          return false;
-     });
+ 
+ 
