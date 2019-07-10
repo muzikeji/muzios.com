@@ -59,7 +59,7 @@ margin:0px;
 </head>
 
 <a href="https://jiejinghe.com/users/6563404841">
-<img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="auto" height="auto"></a>
+<img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="350" height="auto"></a>
 <p>
 <ul>
   <li><a class="active" href="http://jiejingkeji.top">主页</a></li>
