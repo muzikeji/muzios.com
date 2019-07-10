@@ -80,7 +80,7 @@ li a:hover:not(.active) {
 <a href="https://jiejinghe.com/shortcuts/5138320051">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/09/5d23f3ae3fb4931879.png" alt="木子李" width="320" height="auto"></a>
 
-<div id="example1"style="border: 10px dotted black;
+<div id="content"style="border: 10px dotted black;
     padding:35px;
     background: yellow;">
 <h2 class="text_line" >®️版权所有|盗版必究</h2>
