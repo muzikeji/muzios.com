@@ -86,29 +86,6 @@ li a:hover:not(.active) {
 <a href="https://jiejinghe.com/shortcuts/5138320051">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/09/5d23f3ae3fb4931879.png" alt="木子李" width="320" height="auto"></a>
 
-<h1 class="text_line"> ✆联系作者</h1>
-
-
-<a href="mailto: 56794501@qq.com">
-<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d21902b5cd7c55863.png" alt="木子李" width="50" height="auto"></a>
-
-<a href="https://weibo.com/u/5090561214">
-<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d21c121bc83c83026.jpeg" alt="木子李" width="50" height="auto"></a>
-
-<a href="http://v.douyin.com/kkpWm9/">
-<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d218fdd7a67410088.png" alt="木子李" width="50" height="auto"></a>
-
-<a href="https://mp.weixin.qq.com/s/H1uzFtYreGPrtRRya0UQ5Q">
-<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d219005d7f9227300.png" alt="木子李" width="50" height="auto"></a>
-
-<a href="https://mp.weixin.qq.com/s/H1uzFtYreGPrtRRya0UQ5Q">
-<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c699517b323151.jpeg" alt="木子李" width="50" height="auto"></a>
-
-<a href="mqq://im/chat?chat_type=wpa&uin=56794501&version=1&src_type=web">
-<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d2190199d6b528735.png" alt="木子李" width="50" height="auto"></a>
-
-<a href="https://jq.qq.com/?_wv=1027&k=5T9JYqT">
-<img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c9528370440157.jpeg" alt="木子李" width="50" height="auto"></a>
 <div id="example1">
 <h2 class="text_line" >®️版权所有|盗版必究</h2>
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="56794501@qq.com&subject=Summer%20Party&body=You%20are%20invited%20to%20a%20big%20summer%20party!" target="_top">致信给我们</a>我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
