@@ -43,6 +43,13 @@ li a:hover:not(.active) {
 	clear:both;
 	margin-bottom:2px;
 }
+
+#example1 {
+    border: 10px dotted black;
+    padding:35px;
+    background: yellow;
+}
+
 </style>
 </head>
 
@@ -54,6 +61,7 @@ li a:hover:not(.active) {
   <li><a href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
   <li><a href="https://mzljjkj.github.io/.github.io/">关于</a></li>
 </ul>
+
 
 
 
@@ -77,7 +85,6 @@ li a:hover:not(.active) {
 
 <a href="https://jiejinghe.com/shortcuts/5138320051">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/09/5d23f3ae3fb4931879.png" alt="木子李" width="320" height="auto"></a>
-<p>
 
 <h1 class="text_line"> ✆联系作者</h1>
 
@@ -102,3 +109,7 @@ li a:hover:not(.active) {
 
 <a href="https://jq.qq.com/?_wv=1027&k=5T9JYqT">
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c9528370440157.jpeg" alt="木子李" width="50" height="auto"></a>
+<div id="example1"class="text_line">
+<h2>®️版权所有|盗版必究</h2>
+<p>如果本站内容存在侵权，请提供相关专利证书<a href="56794501@qq.com&subject=Summer%20Party&body=You%20are%20invited%20to%20a%20big%20summer%20party!" target="_top">致信给我们</a>我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
+</div>
