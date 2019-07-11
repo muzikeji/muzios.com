@@ -59,7 +59,7 @@ margin:0px;
 </head>
 
 <a href="https://jiejinghe.com/users/6563404841">
-<img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="350" height="auto"></a>
+<img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="auto" height="auto"></a>
 <p>
 <ul>
   <li><a class="active" href="http://jiejingkeji.top">主页</a></li>
@@ -72,32 +72,32 @@ margin:0px;
 <h2> iPhone <b><a href="https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334" target="_blank">快捷指令</a></b> </h2>
 
 
-<a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d2278c05448766573.png" alt="木子李" width="320" height="auto"></a>
-
-<a href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/10/5d25adbcd8bb951049.png" alt="木子李" width="320" height="auto"></a>
-
-<a href="https://jiejinghe.com/shortcuts/3548598087">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227953f236d36006.png" alt="木子李" width="320" height="auto"></a>
-
-<a href="https://jiejinghe.com/shortcuts/7076318015">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/07/5d21d9592cc1430268.png" alt="木子李" width="320" height="auto"></a>
-
-<a href="https://www.icloud.com/shortcuts/70c4694448e34cad870a87eb63688446">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/10/5d25af95d1b4082245.png" alt="木子李" width="320" height="auto"></a>
+<a href="https://jiejinghe.com/shortcuts/5138320051">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d5195fca883375.png" alt="木子李" width="320" height="auto"></a>
 
 <a href="https://jiejinghe.com/shortcuts/3012186721">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d232cf589cab38531.png" alt="木子李" width="320" height="auto"></a>
 
+<a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d89d18ca722566.png" alt="木子李" width="320" height="auto"></a>
+
 <a href="https://jiejinghe.com/shortcuts/3251736150">
 <img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227b6ed63a266271.png" alt="木子李" width="320" height="auto"></a>
 
-<a href="https://www.icloud.com/shortcuts/6fcb210155b047b8a609f0e87db7a6a8">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227a09ea8af13718.png" alt="木子李" width="320" height="auto"></a>
+<a href="https://jiejinghe.com/shortcuts/6351217277">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d663df39280845.png" alt="木子李" width="320" height="auto"></a>
 
-<a href="https://jiejinghe.com/shortcuts/5138320051">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/09/5d23f3ae3fb4931879.png" alt="木子李" width="320" height="auto"></a>
+<a href="https://jiejinghe.com/shortcuts/3548598087">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227953f236d36006.png" alt="木子李" width="320" height="auto"></a>
+
+<a href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d74e8a9c428320.png" alt="木子李" width="320" height="auto"></a>
+
+<a href="https://jiejinghe.com/shortcuts/7076318015">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d57e3960631991.png" alt="木子李" width="320" height="auto"></a>
+
+<a href="https://www.icloud.com/shortcuts/70c4694448e34cad870a87eb63688446">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d7e5cc1a948988.png" alt="木子李" width="320" height="auto"></a>
 
 <h2 class="text_line"> </h2>
 
