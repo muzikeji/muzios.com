@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <style>
 
-<Link Rel="SHORTCUT ICON" href="blob/master/3B7AF51B-28D8-4C91-BC73-AC27EBEA0107.ico">
+<Link Rel="SHORTCUT ICON" href="https://github.com/mzljjkj/shortcut.github.io/3B7AF51B-28D8-4C91-BC73-AC27EBEA0107.ico">
 h1 { display:none; }
 
 ul {
