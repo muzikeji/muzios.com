@@ -4,8 +4,6 @@
 <meta charset="utf-8">
 <style>
 h1 { display:none; }
-
-<Link Rel="SHORTCUT ICON" href="https://raw.githubusercontent.com/mzljjkj/shortcut.github.io/master/3B7AF51B-28D8-4C91-BC73-AC27EBEA0107.ico">
 ul {
     list-style-type: none;
     margin: 0;
