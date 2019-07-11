@@ -3,7 +3,10 @@
 <head>
 <meta charset="utf-8">
 <style>
+
+<Link Rel="SHORTCUT ICON" href="blob/master/3B7AF51B-28D8-4C91-BC73-AC27EBEA0107.ico">
 h1 { display:none; }
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -71,31 +74,31 @@ margin:0px;
 
 
 <a href="https://jiejinghe.com/shortcuts/3251736150">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227b6ed63a266271.png" alt="木子李" width="320" height="auto"></a>
-
-<a href="https://jiejinghe.com/shortcuts/5138320051">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d5195fca883375.png" alt="木子李" width="320" height="auto"></a>
-
-<a href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d74e8a9c428320.png" alt="木子李" width="320" height="auto"></a>
-
-<a href="https://www.icloud.com/shortcuts/70c4694448e34cad870a87eb63688446">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d7e5cc1a948988.png" alt="木子李" width="320" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/08/5d227b6ed63a266271.png" alt="加载失败请刷新页面或稍后再试！" width="320" height="auto"></a>
 
 <a href="https://jiejinghe.com/shortcuts/7076318015">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d57e3960631991.png" alt="木子李" width="320" height="auto"></a>
-
-<a href="https://jiejinghe.com/shortcuts/6351217277">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d663df39280845.png" alt="木子李" width="320" height="auto"></a>
-
-<a href="https://jiejinghe.com/shortcuts/3548598087">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26fc327b93b37987.png" alt="木子李" width="320" height="auto"></a>
-
-<a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d89d18ca722566.png" alt="木子李" width="320" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d57e3960631991.png" alt="加载失败请刷新页面或稍后再试！" width="320" height="auto"></a>
 
 <a href="https://jiejinghe.com/shortcuts/3012186721">
-<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26fccb1cac528344.png" alt="木子李" width="320" height="auto"></a>
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26fccb1cac528344.png" alt="加载失败请刷新页面或稍后再试！" width="320" height="auto"></a>
+
+<a href="https://jiejinghe.com/shortcuts/3548598087">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26fc327b93b37987.png" alt="加载失败请刷新页面或稍后再试！" width="320" height="auto"></a>
+
+<a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d89d18ca722566.png" alt="加载失败请刷新页面或稍后再试！" width="320" height="auto"></a>
+
+<a href="https://www.icloud.com/shortcuts/70c4694448e34cad870a87eb63688446">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d7e5cc1a948988.png" alt="加载失败请刷新页面或稍后再试！" width="320" height="auto"></a>
+
+<a href="https://jiejinghe.com/shortcuts/6351217277">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d663df39280845.png" alt="加载失败请刷新页面或稍后再试！" width="320" height="auto"></a>
+
+<a href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d74e8a9c428320.png" alt="加载失败请刷新页面或稍后再试！" width="320" height="auto"></a>
+
+<a href="https://jiejinghe.com/shortcuts/5138320051">
+<img  class="thumbnail"  src="https://i.loli.net/2019/07/11/5d26d5195fca883375.png" alt="加载失败请刷新页面或稍后再试！" width="320" height="auto"></a>
 
 <h2 class="text_line"> </h2>
 
