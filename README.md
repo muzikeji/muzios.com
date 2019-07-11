@@ -1,10 +1,11 @@
 
 <html>
 <head>
-<meta charset="utf-8">
-<style>
 
 <Link Rel="SHORTCUT ICON" href="https://github.com/mzljjkj/shortcut.github.io/3B7AF51B-28D8-4C91-BC73-AC27EBEA0107.ico">
+
+<meta charset="utf-8">
+<style>
 h1 { display:none; }
 
 ul {
