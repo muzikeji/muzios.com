@@ -56,6 +56,44 @@ margin:0px;
 </style>
 </head>
 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+<script src="http://static.tctip.com/tctip-1.0.0.min.js"></script>
+  <script> 
+  new tctip({
+    top: '20%',
+    button: {
+      id: 9,
+      type: 'dashang',
+    },
+    list: [
+      {
+        type: 'alipay',
+        qrImg: 'https://i.loli.net/2019/07/12/5d285df748ae074375.jpeg'
+      }, {
+        type: 'wechat',
+        qrImg: 'https://i.loli.net/2019/07/12/5d285de44c0bb21128.jpeg'
+      }
+    ]
+  }).init()
+  </script>
+
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="auto" height="auto"></a>
 <p>
