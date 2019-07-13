@@ -70,7 +70,7 @@ margin:0px;
         qrImg: 'https://i.loli.net/2019/07/12/5d285df748ae074375.jpeg'
       }, {
         type: 'wechat',
-        qrImg: 'https://i.loli.net/2019/07/12/5d285de44c0bb21128.jpeg'
+        qrImg: 'https://i.loli.net/2019/07/13/5d29c73a1ca1a34856.jpg'
       }
     ]
   }).init()
