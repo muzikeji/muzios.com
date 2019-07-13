@@ -67,10 +67,10 @@ margin:0px;
     list: [
       {
         type: 'alipay',
-        qrImg: 'https://i.loli.net/2019/07/12/5d285df748ae074375.jpeg'
+        qrImg: 'https://raw.githubusercontent.com/mzljjkj/-/master/3E89A7CC-04E9-4EAB-B065-CC6DAB054F7C.jpeg'
       }, {
         type: 'wechat',
-        qrImg: 'https://i.loli.net/2019/07/13/5d29c73a1ca1a34856.jpg'
+        qrImg: 'https://raw.githubusercontent.com/mzljjkj/-/master/FD823FC2-8204-4284-ADC6-ED0731C67DF6.jpeg'
       }
     ]
   }).init()
