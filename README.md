@@ -35,7 +35,7 @@ li a:hover:not(.active) {
  .thumbnail
 {
 	float:left;
-	margin:5px;
+	margin:2px;
 }
 
 .text_line
