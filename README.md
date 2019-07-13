@@ -19,8 +19,8 @@ li {
 li a {
     display: block;
     color: white;
-    text-align: center;
-    padding: 10px 10px;
+    text-align: left;
+    padding: 14px 16px;
     text-decoration: none;
 }
 
@@ -35,7 +35,7 @@ li a:hover:not(.active) {
  .thumbnail
 {
 	float:left;
-	margin:2px;
+	margin:5px;
 }
 
 .text_line
@@ -83,7 +83,6 @@ margin:0px;
   <li><a class="active" href="http://muzikeji.cn/">主页</a></li>
   <li><a href="https://jiejinghe.com/search">搜索</a></li>
  <li><a href="http://jiejingkeji.top">关于捷径</a></li>
-
   <li><a href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
  
 </ul>
@@ -91,22 +90,16 @@ margin:0px;
 
 <h2> iPhone <b><a href="https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334" target="_blank">快捷指令</a></b> </h2>
 
+<img class="thumbnail" src="https://i.loli.net/2019/07/13/5d297bc30a77717875.png" width="320" height="178" alt="Planets" usemap="#8">
+
+<map name="8">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467">
+
+</map>
 <img class="thumbnail" src="https://i.loli.net/2019/07/13/5d29788e4281f40730.png" width="320" height="178" alt="Planets" usemap="#5">
 
 <map name="5">
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/6351217277">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/13/5d297c6c91a0112317.png" width="320" height="178" alt="Planets" usemap="#9">
-
-<map name="9">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/70c4694448e34cad870a87eb63688446">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/13/5d2979ffe323617255.png" width="320" height="178" alt="Planets" usemap="#4">
-
-<map name="4">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3548598087">
 
 </map>
 <img class="thumbnail" src="https://i.loli.net/2019/07/13/5d29d1377f6a368591.png" width="320" height="178" alt="Planets" usemap="#7">
@@ -115,22 +108,10 @@ margin:0px;
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/5138320051">
 
 </map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/13/5d2978df0c8ff75144.png" width="320" height="178" alt="Planets" usemap="#2">
+<img class="thumbnail" src="https://i.loli.net/2019/07/13/5d297c6c91a0112317.png" width="320" height="178" alt="Planets" usemap="#9">
 
-<map name="2">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/13/5d29798e4daa864893.png" width="320" height="178" alt="Planets" usemap="#3">
-
-<map name="3">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/13/5d297bc30a77717875.png" width="320" height="178" alt="Planets" usemap="#8">
-
-<map name="8">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467">
+<map name="9">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/70c4694448e34cad870a87eb63688446">
 
 </map>
 <img class="thumbnail" src="https://i.loli.net/2019/07/13/5d2977dcac5e335282.png" width="320" height="178" alt="Planets" usemap="#1">
@@ -139,12 +120,31 @@ margin:0px;
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/7076318015">
 
 </map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/13/5d29798e4daa864893.png" width="320" height="178" alt="Planets" usemap="#3">
+
+<map name="3">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6">
+
+</map>
 <img class="thumbnail" src="https://i.loli.net/2019/07/13/5d297adaadbc139608.png" width="320" height="178" alt="Planets" usemap="#6">
 
 <map name="6">
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3012186721">
 
 </map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/13/5d2978df0c8ff75144.png" width="320" height="178" alt="Planets" usemap="#2">
+
+<map name="2">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/13/5d2979ffe323617255.png" width="320" height="178" alt="Planets" usemap="#4">
+
+<map name="4">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3548598087">
+
+</map>
+<h3> <a href="https://jiejinghe.com/users/6563404841">更多</a>
 
 <h2 class="text_line"> </h2>
 
