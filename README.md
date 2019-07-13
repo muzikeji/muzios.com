@@ -80,7 +80,7 @@ margin:0px;
 <img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="auto" height="auto"></a>
 <p>
 <ul>
-  <li><a class="active" href="http://jiejingkeji.top">主页</a></li>
+  <li><a class="active" href="http://muzikeji.cn/">主页</a></li>
   <li><a href="https://jiejinghe.com/search">搜索</a></li>
  <li><a href="https://mzljjkj.github.io/.github.io/">关于捷径</a></li>
   <li><a href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
@@ -154,7 +154,7 @@ margin:0px;
 </div>
   <div style='height:50px; line-height:50px; text-align:center; color: #b2b2b2;'>
  
-    <a href="http://jiejingkeji.top">
+    <a href="http://muzikeji.cn/">
  
         <img style="position:fixed;right:0; bottom:160px; z-index:99999; width:35px !
 important;height:35px !important;" src="http://pic.kuaizhan.com/g2/M00/71/9D/wKjmqlbSmoyAYCswAAEVnPTZD8E8141345" />
