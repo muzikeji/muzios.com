@@ -19,8 +19,8 @@ li {
 li a {
     display: block;
     color: white;
-    text-align: left;
-    padding: 14px 16px;
+    text-align: center;
+    padding: 10px 10px;
     text-decoration: none;
 }
 
@@ -83,6 +83,7 @@ margin:0px;
   <li><a class="active" href="http://muzikeji.cn/">主页</a></li>
   <li><a href="https://jiejinghe.com/search">搜索</a></li>
  <li><a href="http://jiejingkeji.top">关于捷径</a></li>
+ <li><a href="http://jiejingkeji.top">其他</a></li>
   <li><a href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
  
 </ul>
