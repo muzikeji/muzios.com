@@ -68,7 +68,7 @@ margin:0px;
     list: [
       {
         type: 'alipay',
-        qrImg: 'muzikeji.cn/IMG_0716.jpg'
+        qrImg: '/IMG_0716.jpg'
       }, {
         type: 'wechat',
         qrImg: 'https://raw.githubusercontent.com/mzljjkj/-/master/FD823FC2-8204-4284-ADC6-ED0731C67DF6.jpeg'
