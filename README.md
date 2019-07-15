@@ -46,7 +46,7 @@ li a:hover:not(.active) {
 
 div.ex
 {
-background-color: yellow;
+background-color: #efed93;
 width:auto;
 padding:10px;
 border:5px solid gray;
