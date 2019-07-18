@@ -60,7 +60,7 @@ margin:0px;
 
 p1 {border-style:solid;}
 
-p1.outset {border-bottom-style:outset;align-items: center;}
+p1.outset {border-bottom-style:outset; class="content"}
 
 </style>
 </head>
