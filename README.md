@@ -46,17 +46,77 @@ li a:hover:not(.active) {
 
 div.ex
 {
-background-color: #f9fb13;
-h2 {text-align:center;}
+background-color: yellow;
 width:auto;
 padding:10px;
 border:5px solid gray;
 margin:0px;
 }
+    #container {
+            width: 380px;
+            height:175px;
+            border: 10px solid #eee;
+            position: relative;
+            background: gray;
+            margin: 10px auto 0;
+        }
+        #prev, #next {
+            position: absolute;
+            background: black;
+            filter:alpha(opacity:40);
+            opacity: 0.4;
+            font-size: 20px;
+            color: white;
+            width: 40px;
+            height: 40px;
+            border: 2px solid white;
+            line-height: 40px;
+            text-align: center;
+            top: 80px;
+            pointer: cursor;
+            text-decoration: none;
+        }
+        #prev:hover, #next:hover {
+            filter:alpha(opacity:80);
+            opacity: 0.8;
+        }
+        #order, #info {
+            position: absolute;
+            width:100%;
+            height: 30px;
+            line-height: 30px;
+            text-align: center;
+            background: black;
+            filter:alpha(opacity:60);
+            opacity: 0.6;
+            font-size: 20px;
+            color: white;
+        }
+        #prev {
+            left: 0;
+        }
+        #next {
+            right: 0;
+        }
+        #picture {
+            height: 175px;
+            width: 380px;
+        }
+        #order {
+            top: 0;
+        }
+        #info {
+            bottom: 0;
+        }
+
+p1 {border-style:solid;}
+
+p1.outset {border-bottom-style:outset;align-items: center;}
 
 </style>
 </head>
 
+ 
 <script src="http://static.tctip.com/tctip-1.0.0.min.js"></script>
   <script> 
   new tctip({
@@ -68,7 +128,7 @@ margin:0px;
     list: [
       {
         type: 'alipay',
-        qrImg: 'https://raw.githubusercontent.com/mzljjkj/muzikeji.cn/master/IMG_0717.JPG'
+        qrImg: 'https://raw.githubusercontent.com/mzljjkj/-/master/3E89A7CC-04E9-4EAB-B065-CC6DAB054F7C.jpeg'
       }, {
         type: 'wechat',
         qrImg: 'https://raw.githubusercontent.com/mzljjkj/-/master/FD823FC2-8204-4284-ADC6-ED0731C67DF6.jpeg'
@@ -80,6 +140,67 @@ margin:0px;
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="auto" height="auto"></a>
 <p>
+  <script>
+
+        window.onload = function(){
+            //获取网页信息
+            var oRound = document.getElementById('round'),
+                    oSingle = document.getElementById('single'),
+                    oPrev = document.getElementById('prev'),
+                    oNext = document.getElementById('next'),
+                    oOrder = document.getElementById('order'),
+                    oInfo = document.getElementById('info'),
+                    oPicture = document.getElementById('picture'),
+                    arrPic = ["https://i.loli.net/2019/07/14/5d2addf664c4160102.png", "https://i.loli.net/2019/07/16/5d2dbdd3722fb42534.png", "3.jpg", "4.jpg"],//
+                    arrInfo = ["主页", "me", "sister", "dad"],//
+                    interval=3000,
+                    timer,
+                    i = 0;
+
+            function changeTab() {
+                oOrder.innerHTML = i + 1 + ' / ' + arrPic.length;
+                oInfo.innerHTML = arrInfo[i];
+                oPicture.src = arrPic[i];
+            }
+            changeTab();//初始化轮番图片
+
+            // 向后翻页
+            oNext.onclick = function(){
+                i++;
+                if(i>3) {
+                    i = 0;
+                }
+                changeTab();
+            }
+            // 向前翻页
+            oPrev.onclick = function(){
+                i--;
+                if(i<0) {
+                    i = 3;
+                }
+                changeTab();
+            }
+          // 自动轮番
+            function play() {
+                timer = setTimeout(function () {
+                    oNext.onclick();
+                    play();
+                }, interval);
+            }
+            play();
+        }
+
+    </script>
+</head>
+<body>
+<div id="container">
+    <a id="prev" href="javascript:"><</a>
+    <a id="next" href="javascript:">></a>
+    <div id="order">1 / 4</div>
+    <div id="info">图片一</div>
+<a href="http://muzikeji.cn/">
+    <img id="picture" src="https://i.loli.net/2019/07/14/5d2addf664c4160102.png">
+</div>
 <ul>
   <li><a class="active" href="http://muzikeji.cn/">主页</a></li>
   <li><a href="https://jiejinghe.com/search">搜索</a></li>
@@ -88,61 +209,90 @@ margin:0px;
  
 </ul>
 
-
+<p1 class="outset"> <a href="data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KPG1ldGEgY2hhcnNldD0iVVRG
+LTgiPgo8dGl0bGUgaWQ9IkpfZGVza3RvcFRpdGxlIj4g55Sf5oiQVVJMIFNjaGVt
+ZXPlm77moIfliLDmoYzpnaIgYnkgV2l0aENCPC90aXRsZT4KPG1ldGEgY29udGVu
+dD0ieWVzIiBuYW1lPSJhcHBsZS10b3VjaC1mdWxsc2NyZWVuIj4KPG1ldGEgY29u
+dGVudD0ieWVzIiBuYW1lPSJhcHBsZS1tb2JpbGUtd2ViLWFwcC1jYXBhYmxlIj4K
+PG1ldGEgY29udGVudD0id2hpdGUiIG5hbWU9ImFwcGxlLW1vYmlsZS13ZWItYXBw
+LXN0YXR1cy1iYXItc3R5bGUiPgo8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVu
+dD0id2lkdGg9ZGV2aWNlLXdpZHRoLGluaXRpYWwtc2NhbGU9MSxtaW5pbXVtLXNj
+YWxlPTEsbWF4aW11bS1zY2FsZT0xLG1pbmltYWwtdWkiPjxsaW5rIGlkPSJKX2Rl
+c2t0b3BJY29uIiBzaXplcz0iMTE0eDExNCIgcmVsPSJhcHBsZS10b3VjaC1pY29u
+LXByZWNvbXBvc2VkIj48L2hlYWQ+PHNjcmlwdD5kb2N1bWVudC5kb2N1bWVudEVs
+ZW1lbnQuc3R5bGUuZm9udFNpemU9MTAwKmRvY3VtZW50LmRvY3VtZW50RWxlbWVu
+dC5jbGllbnRXaWR0aC8zNzUrInB4Ijwvc2NyaXB0PjxzdHlsZT4qe21hcmdpbjow
+O3BhZGRpbmc6MH1ib2R5LGh0bWx7aGVpZ2h0OjEwMCU7d2lkdGg6MTAwJTtvdmVy
+ZmxvdzpoaWRkZW47YmFja2dyb3VuZDojZjNmMmYyO3RleHQtYWxpZ246Y2VudGVy
+fS5tYWlue2NvbG9yOiMzMzM7dGV4dC1hbGlnbjpjZW50ZXJ9LnN1YmplY3R7bWFy
+Z2luLXRvcDouM3JlbTtmb250LXNpemU6LjJyZW19LnByZXZpZXd7bWFyZ2luLXRv
+cDouMzZyZW07cG9zaXRpb246cmVsYXRpdmV9LnByZXZpZXcgLmNvbnRlbnR7cG9z
+aXRpb246cmVsYXRpdmU7bWFyZ2luOjAgLjU1cmVtfS5wcmV2aWV3IC5iZ3t3aWR0
+aDoyLjVyZW07bWFyZ2luLWxlZnQ6LjA1cmVtO3Bvc2l0aW9uOnJlbGF0aXZlfS5w
+cmV2aWV3IC5pY29ue3Bvc2l0aW9uOmFic29sdXRlO2Rpc3BsYXk6YmxvY2s7Ym9y
+ZGVyLXJhZGl1czoyMSV9LnByZXZpZXcgLnRpdGxle3Bvc2l0aW9uOmFic29sdXRl
+O3RleHQtYWxpZ246Y2VudGVyO292ZXJmbG93OmhpZGRlbjt0ZXh0LW92ZXJmbG93
+OmVsbGlwc2lzO3doaXRlLXNwYWNlOm5vd3JhcH0ucHJldmlldyAuaWNvbi5sYXJn
+ZXt3aWR0aDoxLjI1cmVtO2hlaWdodDoxLjI1cmVtO2xlZnQ6MS4yMnJlbTt0b3A6
+LjQycmVtfS5wcmV2aWV3IC50aXRsZS5sYXJnZXt3aWR0aDoxLjVyZW07bGVmdDox
+LjEzcmVtO3RvcDoxLjdyZW07Zm9udC1zaXplOi4xN3JlbX0ucHJldmlldyAuaWNv
+bi5zbWFsbHt3aWR0aDouMTRyZW07aGVpZ2h0Oi4xNHJlbTtsZWZ0Oi44cmVtO3Rv
+cDoxLjEyNXJlbX0ucHJldmlldyAudGl0bGUuc21hbGx7d2lkdGg6LjE2cmVtO2xl
+ZnQ6Ljc4cmVtO3RvcDoxLjI2NnJlbTtmb250LXNpemU6LjAyNXJlbX0uZ3VpZGV7
+d2lkdGg6MTAwJTtwb3NpdGlvbjphYnNvbHV0ZTtsZWZ0OjA7Ym90dG9tOi4zcmVt
+fS5ndWlkZSAuY29udGVudHtwb3NpdGlvbjpyZWxhdGl2ZTt6LWluZGV4OjIwO3dp
+ZHRoOjMuNXJlbTtwYWRkaW5nLXRvcDouMTZyZW07cGFkZGluZy1ib3R0b206LjA2
+cmVtO21hcmdpbjowIGF1dG87Ym9yZGVyLXJhZGl1czouMDRyZW07Ym94LXNoYWRv
+dzowIDZweCAxNXB4IHJnYmEoMCwwLDAsLjEzKTtiYWNrZ3JvdW5kOiNmZmY7Zm9u
+dC1zaXplOi4xNHJlbX0uZ3VpZGUgLnRpcHN7cG9zaXRpb246cmVsYXRpdmU7ei1p
+bmRleDoyMH0uZ3VpZGUgLmljb257d2lkdGg6LjJyZW07aGVpZ2h0Oi4yNHJlbTtt
+YXJnaW46MCAuMDM1cmVtIC4wMnJlbTt2ZXJ0aWNhbC1hbGlnbjpib3R0b219Lmd1
+aWRlIC50b29sYmFye3dpZHRoOjEwMCU7aGVpZ2h0OmF1dG87bWFyZ2luLXRvcDot
+LjEycmVtO3Bvc2l0aW9uOnJlbGF0aXZlO3otaW5kZXg6MTB9Lmd1aWRlIC5hcnJv
+d3t3aWR0aDouMjdyZW07aGVpZ2h0OmF1dG87cG9zaXRpb246YWJzb2x1dGU7bGVm
+dDo1MCU7Ym90dG9tOi0uMjZyZW07bWFyZ2luLWxlZnQ6LS4xMzVyZW07ei1pbmRl
+eDoxMH08L3N0eWxlPgo8Ym9keT4KPGRpdiBjbGFzcz0ibWFpbiIgaWQ9IkpfY29u
+dGFpbmVyIiBzdHlsZT0iZGlzcGxheTpub25lIj4KPGRpdiBjbGFzcz0ic3ViamVj
+dCI+5re75Yqg5Zu+5qCH5Yiw5qGM6Z2iPC9kaXY+PGRpdiBjbGFzcz0icHJldmll
+dyI+PGRpdiBjbGFzcz0iY29udGVudCI+PGltZyBjbGFzcz0iYmciIHNyYz0iaHR0
+cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDMvMTMvNWM4OTFhZGNmMzAyYS5qcGciPiAK
+PGltZyBjbGFzcz0iaWNvbiBzbWFsbCIgc3JjPSJodHRwczovL2kubG9saS5uZXQv
+MjAxOS8wNy8xOC81ZDJmZjNlY2QxNmYxNjgwMDUuanBlZyI+IAo8aW1nIGNsYXNz
+PSJpY29uIGxhcmdlIiBzcmM9Imh0dHBzOi8vaS5sb2xpLm5ldC8yMDE5LzA3LzE4
+LzVkMmZmM2VjZDE2ZjE2ODAwNS5qcGVnIj4KPGRpdiBjbGFzcz0idGl0bGUgbGFy
+Z2UiPuacqOWtkOenkeaKgDwvZGl2Pgo8L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJn
+dWlkZSI+PGRpdiBjbGFzcz0iY29udGVudCI+PHAgY2xhc3M9InRpcHMiPueCueWH
+u+S4i+aWueW3peWFt+agj+S4iueahDxpbWcgY2xhc3M9Imljb24iIHNyYz0iaHR0
+cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDMvMTMvNWM4OTFiOGFjZjdiMC5wbmciPjwv
+cD48cCBjbGFzcz0idGlwcyI+5bm26YCJ5oupPGltZyBjbGFzcz0iaWNvbiIgc3Jj
+PSJodHRwczovL2kubG9saS5uZXQvMjAxOS8wMy8xMy81Yzg5MWJhZGMwYmYzLnBu
+ZyI+4oCcPHN0cm9uZz7mt7vliqDliLDkuLvlsY/luZU8L3N0cm9uZz7igJ08L3A+
+CjxpbWcgY2xhc3M9InRvb2xiYXIiIHNyYz0iaHR0cHM6Ly9pLmxvbGkubmV0LzIw
+MTkvMDcvMTcvNWQyZjMwOWUwYzA0MTc0NTEyLmpwZWciPgo8L2Rpdj4KPGltZyBj
+bGFzcz0iYXJyb3ciIHNyYz0iaHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDMvMTMv
+NWM4OTFjMDgzZTE5OS5wbmciPgo8L2Rpdj48L2Rpdj4KPHNjcmlwdD5pZih3aW5k
+b3cubmF2aWdhdG9yLnN0YW5kYWxvbmUpe3ZhciBhcHBJZD0nV2l0aENCJyxhcHBV
+cmw9Jycsc2NoZW1lPScnLGhyZWY9IiI7aHJlZj1zY2hlbWV8fCJodHRwOi8vbXV6
+aWtlamkuY24vIisoYXBwVXJsPWFwcFVybD8iJnVybD0iK2VuY29kZVVSSUNvbXBv
+bmVudChhcHBVcmwpOiIiKSx3aW5kb3cubG9jYXRpb24uaHJlZj1ocmVmfWVsc2Ug
+ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIkpfY29udGFpbmVyIikuc3R5bGUuZGlz
+cGxheT0iYmxvY2siLGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJKX2Rlc2t0b3BU
+aXRsZSIpLnRleHRDb250ZW50PSLmnKjlrZDnp5HmioAiLGRvY3VtZW50LmdldEVs
+ZW1lbnRCeUlkKCJKX2Rlc2t0b3BJY29uIikuc2V0QXR0cmlidXRlKCJocmVmIiwi
+aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDcvMTgvNWQyZmYzZWNkMTZmMTY4MDA1
+LmpwZWciKQo8L3NjcmlwdD48L2JvZHk+PC9odG1sPg==">📱如何桌面一键直达木子科技</a> </p1>
 <h2> iPhone <b><a href="https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334" target="_blank">快捷指令</a></b> </h2>
 
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aecbb58df951320.png" width="320" height="178" alt="Planets" usemap="#6">
-
-<map name="6">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3012186721">
-
-</map>
 <img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aee0049b2162962.png" width="320" height="178" alt="Planets" usemap="#7">
 
 <map name="7">
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/5138320051">
 
 </map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2adf97d984092350.png" width="320" height="178" alt="Planets" usemap="#5">
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aecbb58df951320.png" width="320" height="178" alt="Planets" usemap="#6">
 
-<map name="5">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/6351217277">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2b2e1f0794170704.png" width="320" height="178" alt="Planets" usemap="#11">
-
-<map name="11">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3251736150">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aee3d4bf9494408.png" width="320" height="178" alt="Planets" usemap="#8">
-
-<map name="8">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2addf664c4160102.png" width="320" height="178" alt="Planets" usemap="#1">
-
-<map name="1">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/7076318015">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2af00173f0350160.png" width="320" height="178" alt="Planets" usemap="#10">
-
-<map name="10">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/6793518895">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2b2f2d9210b46675.png" width="320" height="178" alt="Planets" usemap="#12">
-
-<map name="12">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/f85077b9ad624a619e1e069b90ea3949">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aec543742275604.png" width="320" height="178" alt="Planets" usemap="#3">
-
-<map name="3">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6">
+<map name="6">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3012186721">
 
 </map>
 <img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2ae9cd2f10d52849.png" width="320" height="178" alt="Planets" usemap="#2">
@@ -151,16 +301,58 @@ margin:0px;
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
 
 </map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2af2fbd5f0296672.png" width="320" height="178" alt="Planets" usemap="#9">
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2adf97d984092350.png" width="320" height="178" alt="Planets" usemap="#5">
 
-<map name="9">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/70c4694448e34cad870a87eb63688446">
+<map name="5">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/6351217277">
 
 </map>
 <img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aef50765aa63259.png" width="320" height="178" alt="Planets" usemap="#4">
 
 <map name="4">
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3548598087">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2af2fbd5f0296672.png" width="320" height="178" alt="Planets" usemap="#9">
+
+<map name="9">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/70c4694448e34cad870a87eb63688446">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aec543742275604.png" width="320" height="178" alt="Planets" usemap="#3">
+
+<map name="3">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2b2e1f0794170704.png" width="320" height="178" alt="Planets" usemap="#11">
+
+<map name="11">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3251736150">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2af00173f0350160.png" width="320" height="178" alt="Planets" usemap="#10">
+
+<map name="10">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/6793518895">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aee3d4bf9494408.png" width="320" height="178" alt="Planets" usemap="#8">
+
+<map name="8">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2b2f2d9210b46675.png" width="320" height="178" alt="Planets" usemap="#12">
+
+<map name="12">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/f85077b9ad624a619e1e069b90ea3949">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2addf664c4160102.png" width="320" height="178" alt="Planets" usemap="#1">
+
+<map name="1">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/7076318015">
 
 </map>
 
@@ -184,6 +376,4 @@ important;height:35px !important;" src="http://pic.kuaizhan.com/g2/M00/71/9D/wKj
 important;height:35px!important;" src="http://pic.kuaizhan.com/g2/M00/71/80/CgpQVFbSmpCAdtMEAAEO6ESdBwI3920068" />
  
 
-
- 
  
