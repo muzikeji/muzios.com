@@ -185,7 +185,7 @@ ZW50LmdldEVsZW1lbnRCeUlkKCJKX2Rlc2t0b3BUaXRsZSIpLnRleHRDb250ZW50
 PSLmnKjlrZDnp5HmioDnvZEiLGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJKX2Rl
 c2t0b3BJY29uIikuc2V0QXR0cmlidXRlKCJocmVmIiwiaHR0cHM6Ly9pLmxvbGku
 bmV0LzIwMTkvMDcvMTgvNWQzMDNhNmJlZDkzMTQxODk2LmpwZWciKQo8L3Njcmlw
-dD48L2JvZHk+PC9odG1sPg==">📱如何桌面一键直达木子科技(在Safari中打开)</a> </p1>
+dD48L2JvZHk+PC9odG1sPg==">📱如何桌面一键直达木子科技(Safari中有效)</a> </p1>
 <h2> iPhone <b><a href="https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334" target="_blank">快捷指令</a></b> </h2>
 
 <img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aec543742275604.png" width="320" height="178" alt="Planets" usemap="#3">
