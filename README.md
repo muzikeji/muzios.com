@@ -7,7 +7,6 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <style>
-
 h1 { display:none; }
 
 ul {
@@ -189,16 +188,52 @@ dD48L2JvZHk+PC9odG1sPg==">📱如何桌面一键直达木子科技</a> </p1>
 
 <h2> iPhone <b><a href="https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334" target="_blank">快捷指令</a></b> </h2>
 
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2b2e1f0794170704.png" width="320" height="178" alt="Planets" usemap="#11">
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2af00173f0350160.png" width="320" height="178" alt="Planets" usemap="#10">
 
-<map name="11">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3251736150">
+<map name="10">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/6793518895">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2ae9cd2f10d52849.png" width="320" height="178" alt="Planets" usemap="#2">
+
+<map name="2">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/20/5d32e75506ae328112.png" width="320" height="178" alt="Planets" usemap="#14">
+
+<map name="14">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/4053608996">
 
 </map>
 <img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aec543742275604.png" width="320" height="178" alt="Planets" usemap="#3">
 
 <map name="3">
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2adf97d984092350.png" width="320" height="178" alt="Planets" usemap="#5">
+
+<map name="5">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/6351217277">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2b2f2d9210b46675.png" width="320" height="178" alt="Planets" usemap="#12">
+
+<map name="12">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/f85077b9ad624a619e1e069b90ea3949">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aee3d4bf9494408.png" width="320" height="178" alt="Planets" usemap="#8">
+
+<map name="8">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aecbb58df951320.png" width="320" height="178" alt="Planets" usemap="#6">
+
+<map name="6">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3012186721">
 
 </map>
 <img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aee0049b2162962.png" width="320" height="178" alt="Planets" usemap="#7">
@@ -213,10 +248,16 @@ dD48L2JvZHk+PC9odG1sPg==">📱如何桌面一键直达木子科技</a> </p1>
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/7076318015">
 
 </map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aecbb58df951320.png" width="320" height="178" alt="Planets" usemap="#6">
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aef50765aa63259.png" width="320" height="178" alt="Planets" usemap="#4">
 
-<map name="6">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3012186721">
+<map name="4">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3548598087">
+
+</map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2b2e1f0794170704.png" width="320" height="178" alt="Planets" usemap="#11">
+
+<map name="11">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3251736150">
 
 </map>
 <img class="thumbnail" src="https://i.loli.net/2019/07/20/5d32de0f3378123135.png" width="320" height="178" alt="Planets" usemap="#13">
@@ -225,52 +266,10 @@ dD48L2JvZHk+PC9odG1sPg==">📱如何桌面一键直达木子科技</a> </p1>
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/1669301557">
 
 </map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2af00173f0350160.png" width="320" height="178" alt="Planets" usemap="#10">
-
-<map name="10">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/6793518895">
-
-</map>
 <img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2af2fbd5f0296672.png" width="320" height="178" alt="Planets" usemap="#9">
 
 <map name="9">
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/70c4694448e34cad870a87eb63688446">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2ae9cd2f10d52849.png" width="320" height="178" alt="Planets" usemap="#2">
-
-<map name="2">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2b2f2d9210b46675.png" width="320" height="178" alt="Planets" usemap="#12">
-
-<map name="12">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/f85077b9ad624a619e1e069b90ea3949">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aef50765aa63259.png" width="320" height="178" alt="Planets" usemap="#4">
-
-<map name="4">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3548598087">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aee3d4bf9494408.png" width="320" height="178" alt="Planets" usemap="#8">
-
-<map name="8">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2adf97d984092350.png" width="320" height="178" alt="Planets" usemap="#5">
-
-<map name="5">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/6351217277">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/20/5d32e75506ae328112.png" width="320" height="178" alt="Planets" usemap="#14">
-
-<map name="14">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/4053608996">
 
 </map>
 
@@ -283,10 +282,10 @@ dD48L2JvZHk+PC9odG1sPg==">📱如何桌面一键直达木子科技</a> </p1>
 </div>
   <div style='height:50px; line-height:50px; text-align:center; color: #b2b2b2;'>
  
-    <a href="http://muzikeji.cn/">
+    <a href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes/">
  
         <img style="position:fixed;right:0; bottom:160px; z-index:99999; width:35px !
-important;height:35px !important;" src="http://pic.kuaizhan.com/g2/M00/71/9D/wKjmqlbSmoyAYCswAAEVnPTZD8E8141345" />
+important;height:35px !important;" src="http://wpa.qq.com/pa?p=2:56794501:52" />
  
     <a style="z-index:99999;" id="goTop" href="#">
  
