@@ -8,7 +8,6 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <style>
 
-<body background="https://i.loli.net/2019/07/20/5d32ed2ba2f7229828.png">
 h1 { display:none; }
 
 ul {
