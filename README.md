@@ -65,7 +65,7 @@ p1.outset {border-bottom-style:outset;}
 
 </style>
  <body>
-<script src="/tctip-1.0.0.min.js"></script>
+<script src="muzikeji.cn/tctip-1.0.0.min.js"></script>
   <script> 
   new tctip({
     top: '15%',
