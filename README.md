@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="utf-8"> 
@@ -221,5 +221,3 @@ important;height:35px !important;" src="http://wpa.qq.com/pa?p=2:56794501:52" />
  
          <img style="position:fixed;right:0; bottom:100px; z-index:99999; width:35px !
 important;height:35px!important;" src="http://pic.kuaizhan.com/g2/M00/71/80/CgpQVFbSmpCAdtMEAAEO6ESdBwI3920068" />
-</body>
-</html>
