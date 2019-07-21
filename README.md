@@ -1,8 +1,8 @@
-
+<!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta charset="utf-8"> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -36,24 +36,17 @@ li a:hover:not(.active) {
 .active {
     background-color: #4682b4;
 }
-
- .thumbnail
-{
-	float:left;
-	margin:5px;
-}
-
 .text_line
 {
 	clear:both;
-	margin-bottom:2px;
+	margin-bottom:0px;
 }
 
 div.ex
 {
-background-color: yellow;
+background-color: #f2e63b;
 width:auto;
-padding:10px;
+padding:5px;
 border:5px solid gray;
 margin:0px;
 }
@@ -63,8 +56,25 @@ p1 {border-style:solid;}
 
 p1.outset {border-bottom-style:outset;}
 
+div.fd
+{
+	float:left;
+	width:320px;
+	height:175px;
+	margin:5px;
+border-radius: 10px;
+    padding: 5px; 
+text-align:justify;
+}
+p.date {text-align: justify; color:#ffffff; font-size:14px;}
+h3  {text-align: center; color:#ffffff; font-size:18px;}
+
+
+a {text-decoration:none;}
+
 </style>
- <body>
+</head>
+<body>
 <script src="https://muzikeji.cn/tctip-1.0.0.min.js"></script>
   <script> 
   new tctip({
@@ -187,92 +197,12 @@ bmV0LzIwMTkvMDcvMTgvNWQzMDNhNmJlZDkzMTQxODk2LmpwZWciKQo8L3Njcmlw
 dD48L2JvZHk+PC9odG1sPg==">📱如何桌面一键直达木子科技</a> </p1>
 
 <h2> iPhone <b><a href="https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334" target="_blank">快捷指令</a></b> </h2>
-
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aee3d4bf9494408.png" width="320" height="178" alt="Planets" usemap="#8">
-
-<map name="8">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2adf97d984092350.png" width="320" height="178" alt="Planets" usemap="#5">
-
-<map name="5">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/6351217277">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aef50765aa63259.png" width="320" height="178" alt="Planets" usemap="#4">
-
-<map name="4">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3548598087">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2b2e1f0794170704.png" width="320" height="178" alt="Planets" usemap="#11">
-
-<map name="11">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3251736150">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aecbb58df951320.png" width="320" height="178" alt="Planets" usemap="#6">
-
-<map name="6">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/3012186721">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/20/5d32e75506ae328112.png" width="320" height="178" alt="Planets" usemap="#14">
-
-<map name="14">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/4053608996">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2ae9cd2f10d52849.png" width="320" height="178" alt="Planets" usemap="#2">
-
-<map name="2">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aec543742275604.png" width="320" height="178" alt="Planets" usemap="#3">
-
-<map name="3">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2aee0049b2162962.png" width="320" height="178" alt="Planets" usemap="#7">
-
-<map name="7">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/5138320051">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2af00173f0350160.png" width="320" height="178" alt="Planets" usemap="#10">
-
-<map name="10">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/6793518895">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/20/5d32de0f3378123135.png" width="320" height="178" alt="Planets" usemap="#13">
-
-<map name="13">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/1669301557">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2b2f2d9210b46675.png" width="320" height="178" alt="Planets" usemap="#12">
-
-<map name="12">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/f85077b9ad624a619e1e069b90ea3949">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2addf664c4160102.png" width="320" height="178" alt="Planets" usemap="#1">
-
-<map name="1">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com/shortcuts/7076318015">
-
-</map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/14/5d2af2fbd5f0296672.png" width="320" height="178" alt="Planets" usemap="#9">
-
-<map name="9">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/70c4694448e34cad870a87eb63688446">
-
-</map>
-
+<div  class="fd" style="background-color: #eb4d4d">
+<h3 class="date"> <a href="https://jiejinghe.com/shortcuts/7076318015" target="_blank">双色球</a></h3><p class="date">简介：这是一个双色球摇号和查询开奖的工具，在这里你可以随机抽取属于你的幸运号码！</p>　
+</div>
+<div  class="fd" style="background-color: #af54d7">
+<h3 class="date"> <a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe" target="_blank">在线影视</a></h3><p class="date">可‍以‍解析‍各大影视会员视频‍，也可以在线搜索观看视频。解析视频使用方法：1⃣️复制会员视频链接2⃣️运行此捷径，选择解析接口即可播放。</p>　
+</div>
 <h2 class="text_line"> </h2>
 <h3> <a href="https://jiejinghe.com/users/6563404841">更多</a></h3>
 
@@ -291,6 +221,5 @@ important;height:35px !important;" src="http://wpa.qq.com/pa?p=2:56794501:52" />
  
          <img style="position:fixed;right:0; bottom:100px; z-index:99999; width:35px !
 important;height:35px!important;" src="http://pic.kuaizhan.com/g2/M00/71/80/CgpQVFbSmpCAdtMEAAEO6ESdBwI3920068" />
- 
-
- 
+</body>
+</html>
