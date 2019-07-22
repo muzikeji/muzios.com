@@ -34,7 +34,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #4682b4;
+    background-color: #191dea;
 }
 .text_line
 {
@@ -44,7 +44,7 @@ li a:hover:not(.active) {
 
 div.ex
 {
-background-color: #f2e63b;
+background-color: #c1c0c0;
 width:auto;
 padding:5px;
 border:5px solid gray;
@@ -72,7 +72,7 @@ h2  {text-align: center; color: #c93dc0; font-size:18px;}
 
 
 a {
-color: #ee8b11;
+color: #ffffff;
 text-decoration: none;
 }
 a:active {
@@ -129,7 +129,7 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
   <li><a href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
  
 </ul>
-<div class="content">
+<div class="ex">
 <p1 class="outset"> <a href="data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KPG1ldGEgY2hhcnNldD0iVVRG
 LTgiPgo8dGl0bGUgaWQ9IkpfZGVza3RvcFRpdGxlIj4g55Sf5oiQVVJMIFNjaGVt
 ZXPlm77moIfliLDmoYzpnaIgYnkgV2l0aENCPC90aXRsZT4KPG1ldGEgY29udGVu
