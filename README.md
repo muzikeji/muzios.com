@@ -230,7 +230,7 @@ dD48L2JvZHk+PC9odG1sPg==">📱如何桌面一键直达木子科技</a> </p1>
 <h3 class="date"> <a href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6" target="_blank">智能Wi-Fi开关</a></h3><p class="date">简介：智能管控你的Wi-Fi，运行后如果Wi-Fi处于打开状态则帮你关闭，处于关闭状态则帮你打开，打开后没有可以链接的Wi-Fi将帮你自动关闭，来节省电能！</p>　
 </div>
 <h2 class="text_line"> </h2>
-<h3> <a href="https://jiejinghe.com/users/6563404841">更多</a></h3>
+<h3> 查看<a href="https://jiejinghe.com/users/6563404841">更多</a></h3>
 
 <div class="ex">
 <h2>®️版权所有|盗版必究</h2>
