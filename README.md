@@ -179,10 +179,10 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 <div  class="fd" style="background-color: #18226a">
 <h3 class="date"> <a href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6" target="_blank">智能Wi-Fi开关</a></h3><p class="date">简介：智能管控你的Wi-Fi，运行后如果Wi-Fi处于打开状态则帮你关闭，处于关闭状态则帮你打开，打开后没有可以链接的Wi-Fi将帮你自动关闭，来节省电能！</p>　
 </div>
+<div  class="fd" style="background-color: #000000">
+<h3 class="date"> <a href="https://jiejinghe.com/users/6563404841" target="_blank">查看更多</a></h3><p class="date">全部作品请点击查看更多！联系站住请点击右侧QQ图标或者顶部菜单里点击联系项找适合你的方式联系！</p>　
+</div>
 <h2 class="text_line"> </h2>
-<p id="rcorners2"> <a href="https://i.loli.net/2019/07/22/5d3585ffc5bad40202.jpeg">
-<img border="0" src="smiley.gif" alt="查看更多" width="320" height="175"></a></p>
-
 <div class="ex">
 <h2>®️版权所有|盗版必究</h2>
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="mailto:56794501@qq.com">致信给我们</a>或者<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:56794501:51" alt="联系客服💁🏻‍♂️" title="联系客服💁🏻‍♂️"/></a>我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
