@@ -196,12 +196,15 @@ c2t0b3BJY29uIikuc2V0QXR0cmlidXRlKCJocmVmIiwiaHR0cHM6Ly9pLmxvbGku
 bmV0LzIwMTkvMDcvMTgvNWQzMDNhNmJlZDkzMTQxODk2LmpwZWciKQo8L3Njcmlw
 dD48L2JvZHk+PC9odG1sPg==">📱如何桌面一键直达木子科技</a> </p1>
 
-<h2> iPhone <b><a href="https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334" target="_blank">快捷指令</a></b> </h2>
+<h2> iPhone <b><a href="https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334" target="_blank">快捷指令</a>（点击名称下载）</b> </h2>
 <div  class="fd" style="background-color: #eb4d4d">
 <h3 class="date"> <a href="https://jiejinghe.com/shortcuts/7076318015" target="_blank">双色球</a></h3><p class="date">简介：这是一个双色球摇号和查询开奖的工具，在这里你可以随机抽取属于你的幸运号码！</p>　
 </div>
 <div  class="fd" style="background-color: #af54d7">
 <h3 class="date"> <a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe" target="_blank">在线影视</a></h3><p class="date">可‍以‍解析‍各大影视会员视频‍，也可以在线搜索观看视频。解析视频使用方法：1⃣️复制会员视频链接2⃣️运行此捷径，选择解析接口即可播放。</p>　
+</div>
+<div  class="fd" style="background-color: #5083db">
+<h3 class="date"> <a href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467" target="_blank">微信引用回复</a></h3><p class="date">在微信群聊时想针对某条信息进行回复，手机📱不能想电脑💻一样引用回复怎么办？可以用这个快捷指令来实现！</p>　
 </div>
 <h2 class="text_line"> </h2>
 <h3> <a href="https://jiejinghe.com/users/6563404841">更多</a></h3>
