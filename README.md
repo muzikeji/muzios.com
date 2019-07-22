@@ -60,7 +60,7 @@ p1.outset {border-bottom-style:outset;}
 
 {
 	float:left;
-	width:290px;
+	width:320px;
 	height:180px;
 	margin:5px;
 border-radius: 10px;
