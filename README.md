@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8"> 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
 <style>
 h1 { display:none; }
@@ -80,8 +79,8 @@ text-decoration: none;
 color: #ffffff;
 }
 
-#box2{width:36px;height:23px;position:absolute;right:5;bottom:5
-}
+#box2
+{width:36px;height:23px;position:absolute;right:5;bottom:5}
 </style>
 </head>
 <body>
@@ -133,28 +132,28 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 </ul>
 
 <h3> iPhone 快捷指令</h3>
-<div  id="box1"  style="background-color: #eb4d4d";>
+<div  id="box1"  style="background-color: #eb4d4d">
 <p class="a"> 双色球</p><p class="date">简介：这是一个双色球摇号和查询开奖的工具，在这里你可以随机抽取属于你的幸运号码！</p>　<div id="box2"  style="background-color: #eb4d4d"> <a href="https://jiejinghe.com/shortcuts/7076318015" target="_blank">下载</a></div>
 </div>
-<div  id="box1"  style="background-color: #af54d7";>
+<div  id="box1"  style="background-color: #af54d7">
 <p class="a"> 在线影视</p><p class="date">简介：可‍以‍解析‍各大影视会员视频‍，也可以在线搜索观看视频。解析视频使用方法：1⃣️复制会员视频链接2⃣️运行此捷径，选择解析接口即可播放。</p>　<div id="box2"  style="background-color: #af54d7"> <a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe" target="_blank">下载</a></div>
 </div>
-<div  id="box1"  style="background-color: #5083db";>
+<div  id="box1"  style="background-color: #5083db">
 <p class="a"> 微信引用回复</p><p class="date">简介：在微信群聊时想针对某条信息进行回复，手机📱不能想电脑💻一样引用回复怎么办？可以用这个快捷指令来实现！</p>　<div id="box2"  style="background-color: #5083db"> <a href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467" target="_blank">下载</a></div>
 </div>
-<div  id="box1"  style="background-color: #7bef80";>
+<div  id="box1"  style="background-color: #7bef80">
 <p class="a"> 天气预报</p><p class="date">简介：这个天气预报捷功能比较强大，基本可以与同类app相媲美，可查询24小时每小时天气预报，还可以查未来10天天气预报；包括降雨量，风向风速，日出日落，紫外线指数等等功能！</p>　<div id="box2"  style="background-color: #7bef80"> <a href="https://jiejinghe.com/shortcuts/3012186721" target="_blank">下载</a></div>
 </div>
-<div  id="box1"  style="background-color: #e06b3e";>
+<div  id="box1"  style="background-color: #e06b3e">
 <p class="a"> 每日壁纸</p><p class="date">简介：每运行一次更换一次壁纸，内置10万➕壁纸，可设置指定时间或地点自动运行更换壁纸！</p>　<div id="box2"  style="background-color: #e06b3e"> <a href="https://www.icloud.com/shortcuts/b536d4e4a98c40e6a137371a5882fae8" target="_blank">下载</a></div>
 </div>
-<div  id="box1"  style="background-color: #6495f1";>
+<div  id="box1"  style="background-color: #6495f1">
 <p class="a"> 应用图标提取器</p><p class="date">简介：输入app store应用名称可以快速提取应用程序的图标！</p>　<div id="box2"  style="background-color: #6495f1"> <a href="https://www.icloud.com/shortcuts/5be9a04d07894562ba9bed7d83e5787a" target="_blank">下载</a></div>
 </div>
-<div  id="box1"  style="background-color: #4aaebd";>
+<div  id="box1"  style="background-color: #4aaebd">
 <p class="a"> 常用开关集合</p><p class="date">简介：集合iPhone手机常用开关于一体，包括网络切换、音量控制、前后相机快速打开、🔦、iOS黑白模式切换等等！</p>　<div id="box2"  style="background-color: #4aaebd"> <a href="https://jiejinghe.com/shortcuts/3251736150" target="_blank">下载</a></div>
 </div>
-<div  id="box1"  style="background-color: #18226a";>
+<div  id="box1"  style="background-color: #18226a">
 <p class="a"> 智能Wi-Fi开关</p><p class="date">简介：智能管控你的Wi-Fi，运行后如果Wi-Fi处于打开状态则帮你关闭，处于关闭状态则帮你打开，打开后没有可以链接的Wi-Fi将帮你自动关闭，来节省电能！</p>　<div id="box2"  style="background-color: #18226a"> <a href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6" target="_blank">下载</a></div>
 </div>
 <div  id="box1" style="background-color: #000000">
