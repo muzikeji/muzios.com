@@ -67,7 +67,7 @@ border-radius: 10px;
 text-align:justify;
 }
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
-h3  {text-align: center; color:#ffffff; font-size:18px;}
+h3  {text-align: center; color:#000000; font-size:18px;}
 h2  {text-align: center; color: #c93dc0; font-size:18px;}
 
 
