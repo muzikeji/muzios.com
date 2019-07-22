@@ -80,6 +80,30 @@ text-decoration: none;
 color: #ffffff;
 }
 
+#rcorners2 {
+    border-radius: 10px;
+    border: 2px solid #8AC007;
+    padding: 5px; 
+    width: 320px;
+    height: 175px;
+}
+
+a.one:link,a.one:visited
+{
+	display:block;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#98bf21;
+	
+	text-align:center;
+	padding:65px;
+	text-decoration:none;
+}
+a.one:hover,a.one:active
+{
+	background-color:#7A991A;
+}
+
 </style>
 </head>
 <body>
@@ -156,7 +180,7 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 <h3 class="date"> <a href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6" target="_blank">智能Wi-Fi开关</a></h3><p class="date">简介：智能管控你的Wi-Fi，运行后如果Wi-Fi处于打开状态则帮你关闭，处于关闭状态则帮你打开，打开后没有可以链接的Wi-Fi将帮你自动关闭，来节省电能！</p>　
 </div>
 <h2 class="text_line"> </h2>
-<h3> 查看<a href="https://jiejinghe.com/users/6563404841">更多</a></h3>
+<p id="rcorners2"> <a  class="one"   href="https://jiejinghe.com/users/6563404841">所有作品点击查看更多噢～～～～</a></p>
 
 <div class="ex">
 <h2>®️版权所有|盗版必究</h2>
