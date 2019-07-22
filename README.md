@@ -3,9 +3,7 @@
 <head>
 <meta charset="utf-8"> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
 <style>
 h1 { display:none; }
 ul {
@@ -59,9 +57,7 @@ div.fd
 border-radius: 10px;
     padding: 1px; 
 overflow:hidden;
-
 position:relative
-
 }
 
 #box2
