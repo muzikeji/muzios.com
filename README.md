@@ -72,12 +72,12 @@ h2  {text-align: center; color: #c93dc0; font-size:18px;}
 
 
 a {
-color: #ffffff;
+color: #ee8b11;
 text-decoration: none;
 }
 a:active {
 text-decoration: none;
-color: #000000;
+color: #ffffff;
 }
 
 </style>
