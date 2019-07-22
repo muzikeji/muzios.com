@@ -94,10 +94,10 @@ color: #ffffff;
     list: [
       {
         type: 'alipay',
-        qrImg: 'https://raw.githubusercontent.com/mzljjkj/-/master/3E89A7CC-04E9-4EAB-B065-CC6DAB054F7C.jpeg'
+        qrImg: 'https://muzikeji.cn/417D2AEF-C9BD-4457-9393-D34F7FBA3106.jpeg'
       }, {
         type: 'wechat',
-        qrImg: 'https://raw.githubusercontent.com/mzljjkj/-/master/FD823FC2-8204-4284-ADC6-ED0731C67DF6.jpeg'
+        qrImg: 'https://muzikeji.cn/95875A75-7E4C-4AB1-BEDA-3C99B27C0AC7.jpeg'
       }
     ]
   }).init()
