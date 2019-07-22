@@ -80,30 +80,6 @@ text-decoration: none;
 color: #ffffff;
 }
 
-#rcorners2 {
-    border-radius: 10px;
-    border: 2px solid #98bf21;
-    padding: 5px; 
-    width: 320px;
-    height: 175px;
-}
-
-a.one:link,a.one:visited
-{
-	display:block;
-	font-weight:bold;
-	color:#FFFFFF;
-	background-color:#98bf21;
-	
-	text-align:center;
-	padding:65px;
-	text-decoration:none;
-}
-a.one:hover,a.one:active
-{
-	background-color:#7A991A;
-}
-
 </style>
 </head>
 <body>
