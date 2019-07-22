@@ -55,6 +55,81 @@ margin:0px;
 p1 {border-style:solid;}
 
 p1.outset {border-bottom-style:outset;}
+<html>
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+<style>
+h1 { display:none; }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4682b4;
+}
+
+ .thumbnail
+{
+	float:left;
+	margin:5px;
+}
+
+.text_line
+{
+	clear:both;
+	margin-bottom:2px;
+}
+
+div.ex
+{
+background-color: yellow;
+width:auto;
+padding:10px;
+border:5px solid gray;
+margin:0px;
+}
+
+
+p1 {border-style:solid;}
+
+p1.outset {border-bottom-style:outset;}
+
+function pop() {
+  $('body').append('<div id="t-bei" ></div>'); 
+        $('body').append('<div id="t-opo"><a href="javascript:void(0)" id="tca" ><i class="fa fa-times"></i></a><div id="t-opo-title"><i class="fa fa-credit-card"></i>  打赏本站</div><div id="t-opo-content"><img src="/zb_users/cache/mochuimg/zanwei.png"><img src="/zb_users/cache/mochuimg/zanzhi.png"><p>微信打赏</p><p>支付宝打赏</p></div></div>');
+        $('#tca').click(function() {
+        $('#t-opo,#t-bei').remove();
+  });
+};
+
+#t-bei { width:100%;height:100%;position:fixed;top:0px;left:0px;background-color:rgb(45, 45, 45);z-index:100;opacity:0.5;display: block;}
+#t-opo { background:#fff; position: fixed; z-index: 7000; left: 50%; top: 50%;margin-left:-230px; margin-top:-150px; width:460px; height:290px;}
+#t-opo-title {height:30px;padding-left:10px;line-height:30px;color:#fff;}#t-opo-content {padding:10px;}#t-opo-content p{width: 48%; float: left; text-align: center;}#t-opo-content img {width:200px;height:200px;float:left;padding:10px;}#tca{position:absolute;right:10px;top:6px;color:#fff;font-size:12px;}
 
 div.fd
 {
