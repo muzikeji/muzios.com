@@ -65,8 +65,6 @@ p1.outset {border-bottom-style:outset;}
 	margin:5px;
 border-radius: 10px;
     padding: 5px; 
-text-align:justify;
-
 position:relative
 
 }
@@ -84,7 +82,7 @@ text-decoration: none;
 color: #ffffff;
 }
 
-#box2{width:36px;height:23px;background:red;position:absolute;right:5;bottom:5
+#box2{width:36px;height:23px;position:absolute;right:5;bottom:5
 
 </style>
 </head>
