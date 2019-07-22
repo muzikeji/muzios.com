@@ -44,7 +44,7 @@ li a:hover:not(.active) {
 
 div.ex
 {
-background-color: #e4e124;
+background-color: #f4ea00;
 width:auto;
 padding:5px;
 border:5px solid gray;
@@ -116,8 +116,6 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
         },false);
 }
 </script>
-
-</body>
 
 </body>
 
