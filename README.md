@@ -65,7 +65,7 @@ position:relative
 }
 
 #box2
-{width:36px;height:23px;position:absolute;right:5;bottom:5 }
+{width:36px;position:absolute;right:5;bottom:5 }
 
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
 p.b {text-align: center; color:#ffffff; font-size:20px;}
