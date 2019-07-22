@@ -83,7 +83,7 @@ color: #ffffff;
 }
 
 #box2{width:36px;height:23px;position:absolute;right:5;bottom:5
-
+}
 </style>
 </head>
 <body>
