@@ -91,14 +91,14 @@ color: #ffffff;
       id: 9,
       type: 'dashang',
     },
-    list: [
+    list: [{
+        type: 'wechat',
+        qrImg: 'https://raw.githubusercontent.com/mzljjkj/-/master/FD823FC2-8204-4284-ADC6-ED0731C67DF6.jpeg'
+      }；
       {
         type: 'alipay',
         qrImg: 'https://raw.githubusercontent.com/mzljjkj/-/master/3E89A7CC-04E9-4EAB-B065-CC6DAB054F7C.jpeg'
-      }, {
-        type: 'wechat',
-        qrImg: 'https://raw.githubusercontent.com/mzljjkj/-/master/FD823FC2-8204-4284-ADC6-ED0731C67DF6.jpeg'
-      }
+      },
     ]
   }).init()
   </script>
