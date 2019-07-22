@@ -71,7 +71,14 @@ h3  {text-align: center; color:#ffffff; font-size:18px;}
 h2  {text-align: center; color: #c93dc0; font-size:18px;}
 
 
-a {text-decoration:none;}
+a {
+color: #ffffff;
+text-decoration: none;
+}
+a:active {
+text-decoration: none;
+color: #000000;
+}
 
 </style>
 </head>
@@ -207,7 +214,7 @@ dD48L2JvZHk+PC9odG1sPg==">📱如何桌面一键直达木子科技</a> </p1>
 <div  class="fd" style="background-color: #5083db">
 <h3 class="date"> <a href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467" target="_blank">微信引用回复</a></h3><p class="date">简介：在微信群聊时想针对某条信息进行回复，手机📱不能想电脑💻一样引用回复怎么办？可以用这个快捷指令来实现！</p>　
 </div>
-<div  class="fd" style="background-color: #1867fc">
+<div  class="fd" style="background-color: #7bef80">
 <h3 class="date"> <a href="https://jiejinghe.com/shortcuts/3012186721" target="_blank">天气预报</a></h3><p class="date">简介：这个天气预报捷功能比较强大，基本可以与同类app相媲美，可查询24小时每小时天气预报，还可以查未来10天天气预报；包括降雨量，风向风速，日出日落，紫外线指数等等功能！</p>　
 </div>
 <div  class="fd" style="background-color: #e06b3e">
