@@ -58,6 +58,8 @@ border-radius: 10px;
     padding: 1px; 
 overflow:hidden;
 position:relative
+
+line-height: 80%;
 }
 
 p.c{text-align:right; color:#ffffff; font-size:20px;}
