@@ -69,10 +69,6 @@ p.a  {text-align: center; color: #000000; font-size:16px;}
 p{margin:2 0;}
 
 a:link {color:#FFffff; text-decoration:none;}
-a:visited {text-decoration:none;}
-a:hover {text-decoration:underline;}
-a:active {text-decoration:underline;}
-
 </style>
 </head>
 <body>
