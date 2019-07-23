@@ -144,7 +144,7 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 <h3 class="date"> <a href="https://jiejinghe.com/shortcuts/3012186721" target="_blank">天气预报</a></h3><p class="date">简介：这个天气预报捷功能比较强大，基本可以与同类app相媲美，可查询24小时每小时天气预报，还可以查未来10天天气预报；包括降雨量，风向风速，日出日落，紫外线指数等等功能！</p>　
 </div>
 <div  class="fd" style="background-color: #e06b3e">
-<h3 class="date"> <a href="" target="_blank">每日壁纸</a></h3><p class="date">简介：每运行一次更换一次壁纸，内置10万➕壁纸，可设置指定时间或地点自动运行更换壁纸！</p>　
+<h3 class="date"> <a href="https://www.icloud.com/shortcuts/e7318c10e7f348ffa9214a3e0482432a" target="_blank">每日壁纸</a></h3><p class="date">简介：每运行一次更换一次壁纸，内置10万➕壁纸，可设置指定时间或地点自动运行更换壁纸！</p>　
 </div>
 <div  class="fd" style="background-color: #6495f1">
 <h3 class="date"> <a href="https://www.icloud.com/shortcuts/5be9a04d07894562ba9bed7d83e5787a" target="_blank">应用图标提取器</a></h3><p class="date">简介：输入app store应用名称可以快速提取应用程序的图标！</p>　
