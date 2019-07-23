@@ -68,7 +68,7 @@ p.date {text-align: justify; color:#ffffff; font-size:14px;}
 p.b {text-align: center; color:#ffffff; font-size:25px;}
 p.a  {text-align: center; color: #000000; font-size:16px;}
 
-p{margin:1 2;}
+p{margin: 0em 0;}
 
 a:link {color:#FFffff; text-decoration:none;}
 </style>
