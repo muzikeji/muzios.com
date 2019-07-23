@@ -66,16 +66,12 @@ p.date {text-align: justify; color:#ffffff; font-size:14px;}
 p.b {text-align: center; color:#ffffff; font-size:20px;}
 p.a  {text-align: center; color: #000000; font-size:16px;}
 
-p{margin:3 0;}
+p{margin:2 0;}
 
-a:link {text-decoration:none;}
+a:link {color:#FFffff; text-decoration:none;}
 a:visited {text-decoration:none;}
 a:hover {text-decoration:underline;}
 a:active {text-decoration:underline;}
-
-a:visited {background-color:#FFFF85;} /* 已访问链接 */
-a:hover {background-color:#FF704D;}   /* 鼠标移动到链接上 */
-a:active {background-color:#FF704D;}  /* 鼠标点击时 */
 
 </style>
 </head>
