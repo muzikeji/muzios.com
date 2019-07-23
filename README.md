@@ -63,10 +63,10 @@ position:relative
 p.c{text-align:right; color:#ffffff; font-size:20px;}
 
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
-p.b {text-align: center; color:#ffffff; font-size:20px;}
+p.b {text-align: center; color:#ffffff; font-size:25px;}
 p.a  {text-align: center; color: #000000; font-size:16px;}
 
-p{margin:2 0;}
+p{margin:1 2;}
 
 a:link {color:#FFffff; text-decoration:none;}
 </style>
