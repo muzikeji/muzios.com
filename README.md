@@ -131,7 +131,7 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 
 </body>
 <a href="https://jiejinghe.com/users/6563404841">
-<img  border="0" src="https://i.loli.net/2019/07/24/5d3862113c15086155.jpeg" alt="木子李" width="100%" height="auto"></a>
+<img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="100%" height="auto"></a>
 <p>
 <ul>
   <li><a class="active" href="http://muzikeji.cn/">主页</a></li>
