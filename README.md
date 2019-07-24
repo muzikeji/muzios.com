@@ -74,7 +74,7 @@ border-radius: 10px;
 overflow:hidden;
 }
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
-h3  {text-align: right; color:#ffffff; font-size:20px;}
+h3  {text-align: center; color:#ffffff; font-size:20px;}
 h2  {text-align: center; color: #6b93d6; font-size:20px;}
 
 
@@ -84,7 +84,7 @@ text-decoration: none;
 }
 a:active {
 text-decoration: none;
-color: #ffffff;
+color: #001997;
 }
 
 a:link {text-decoration:none;}
@@ -145,35 +145,35 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 <h2> iPhone 快捷指令</h2></div>
 <h2 class="text_line"> </h2>
 <a href="https://jiejinghe.com/shortcuts/7076318015" target="_blank"><div  class="fd" style="background-color: #eb4d4d"><h3>
-<span style= "font-family: Arial"> 双色球&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>  <span style="font-family: 宋体"> &ensp;⇩ </span></h3> <p class="date">简介：这是一个双色球摇号和查询开奖的工具，在这里你可以随机抽取属于你的幸运号码！</p>　
+<span style= "font-family: Arial"> 双色球 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：这是一个双色球摇号和查询开奖的工具，在这里你可以随机抽取属于你的幸运号码！</p>　
 </div></a>
 <a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe" target="_blank"><div  class="fd" style="background-color: #af54d7"><h3>
-<span style= "font-family: Arial"> 在线影视&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>  <span style="font-family: 宋体"> &ensp;⇩ </span></h3> <p class="date">简介：可‍以‍解析‍各大影视会员视频‍，也可以在线搜索观看视频。解析视频使用方法：1⃣️复制会员视频链接2⃣️运行此捷径，选择解析接口即可播放。</p>　
+<span style= "font-family: Arial"> 在线影视 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：可‍以‍解析‍各大影视会员视频‍，也可以在线搜索观看视频。解析视频使用方法：1⃣️复制会员视频链接2⃣️运行此捷径，选择解析接口即可播放。</p>　
 </div></a>
 <a href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467" target="_blank"><div  class="fd" style="background-color: #5083db"><h3>
-<span style= "font-family: Arial"> 微信引用回复&nbsp;  &nbsp; &nbsp; &nbsp;  </span>  <span style="font-family: 宋体"> &ensp;⇩ </span></h3> <p class="date">简介：在微信群聊时想针对某条信息进行回复，手机📱不能想电脑💻一样引用回复怎么办？可以用这个快捷指令来实现！</p>　
+<span style= "font-family: Arial"> 微信引用回复 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：在微信群聊时想针对某条信息进行回复，手机📱不能想电脑💻一样引用回复怎么办？可以用这个快捷指令来实现！</p>　
 </div></a>
 <a href="https://jiejinghe.com/shortcuts/3012186721" target="_blank"><div  class="fd" style="background-color: #7bef80"><h3>
-<span style= "font-family: Arial"> 天气预报&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>  <span style="font-family: 宋体"> &ensp;⇩ </span></h3> <p class="date">简介：这个天气预报捷功能比较强大，基本可以与同类app相媲美，可查询24小时每小时天气预报，还可以查未来10天天气预报；包括降雨量，风向风速，日出日落，紫外线指数等等功能！</p>　
+<span style= "font-family: Arial"> 天气预报 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：这个天气预报捷功能比较强大，基本可以与同类app相媲美，可查询24小时每小时天气预报，还可以查未来10天天气预报；包括降雨量，风向风速，日出日落，紫外线指数等等功能！</p>　
 </div></a>
 <a href="https://www.icloud.com/shortcuts/e7318c10e7f348ffa9214a3e0482432a" target="_blank"><div  class="fd" style="background-color: #e06b3e"><h3>
-<span style= "font-family: Arial"> 每日壁纸&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>  <span style="font-family: 宋体"> &ensp;⇩ </span></h3> <p class="date">简介：每运行一次更换一次壁纸，内置10万➕壁纸，可设置指定时间或地点自动运行更换壁纸！</p>　
+<span style= "font-family: Arial"> 每日壁纸 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：每运行一次更换一次壁纸，内置10万➕壁纸，可设置指定时间或地点自动运行更换壁纸！</p>　
 </div></a>
 <a href="https://www.icloud.com/shortcuts/5be9a04d07894562ba9bed7d83e5787a" target="_blank"><div  class="fd" style="background-color: #6495f1"><h3>
-<span style= "font-family: Arial"> 应用图标提取器&nbsp;  &nbsp; &nbsp; </span>  <span style="font-family: 宋体"> &ensp;⇩ </span></h3> <p class="date">简介：输入app store应用名称可以快速提取应用程序的图标！</p>　
+<span style= "font-family: Arial"> 应用图标提取器 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：输入app store应用名称可以快速提取应用程序的图标！</p>　
 </div></a>
 <a href="https://jiejinghe.com/shortcuts/3251736150" target="_blank"><div  class="fd" style="background-color: #4aaebd"><h3>
-<span style= "font-family: Arial"> 常用开关集合&nbsp;  &nbsp; &nbsp; &nbsp; </span>  <span style="font-family: 宋体"> &ensp;⇩ </span></h3> <p class="date">简介：集合iPhone手机常用开关于一体，包括网络切换、音量控制、前后相机快速打开、🔦、iOS黑白模式切换等等！</p>　
+<span style= "font-family: Arial"> 常用开关集合 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：集合iPhone手机常用开关于一体，包括网络切换、音量控制、前后相机快速打开、🔦、iOS黑白模式切换等等！</p>　
 </div></a>
 <a href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6" target="_blank"><div  class="fd" style="background-color: #18226a"><h3>
-<span style= "font-family: Arial"> 智能Wi-Fi开关&nbsp;  &nbsp; &nbsp; &nbsp;  </span>  <span style="font-family: 宋体"> &ensp;⇩ </span></h3> <p class="date">简介：智能管控你的Wi-Fi，运行后如果Wi-Fi处于打开状态则帮你关闭，处于关闭状态则帮你打开，打开后没有可以链接的Wi-Fi将帮你自动关闭，来节省电能！</p>　
+<span style= "font-family: Arial"> 智能Wi-Fi开关 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：智能管控你的Wi-Fi，运行后如果Wi-Fi处于打开状态则帮你关闭，处于关闭状态则帮你打开，打开后没有可以链接的Wi-Fi将帮你自动关闭，来节省电能！</p>　
 </div></a>
 <a href="https://jiejinghe.com/shortcuts/9718483448" target="_blank"><div  class="fd" style="background-color: #c368d7"><h3>
-<span style= "font-family: Arial"> 百思不得姐&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; </span>  <span style="font-family: 宋体"> &ensp;⇩ </span></h3> <p class="date">简介：‍ ‍上厕所、‍等‍车、‍‍排队‍办理‍业务‍‍很无聊‍怎么办‍？‍就用“‍它”‍百思不得姐，‍一个‍专注‍段子‍的‍捷径！ 哈哈，‍百思‍不得姐，‍‍‍手机‍必备‍段子‍手</p>　
+<span style= "font-family: Arial"> 百思不得姐 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：‍ ‍上厕所、‍等‍车、‍‍排队‍办理‍业务‍‍很无聊‍怎么办‍？‍就用“‍它”‍百思不得姐，‍一个‍专注‍段子‍的‍捷径！ 哈哈，‍百思‍不得姐，‍‍‍手机‍必备‍段子‍手</p>　
 </div></a>
-<div  class="fd" style="background-color: #000000">
-<h2> <a href="https://jiejinghe.com/users/6563404841" target="_blank">查看更多</a></h2><p class="date">全部作品请点击查看更多！联系站主请点击右侧QQ图标或者顶部菜单里点击联系项找适合你的方式联系！</p>　
-</div>
+<a href="https://jiejinghe.com/users/6563404841" target="_blank"><div  class="fd" style="background-color: #000000">
+<h2>查看更多</h2><p class="date">联系站主请点击右侧QQ图标或者顶部菜单里点击联系项找适合你的方式联系！</p>　
+</div></a>
 <h2 class="text_line"> </h2>
 <div class="ex">
 <h2>版权所有|盗版必究</h2>
