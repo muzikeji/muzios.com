@@ -130,6 +130,8 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 </script>
 
 </body>
+<a href="https://jiejinghe.com/users/6563404841">
+<img  border="0" src="https://i.loli.net/2019/07/24/5d3862113c15086155.jpeg" alt="木子李" width="100%" height="auto"></a>
 <p>
 <ul>
   <li><a class="active" href="http://muzikeji.cn/">主页</a></li>
@@ -138,8 +140,6 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
   <li><a href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
  
 </ul>
-<a href="https://jiejinghe.com/users/6563404841">
-<img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="350px" height="auto"></a>
 <h2> iPhone 快捷指令</h2>
 
 <a href="https://jiejinghe.com/shortcuts/7076318015" target="_blank"><div  class="fd" style="background-color: #eb4d4d"><h3>
