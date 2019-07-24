@@ -106,10 +106,10 @@ a:active {text-decoration:none;}
     list: [
       {
         type: 'alipay',
-        qrImg: 'https://muzikeji.cn/417D2AEF-C9BD-4457-9393-D34F7FBA3106.jpeg'
+        qrImg: '/417D2AEF-C9BD-4457-9393-D34F7FBA3106.jpeg'
       }, {
         type: 'wechat',
-        qrImg: 'https://muzikeji.cn/95875A75-7E4C-4AB1-BEDA-3C99B27C0AC7.jpeg'
+        qrImg: '/95875A75-7E4C-4AB1-BEDA-3C99B27C0AC7.jpeg'
       }
     ]
   }).init()
@@ -141,7 +141,6 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
  
 </ul>
 <h2> iPhone 快捷指令</h2>
-
 <a href="https://jiejinghe.com/shortcuts/7076318015" target="_blank"><div  class="fd" style="background-color: #eb4d4d"><h3>
 <span style= "font-family: Arial"> 双色球 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：这是一个双色球摇号和查询开奖的工具，在这里你可以随机抽取属于你的幸运号码！</p>　
 </div></a>
