@@ -140,8 +140,7 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 </ul>
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="350px" height="auto"></a>
-<div class="ee">
-<h2> iPhone 快捷指令</h2></div>
+<h2> iPhone 快捷指令</h2>
 
 <a href="https://jiejinghe.com/shortcuts/7076318015" target="_blank"><div  class="fd" style="background-color: #eb4d4d"><h3>
 <span style= "font-family: Arial"> 双色球 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：这是一个双色球摇号和查询开奖的工具，在这里你可以随机抽取属于你的幸运号码！</p>　
