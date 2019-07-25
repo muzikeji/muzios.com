@@ -188,7 +188,7 @@ important;height:35px !important;" src="http://wpa.qq.com/pa?p=2:56794501:52" />
  
          <img style="position:fixed;right:0; bottom:100px; z-index:99999; width:35px !
 important;height:35px!important;" src="http://pic.kuaizhan.com/g2/M00/71/80/CgpQVFbSmpCAdtMEAAEO6ESdBwI3920068" />
-   <a href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes/">
+   <a href="https://k.weidian.com/IN2gD6zv">
  
         <img style="position:fixed;right:0; bottom:220px; z-index:99999; width:35px !
 important;height:50px !important;" src="https://mb.mbd.baidu.com/9jnhgjj?f=cp&u=8900d2fa466983e4" />
