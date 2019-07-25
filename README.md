@@ -92,6 +92,9 @@ a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
 
+	
+<link rel="stylesheet" href="css/style.css" />
+
 </style>
 </head>
 <body>
@@ -130,6 +133,32 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 </script>
 
 </body>
+
+<div class="search-box" style="float:left;margin-top: 0px;margin-left: 75px;">
+<form id="searchForm" name="searchForm" action="ithelpdesk/search/searchInfo.jsp" target="_blank" method="post">
+    <input type="text" id="searchText" placeholder="输入关键字" style="margin-top:0px;width: 230px;color:rgb(0,0,0);"                            onkeypress="if(event.keyCode == 13) search();"
+onfocus="inputgetfocus();" onblur="inputonblur();"/>
+    <button type="button" style="margin-top:0px" onclick="search()">搜索</button>
+</form>
+</div>
+<script>
+function inputgetfocus(){
+var defval = $("#searchText").attr("placeholder");
+            if("输入关键字"==defval)
+            {   
+               $("#searchText").attr("placeholder","");
+                $("#searchText").css("color","#000");
+            }
+         }
+ function inputonblur(){
+   var thisval = $("#searchText").val();
+   if(thisval==""){
+      $("#searchText").attr("placeholder","输入关键字");
+            }
+         }
+
+</script>
+
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="100%" height="auto"></a>
 <p>
