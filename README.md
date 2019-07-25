@@ -54,9 +54,10 @@ overflow:hidden;
 div.CC
 {
 	float:left;
-	width:27.5%;
-	height:auto;
-	
+	width:100px;
+	height:50;
+	line-height:50px; 
+border:blue solid 1px;
 border-radius: 10px;
     padding: 1px; 
 overflow:hidden;
