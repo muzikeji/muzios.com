@@ -133,7 +133,7 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 <a href="/guanyu.html" target="_blank"><div  class="CC" style="background-color: #2fe1cb"><p class="cc">
 ⌘关于捷径</p>
 </div></a>
-<a href="/LX.html" target="_blank"><div  class="CC" style="background-color: #f04b14"><p class="cc">
+<a href="/LX.html" target="_blank"><div  class="CC" style="background-color: #f3a073"><p class="cc">
 ✆联系我们</p>
 </div></a>
 <h2 class="text_line">  iPhone 快捷指令</h2>
