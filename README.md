@@ -136,7 +136,7 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 
 <div class="search-box" style="float:left;margin-top: 0px;margin-left: 75px;">
 <form id="searchForm" name="searchForm" action="ithelpdesk/search/searchInfo.jsp" target="_blank" method="post">
-    <input type="text" id="searchText" placeholder="输入关键字" style="margin-top:0px;width: 230px;color:rgb(0,0,0);"                            onkeypress="if(event.keyCode == 13) search();"
+    <input type="text" id="searchText" placeholder="输入关键字" style="margin-top:0px;width: 150px;color:rgb(0,0,0);"                            onkeypress="if(event.keyCode == 13) search();"
 onfocus="inputgetfocus();" onblur="inputonblur();"/>
     <button type="button" style="margin-top:0px" onclick="search()">搜索</button>
 </form>
