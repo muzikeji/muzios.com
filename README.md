@@ -9,30 +9,6 @@
 <style>
 h1 { display:none; }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: left;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #111;
-}
-
 .active {
     background-color: #191dea;
 }
@@ -41,6 +17,8 @@ li a:hover:not(.active) {
 	clear:both;
 	margin-bottom:0px;
 }
+
+body{ text-align:center} 
 
 div.ex
 {
@@ -73,10 +51,21 @@ border-radius: 10px;
     padding: 5px; 
 overflow:hidden;
 }
+div.CC
+{
+	float:left;
+	width:27.5%;
+	height:auto;
+	
+border-radius: 10px;
+    padding: 1px; 
+overflow:hidden;
+margin:5px; 
+}
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
 h3  {text-align: center; color:#ffffff; font-size:20px;}
 h2  {text-align: center; color: #6b93d6; font-size:20px;}
-
+p.cc  {text-align: center; color:#ffffff; font-size:14px;}
 
 a {
 color: #ffffff;
@@ -93,7 +82,6 @@ a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
 
 	
-<link rel="stylesheet" href="css/style.css" />
 
 </style>
 </head>
@@ -134,42 +122,20 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 
 </body>
 
-<div class="search-box" style="float:left;margin-top: 0px;margin-left: 75px;">
-<form id="searchForm" name="searchForm" action="ithelpdesk/search/searchInfo.jsp" target="_blank" method="post">
-    <input type="text" id="searchText" placeholder="输入关键字" style="margin-top:0px;width: 150px;color:rgb(0,0,0);"                            onkeypress="if(event.keyCode == 13) search();"
-onfocus="inputgetfocus();" onblur="inputonblur();"/>
-    <button type="button" style="margin-top:0px" onclick="search()">搜索</button>
-</form>
-</div>
-<script>
-function inputgetfocus(){
-var defval = $("#searchText").attr("placeholder");
-            if("输入关键字"==defval)
-            {   
-               $("#searchText").attr("placeholder","");
-                $("#searchText").css("color","#000");
-            }
-         }
- function inputonblur(){
-   var thisval = $("#searchText").val();
-   if(thisval==""){
-      $("#searchText").attr("placeholder","输入关键字");
-            }
-         }
-
-</script>
-
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="100%" height="auto"></a>
-<p>
-<ul>
-  <li><a class="active" href="http://muzikeji.cn/">主页</a></li>
-  <li><a href="https://jiejinghe.com/search">搜索</a></li>
- <li><a href="http://jiejingkeji.top">关于捷径</a></li>
-  <li><a href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
- 
-</ul>
-<h2> iPhone 快捷指令</h2>
+<p class="text_line"> </p>
+
+<a href="https://jiejinghe.com/search" target="_blank"><div  class="CC" style="background-color: #37a6e2"><p class="cc">
+𝙌搜索捷径</p>
+</div></a>
+<a href="http://jiejingkeji.top" target="_blank"><div  class="CC" style="background-color: #2fe1cb"><p class="cc">
+⌘关于捷径</p>
+</div></a>
+<a href="https://mzljjkj.github.io/iPhone.github.io/" target="_blank"><div  class="CC" style="background-color: #f04b14"><p class="cc">
+✆联系我们</p>
+</div></a>
+<h2 class="text_line">  iPhone 快捷指令</h2>
 <a href="https://jiejinghe.com/shortcuts/7076318015" target="_blank"><div  class="fd" style="background-color: #eb4d4d"><h3>
 <span style= "font-family: Arial"> 双色球 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：这是一个双色球摇号和查询开奖的工具，在这里你可以随机抽取属于你的幸运号码！</p>　
 </div></a>
