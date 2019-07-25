@@ -130,7 +130,7 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 <a href="https://jiejinghe.com/search" target="_blank"><div  class="CC" style="background-color: #37a6e2"><p class="cc">
 𝙌搜索捷径</p>
 </div></a>
-<a href="http://jiejingkeji.top" target="_blank"><div  class="CC" style="background-color: #2fe1cb"><p class="cc">
+<a href="/guanyu.html" target="_blank"><div  class="CC" style="background-color: #2fe1cb"><p class="cc">
 ⌘关于捷径</p>
 </div></a>
 <a href="https://mzljjkj.github.io/iPhone.github.io/" target="_blank"><div  class="CC" style="background-color: #f04b14"><p class="cc">
