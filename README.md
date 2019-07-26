@@ -93,7 +93,7 @@ a:active {text-decoration:none;}
     top: '15%',
     button: {
       id: 9,
-      type: 'zanzhu',
+      type: 'dashang',
     },
     list: [
       {
