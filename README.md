@@ -87,7 +87,7 @@ a:active {text-decoration:none;}
 </style>
 </head>
 <body>
-<script src="/tctip-1.0.0.min.js"></script>
+<script src="https://muzikeji.cn/tctip-1.0.0.min.js"></script>
   <script> 
   new tctip({
     top: '15%',
@@ -104,10 +104,10 @@ a:active {text-decoration:none;}
         qrImg: '/95875A75-7E4C-4AB1-BEDA-3C99B27C0AC7.jpeg'
       }, {
         type: 'wxq',
-        qrImg: '/95875A75-7E4C-4AB1-BEDA-3C99B27C0AC7.jpeg'
+        qrImg: 'https://i.loli.net/2019/07/26/5d3ab5c234f4524856.jpg'
       }, {
         type: 'QQq',
-        qrImg: '/95875A75-7E4C-4AB1-BEDA-3C99B27C0AC7.jpeg'
+        qrImg: 'https://i.loli.net/2019/07/26/5d3ab5c2b2b9633800.jpg'
       }
     ]
   }).init()
