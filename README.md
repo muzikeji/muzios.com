@@ -87,7 +87,7 @@ a:active {text-decoration:none;}
 </style>
 </head>
 <body>
-<script src="https://muzikeji.cn/tctip-1.0.0.min.js"></script>
+<script src="/tctip-1.0.0.min.js"></script>
   <script> 
   new tctip({
     top: '15%',
