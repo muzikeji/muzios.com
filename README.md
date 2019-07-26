@@ -103,7 +103,7 @@ a:active {text-decoration:none;}
         type: 'wechat',
         qrImg: '/95875A75-7E4C-4AB1-BEDA-3C99B27C0AC7.jpeg'
       }, {
-        type: 'wwq',
+        type: 'wxq',
         qrImg: '/95875A75-7E4C-4AB1-BEDA-3C99B27C0AC7.jpeg'
       }, {
         type: 'QQq',
