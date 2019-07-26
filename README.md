@@ -93,7 +93,7 @@ a:active {text-decoration:none;}
     top: '15%',
     button: {
       id: 9,
-      type: 'dashang',
+      type: 'zanzhu',
     },
     list: [
       {
@@ -101,6 +101,12 @@ a:active {text-decoration:none;}
         qrImg: '/417D2AEF-C9BD-4457-9393-D34F7FBA3106.jpeg'
       }, {
         type: 'wechat',
+        qrImg: '/95875A75-7E4C-4AB1-BEDA-3C99B27C0AC7.jpeg'
+      }, {
+        type: 'wwq',
+        qrImg: '/95875A75-7E4C-4AB1-BEDA-3C99B27C0AC7.jpeg'
+      }, {
+        type: 'QQq',
         qrImg: '/95875A75-7E4C-4AB1-BEDA-3C99B27C0AC7.jpeg'
       }
     ]
