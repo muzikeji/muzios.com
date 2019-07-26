@@ -7,6 +7,22 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <style>
+
+body {
+/* 加载背景图 */
+background-image: url(images/background-photo.jpg);
+/* 背景图垂直、水平均居中 */
+background-position: center center;
+/* 背景图不平铺 */
+background-repeat: no-repeat;
+/* 当内容高度大于图片高度时，背景图像的位置相对于viewport固定 */
+background-attachment: fixed;
+/* 让背景图基于容器大小伸缩 */
+background-size: cover;
+/* 设置背景颜色，背景图加载过程中会显示背景色 */
+background-color:#18b6ba;
+}
+
 h1 { display:none; }
 
 .active {
@@ -19,6 +35,13 @@ h1 { display:none; }
 }
 
 body{ text-align:center} 
+
+p.ridge {border-style:ridge;
+width:280px;
+	height:auto;
+margin:0 auto;
+border-radius: 40px;
+   }
 
 div.ex
 {
@@ -175,8 +198,8 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 </div></a>
 <h2 class="text_line"> </h2>
 <div class="ex">
-<h2>版权所有|盗版必究</h2>
-<h2> <a href="mailto:56794501@qq.com">&nbsp;商务合作</a>|<a href="https://jiejinghe.com/" target="_blank">捷径盒</a> </h2>
+<h2>【温馨提示】</h2>
+<h2><a href="mailto:56794501@qq.com">&nbsp;商务合作</a>|<a href="https://jiejinghe.com/" target="_blank">捷径盒</a> </h2>
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="mailto:56794501@qq.com">致信给我们</a>或者<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:56794501:51" alt="联系客服💁🏻‍♂️" title="联系客服💁🏻‍♂️"/></a>我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
 </div>
   <div style='height:30px; line-height:30px; text-align:center; color: #b2b2b2;'>
@@ -194,3 +217,5 @@ important;height:35px!important;" src="http://pic.kuaizhan.com/g2/M00/71/80/CgpQ
  
         <img style="position:fixed;right:0; bottom:220px; z-index:99999; width:35px !
 important;height:50px !important;" src="https://mb.mbd.baidu.com/9jnhgjj?f=cp&u=8900d2fa466983e4" />
+
+<p class="ridge">木子科技唯一官方网站</p><h2 class="text_line"> </h2><p class="cc">版权所有©️木子科技2019-2028</p><p class="cc">感谢访问本站好用记得收藏</p>
