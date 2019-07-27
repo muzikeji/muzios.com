@@ -205,7 +205,6 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 </div>
 
 <h2 class="text_line"> </h2>
-
 <div class="sm"><p class="cc">
 木子科技唯一官方网站</p></div><p class="cc">版权所有©️木子科技(2019-2028)</p><p class="cc">感谢访问本站好用记得收藏</p>
  <div style='height:30px; line-height:30px; text-align:center; color: #b2b2b2;'>
@@ -221,4 +220,4 @@ important;height:35px!important;" src="http://pic.kuaizhan.com/g2/M00/71/80/CgpQ
    <a href="https://k.weidian.com/IN2gD6zv">
  
         <img style="position:fixed;right:0; bottom:220px; z-index:99999; width:35px !
-important;height:50px !important;" src="https://mb.mbd.baidu.com/9jnhgjj?f=cp&u=8900d2fa466983e4" />
+important;height:35px !important;" src="https://i.loli.net/2019/07/27/5d3b96798538791735.png" />
