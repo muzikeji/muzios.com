@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
 <style>
 
 body {
@@ -35,9 +36,15 @@ h1 { display:none; }
 }
 
 body{ text-align:center} 
-
+div.cd {border-radius: 10px;
+border: #e9e9e9 solid 1px;
+width:90%;
+	height:60px;
+margin:0 auto;
+border-radius: 5px;
+   }
 div.sm {border-radius: 10px;
-
+border: #e9e9e9 solid 1px;
 width:200px;
 	height:20px;
 margin:0 auto;
@@ -71,7 +78,7 @@ div.fd
 	width:320px;
 	height:175px;
 	margin:5px;
-
+border: #e9e9e9 solid 1px;
 border-radius: 10px;
     padding: 5px; 
 overflow:hidden;
@@ -79,7 +86,7 @@ overflow:hidden;
 div.CC
 {
 	float:left;
-	width:28%;
+	width:30%;
 	height:50px;
 	line-height:50px; 
 border:blue solid 1px;
@@ -94,7 +101,7 @@ h2  {text-align: center; color: #ffffff; font-size:20px;}
 p.cc  {text-align: center; color:#ffffff; font-size:14px;}
 
 a {
-color: #ffffff;
+color: #0508b9;
 text-decoration: none;
 }
 a:active {
@@ -151,14 +158,13 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
         },false);
 }
 </script>
-
 </body>
 
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="100%" height="auto"></a>
+<embed src="http://m7c.music.126.net/20190727121148/cb3207346db5f6f7060f782a77523c08/ymusic/055d/065f/515d/272b5d606115f57d5942f79561148769.mp3" hidden="true" autostart="true" loop="true">
 <p class="text_line"> </p>
-
-<a href="https://jiejinghe.com/search" target="_blank"><div  class="CC" style="background-color: #37a6e2"><p class="cc">
+<div  class="cd"><a href="https://jiejinghe.com/search" target="_blank"><div  class="CC" style="background-color: #37a6e2"><p class="cc">
 𝙌搜索捷径</p>
 </div></a>
 <a href="/guanyu.html" target="_blank"><div  class="CC" style="background-color: #2fe1cb"><p class="cc">
@@ -166,7 +172,7 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 </div></a>
 <a href="/LX.html" target="_blank"><div  class="CC" style="background-color: #f3a073"><p class="cc">
 ✆联系我们</p>
-</div></a>
+</div></a></div>
 <h2 class="text_line">  iPhone 快捷指令</h2>
 <a href="https://jiejinghe.com/shortcuts/7076318015" target="_blank"><div  class="fd" style="background-color: #eb4d4d"><h3>
 <span style= "font-family: Arial"> 双色球 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：这是一个双色球摇号和查询开奖的工具，在这里你可以随机抽取属于你的幸运号码！</p>　
@@ -198,6 +204,9 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 <a href="https://jiejinghe.com/shortcuts/9718483448" target="_blank"><div  class="fd" style="background-color: #c368d7"><h3>
 <span style= "font-family: Arial"> 百思不得姐 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：‍ ‍上厕所、‍等‍车、‍‍排队‍办理‍业务‍‍很无聊‍怎么办‍？‍就用“‍它”‍百思不得姐，‍一个‍专注‍段子‍的‍捷径！ 哈哈，‍百思‍不得姐，‍‍‍手机‍必备‍段子‍手</p>　
 </div></a>
+<a href="https://www.icloud.com/shortcuts/21ef79f2c297417c9ec32dce88775421" target="_blank"><div  class="fd" style="background-color: #a4a4a4"><h3>
+<span style= "font-family: Arial"> iOS配置文件 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：本捷径提功各种iOS beta 配置文件下载，包括iPhone、iPad、MAC、 Apple TV、watch！</p>　
+</div></a>
 <a href="https://jiejinghe.com/users/6563404841" target="_blank"><div  class="fd" style="background-color: #000000">
 <h2>查看更多</h2><p class="date">联系站主请点击右侧QQ图标或者顶部菜单里点击联系项找适合你的方式联系！</p>　
 </div></a>
@@ -208,9 +217,11 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="mailto:56794501@qq.com">致信给我们</a>或者<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:56794501:51" alt="联系客服💁🏻‍♂️" title="联系客服💁🏻‍♂️"/></a>我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
 </div>
 
-<h2 class="text_line"> </h2>
+<p class="text_line"> </p>
+
+<p class="cc">感谢访问本站好用记得收藏</p>
 <div  class="sm" style="background-color: #7fc4e5"><p class="cc">
-木子科技唯一官方网站</p></div><p class="cc">版权所有©️木子科技(2019-2028)</p><p class="cc">感谢访问本站好用记得收藏</p>
+木子科技唯一官方网站</p></div><p class="cc">版权所有©️木子科技(2019-2028)</p>
  <div style='height:30px; line-height:30px; text-align:center; color: #b2b2b2;'>
     <a href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes/">
  
