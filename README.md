@@ -183,6 +183,9 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 <a href="https://www.icloud.com/shortcuts/e7318c10e7f348ffa9214a3e0482432a" target="_blank"><div  class="fd" style="background-color: #e06b3e"><h3>
 <span style= "font-family: Arial"> 每日壁纸 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：每运行一次更换一次壁纸，内置10万➕壁纸，可设置指定时间或地点自动运行更换壁纸！</p>　
 </div></a>
+<a href="https://www.icloud.com/shortcuts/b703dc604de14130b33aab97f0c99602" target="_blank"><div  class="fd" style="background-color: #a454dc"><h3>
+<span style= "font-family: Arial"> 抖音去水印下载 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：真抖音+tiktok无水印下载，无需VPN @感谢Veritas制作和分享！</p>　
+</div></a>
 <a href="https://www.icloud.com/shortcuts/5be9a04d07894562ba9bed7d83e5787a" target="_blank"><div  class="fd" style="background-color: #6495f1"><h3>
 <span style= "font-family: Arial"> 应用图标提取器 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：输入app store应用名称可以快速提取应用程序的图标！</p>　
 </div></a>
