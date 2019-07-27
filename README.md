@@ -36,7 +36,8 @@ h1 { display:none; }
 
 body{ text-align:center} 
 
-div.sm {border-style:ridge;
+div.sm {border-radius: 10px;
+
 width:200px;
 	height:25px;
 margin:0 auto;
@@ -205,7 +206,7 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 </div>
 
 <h2 class="text_line"> </h2>
-<div class="sm"><p class="cc">
+<div  class="sm" style="background-color: #7fc4e5"><p class="cc">
 木子科技唯一官方网站</p></div><p class="cc">版权所有©️木子科技(2019-2028)</p><p class="cc">感谢访问本站好用记得收藏</p>
  <div style='height:30px; line-height:30px; text-align:center; color: #b2b2b2;'>
     <a href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes/">
@@ -217,7 +218,7 @@ important;height:35px !important;" src="http://wpa.qq.com/pa?p=2:56794501:52" />
  
          <img style="position:fixed;right:0; bottom:100px; z-index:99999; width:35px !
 important;height:35px!important;" src="http://pic.kuaizhan.com/g2/M00/71/80/CgpQVFbSmpCAdtMEAAEO6ESdBwI3920068" />
-   <a href="https://k.weidian.com/IN2gD6zv">
+   <a href="https://k.weidian.com/XFSgYCku">
  
         <img style="position:fixed;right:0; bottom:220px; z-index:99999; width:35px !
 important;height:35px !important;" src="https://i.loli.net/2019/07/27/5d3b96798538791735.png" />
