@@ -39,7 +39,7 @@ body{ text-align:center}
 div.sm {border-radius: 10px;
 
 width:200px;
-	height:25px;
+	height:20px;
 margin:0 auto;
 border-radius: 35px;
    }
