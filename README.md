@@ -253,13 +253,13 @@ a:active {text-decoration:none;}
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
 <img  border="0" src="https://i.loli.net/2019/07/27/5d3c4b6e4773234939.jpg" alt="快捷指令" width="100%" height="auto"></a></div>
-<h2 class="text_line"> </h2>
-<div  class="tp"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
+
+<div  class="cz"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
 𝕯 关注微博</p>
 </div></a><a href="http://v.douyin.com/S7wDt2/" target="_blank"><div  class="CD" style="background-color: #04020c"><p class="cc">
 ♪ 关注抖音</p>
 </div></a></div>
-<h2 class="text_line"> </h2>
+
 <div class="ex">
 <h2>【温馨提示】</h2>
 <p class="cc"><a href="mailto:56794501@qq.com">&nbsp;商务合作</a>|<a href="https://jiejinghe.com/" target="_blank">捷径盒</a> </p>
