@@ -204,9 +204,10 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="mailto:56794501@qq.com">致信给我们</a>或者<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:56794501:51" alt="联系客服💁🏻‍♂️" title="联系客服💁🏻‍♂️"/></a>我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
 </div>
 
+<h2 class="text_line"> </h2>
 
 <div class="sm"><p class="cc">
-木子科技唯一官方网站</p></div><h2 class="text_line"> </h2><p class="cc">版权所有©️木子科技(2019-2028)</p><p class="cc">感谢访问本站好用记得收藏</p>
+木子科技唯一官方网站</p></div><p class="cc">版权所有©️木子科技(2019-2028)</p><p class="cc">感谢访问本站好用记得收藏</p>
  <div style='height:30px; line-height:30px; text-align:center; color: #b2b2b2;'>
     <a href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes/">
  
