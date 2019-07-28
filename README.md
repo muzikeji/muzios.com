@@ -48,9 +48,9 @@ margin:0 auto;
 border-radius: 5px;
    }
 div.sm {border-radius: 10px;
-border: #e9e9e9 solid 1px;
-width:70px;
-	height:70px;
+border: #c2afd0 solid 1px;
+width:50px;
+	height:50px;
 margin:0 auto;
 border-radius: 50%;
    overflow:hidden;}
@@ -220,9 +220,9 @@ a:active {text-decoration:none;}
 </script>
 </head>
 <body>
-<div  class="sm" style="background-color: #7fc4e5"> <img src="https://i.loli.net/2019/07/28/5d3cebccaa00364558.png" alt="Computer man" width="70" height="70"> </div>
-<div  class="mc" style="background-color:  #7ba0f1"> <p class="cc">木子科技</p></div>
-<h3> ◄≣越接近，越完美；用捷径，更轻松！</h3>
+<div  class="sm" style="background-color: #7ba0f1"> <img src="https://i.loli.net/2019/07/28/5d3d153e9b43e54130.png" alt="Computer man" width="50" height="50"> </div>
+<div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩𝓀𝒿 </p></div>
+<h3> ◄≋越接近，越完美；用捷径，更轻松！</h3>
 <p class="text_line"> </p>
 
 	<a href="/JJ.html" target="_blank"><div id="box" onmouseover="stop()" onmouseout="start()">
