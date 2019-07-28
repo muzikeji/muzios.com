@@ -136,15 +136,15 @@ margin:5px;
 	margin-bottom:0px;
 }
 	#red{
-		background-image: url(https://i.loli.net/2019/07/27/5d3c170ee773143216.jpg);
+		background-image: url(/img/7977D825-4EE3-4AEE-BE38-BBBD828F3402.png);
 		width:340px;
 	}
 	#green{
-		background-image: url(https://i.loli.net/2019/07/27/5d3c170e622fd23976.jpg);
+		background-image: url(/img/9EF84CD6-BF53-49CD-A5BB-49837FA6EC28.jpeg);
 		width:340px;
 	}
 	#blue{
-		background-image: url(https://i.loli.net/2019/07/27/5d3c170f4d0e255749.jpg);
+		background-image: url(/img/A86917D5-993E-4415-B9FB-70F19D3DCB77.png);
 		width:340px;
 	}
 	.slide{
@@ -245,18 +245,18 @@ a:active {text-decoration:none;}
 </div></a>
 </div>
 <p class="text_line"> </p>
-<div  class="tp"><img class="thumbnail" src="https://i.loli.net/2019/07/27/5d3c40e2f0e9124271.jpg" width="46%" height="80" alt="Planets" usemap="#1">
+<div  class="tp"><img class="thumbnail" src="/img/3B08AB8A-464B-4C4E-8831-F7D5F4D73826.jpeg" width="46%" height="80" alt="Planets" usemap="#1">
 
 <map name="1">
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"></map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/27/5d3c40efd06ab98419.jpg" width="46%" height="80" alt="Planets" usemap="#2">
+<img class="thumbnail" src="/img/60EFA89D-EBF4-42AC-83F5-685C3836EA91.png" width="46%" height="80" alt="Planets" usemap="#2">
 
 <map name="2">
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc">
 </map></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
-<img  border="0" src="https://i.loli.net/2019/07/27/5d3c4b6e4773234939.jpg" alt="快捷指令" width="100%" height="auto"></a></div>
+<img  border="0" src="/img/EDEBB48A-9538-44EA-BD3F-DDB183C367F4.png" alt="快捷指令" width="100%" height="auto"></a></div>
 
 <div  class="cz"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
 𝕯 关注微博</p>
