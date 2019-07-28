@@ -22,6 +22,17 @@ background-size: cover;
 /* 设置背景颜色，背景图加载过程中会显示背景色 */
 background-color: #7ba0f1;
 }
+#div1{
+	border:#06C 0px solid;
+	position:fixed;
+    width:100%;
+    height:0px;
+    z-index:100;    
+    top: 75%;
+	left:0px;
+	text-align:right;
+	background-color:#FFF;
+	}
 	#box{
 		width:340px;
 		height:185px;
@@ -220,7 +231,8 @@ a:active {text-decoration:none;}
 </script>
 </head>
 <body>
-
+<div id="div1"> <img src="https://rq.mbd.baidu.com/hnshpq5?f=cp&u=d2dfd9c43fa045b7" alt="Smiley face" width="60" height="30">
+</div>
 <a href="https://jiejinghe.com/users/6563404841"> <img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="100%" height="auto"></a>
 <embed src="http://m7c.music.126.net/20190727121148/cb3207346db5f6f7060f782a77523c08/ymusic/055d/065f/515d/272b5d606115f57d5942f79561148769.mp3" hidden="true" autostart="true" loop="true">
 
