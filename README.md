@@ -221,7 +221,7 @@ a:active {text-decoration:none;}
 </head>
 <body>
 <div  class="sm" style="background-color: #7fc4e5"> <img src="https://i.loli.net/2019/07/27/5d3c317ee785b81349.jpg" alt="Computer man" width="70" height="70"> </div>
-<div  class="mc" style="background-color: #ef39d0"> <p class="cc">木子科技</p></div>
+<div  class="mc" style="background-color:  #7ba0f1"> <p class="cc">木子科技</p></div>
 <p class="text_line"> </p>
 
 	<a href="/JJ.html" target="_blank"><div id="box" onmouseover="stop()" onmouseout="start()">
@@ -233,11 +233,11 @@ a:active {text-decoration:none;}
 <p class="text_line"> </p>
 <div  class="cz"><a href="/JJ.html" target="_blank"><div  class="CC" style="background-color: #f3a073"><p class="cc">
 ⌘ 下载捷径</p>
-</div></a><a href="https://jiejinghe.com/search" target="_blank"><div  class="CC" style="background-color: #37a6e2"><p class="cc">
-𝙌搜索捷径</p>
+</div></a><a href="/guanyu.html" target="_blank"><div  class="CC" style="background-color: #335bd6"><p class="cc">
+𝓲 关于捷径</p>
 </div></a>
-<a href="/guanyu.html" target="_blank"><div  class="CC" style="background-color: #2fe1cb"><p class="cc">
-〠关于捷径</p>
+<a href="/LX.html" target="_blank"><div  class="CC" style="background-color: #2fe1cb"><p class="cc">
+✆联系我们</p>
 </div></a>
 </div>
 <p class="text_line"> </p>
@@ -269,6 +269,6 @@ a:active {text-decoration:none;}
 <p class="text_line"> </p>
 
 <p class="cc">感谢访问本站好用记得收藏</p>
-<div  class="s" style="background-color: #7fc4e5"><p class="cc">
+<div  class="s" style="background-color: #7ba0f1"><p class="cc">
 木子科技唯一官方网站</p></div><p class="cc">版权所有©️木子科技(2019-2028)</p>
 
