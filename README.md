@@ -155,7 +155,7 @@ margin:5px;
 
 
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
-h3  {text-align: center; color:#ffffff; font-size:20px;}
+h3  {text-align: justify; color:#ffffff; font-size:20px;}
 h2  {text-align: center; color: #ffffff; font-size:20px;}
 p.cc  {text-align: center; color:#ffffff; font-size:15px;}
 
@@ -222,6 +222,7 @@ a:active {text-decoration:none;}
 <body>
 <div  class="sm" style="background-color: #7fc4e5"> <img src="https://i.loli.net/2019/07/28/5d3cebccaa00364558.png" alt="Computer man" width="70" height="70"> </div>
 <div  class="mc" style="background-color:  #7ba0f1"> <p class="cc">木子科技</p></div>
+<h3> ◄≣越接近，越完美；用捷径，更轻松！</h3>
 <p class="text_line"> </p>
 
 	<a href="/JJ.html" target="_blank"><div id="box" onmouseover="stop()" onmouseout="start()">
