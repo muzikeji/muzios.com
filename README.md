@@ -244,7 +244,6 @@ a:active {text-decoration:none;}
 <embed src="http://m7c.music.126.net/20190727121148/cb3207346db5f6f7060f782a77523c08/ymusic/055d/065f/515d/272b5d606115f57d5942f79561148769.mp3" hidden="true" autostart="true" loop="true">
 
 <div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩𝓚𝓙 </p></div>
-<h3> ◄≋越接近，越完美；用捷径，更轻松！</h3>
 <p class="text_line"> </p>
 
 	<a href="/JJ.html" target="_blank"><div id="box" onmouseover="stop()" onmouseout="start()">
