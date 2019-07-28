@@ -174,7 +174,7 @@ div.container {
 }
 
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
-h3  {text-align: justify; color:#ffffff; font-size:20px;}
+h3  {text-align: justify; color:#000000; font-size:20px;}
 h2  {text-align: center; color: #ffffff; font-size:20px;}
 p.cc  {text-align: center; color:#ffffff; font-size:15px;}
 
@@ -264,11 +264,11 @@ a:active {text-decoration:none;}
 </div></a>
 </div>
 <p class="text_line"> </p>
-<div  class="tp"><img class="thumbnail" src="/img/3B08AB8A-464B-4C4E-8831-F7D5F4D73826.jpeg" width="46%" height="80" alt="Planets" usemap="#1">
+<div  class="tp"><img class="thumbnail" src="/img/3B08AB8A-464B-4C4E-8831-F7D5F4D73826.jpeg" width="43%" height="80" alt="Planets" usemap="#1">
 
 <map name="1">
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"></map>
-<img class="thumbnail" src="/img/60EFA89D-EBF4-42AC-83F5-685C3836EA91.png" width="46%" height="80" alt="Planets" usemap="#2">
+<img class="thumbnail" src="/img/60EFA89D-EBF4-42AC-83F5-685C3836EA91.png" width="43%" height="80" alt="Planets" usemap="#2">
 
 <map name="2">
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc">
