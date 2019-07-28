@@ -231,7 +231,7 @@ a:active {text-decoration:none;}
 </script>
 </head>
 <body>
-<div id="div1"> <img src="https://rq.mbd.baidu.com/hnshpq5?f=cp&u=d2dfd9c43fa045b7" alt="Smiley face" width="60" height="30">
+<div id="div1"> <a href="mqq://im/chat?chat_type=wpa&uin=56794501&version=1&src_type=web"><img src="https://rq.mbd.baidu.com/hnshpq5?f=cp&u=d2dfd9c43fa045b7" alt="Smiley face" width="60" height="30"></a>
 </div>
 <a href="https://jiejinghe.com/users/6563404841"> <img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="100%" height="auto"></a>
 <embed src="http://m7c.music.126.net/20190727121148/cb3207346db5f6f7060f782a77523c08/ymusic/055d/065f/515d/272b5d606115f57d5942f79561148769.mp3" hidden="true" autostart="true" loop="true">
