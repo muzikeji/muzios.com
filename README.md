@@ -220,8 +220,12 @@ a:active {text-decoration:none;}
 </script>
 </head>
 <body>
-<div  class="sm" style="background-color: #7ba0f1"> <img src="/img/089BA098-817D-45BC-9B3F-230CDD159128.png" alt="Computer man" width="50" height="50"> </div>
-<div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩 𝓚 𝓙 </p></div>
+
+<a href="https://jiejinghe.com/users/6563404841">
+<img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="100%" height="auto"></a>
+<embed src="http://m7c.music.126.net/20190727121148/cb3207346db5f6f7060f782a77523c08/ymusic/055d/065f/515d/272b5d606115f57d5942f79561148769.mp3" hidden="true" autostart="true" loop="true">
+
+<div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩𝓚𝓙 </p></div>
 <h3> ◄≋越接近，越完美；用捷径，更轻松！</h3>
 <p class="text_line"> </p>
 
