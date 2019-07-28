@@ -172,9 +172,9 @@ div.container {
   text-align: center;
   padding: 12px 12px;
 }
-
+p.d {text-align: justify; color:#000000; font-size:10px;}
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
-h3  {text-align: justify; color:#000000; font-size:10px;}
+h3  {text-align: justify; color:#000000; font-size:14px;}
 h2  {text-align: center; color: #ffffff; font-size:20px;}
 p.cc  {text-align: center; color:#ffffff; font-size:15px;}
 
@@ -291,16 +291,16 @@ a:active {text-decoration:none;}
 <p class="text_line"> </p>
 <h3>友情链接：</h3>
 <a href="https://jiejinghe.com" target="_blank"><div class="polaroid">  <img src="https://i.loli.net/2019/07/28/5d3daa579913620091.png" alt="Norway" style="width:100%"> <div class="container">
-    <h3>捷径盒</h3>
+    <p class="d">捷径盒</p>
   </div>
 </div></a>
 <a href="https://www.starchina.top" target="_blank"><div class="polaroid">  <img src="https://i.loli.net/2019/07/28/5d3da9f379d5a31114.jpg" alt="Norway" style="width:100%"> <div class="container">
-    <h3>星辰网络</h3>
+      <p class="d">星辰网络</p>
   </div>
 </div>
 </a>
 <a href="https://www.ttupp.com" target="_blank"><div class="polaroid">  <img src="https://i.loli.net/2019/07/28/5d3da80b0430949174.jpg" alt="Norway" style="width:100%"> <div class="container">
-    <h3>清风不识字</h3>
+      <p class="d">清风不识字</p>
   </div>
 </div></a>
 <p class="text_line"> </p>
