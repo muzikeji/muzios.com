@@ -220,8 +220,8 @@ a:active {text-decoration:none;}
 </script>
 </head>
 <body>
-<div  class="sm" style="background-color: #7ba0f1"> <img src="https://i.loli.net/2019/07/28/5d3d153e9b43e54130.png" alt="Computer man" width="50" height="50"> </div>
-<div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩𝓀𝒿 </p></div>
+<div  class="sm" style="background-color: #7ba0f1"> <img src="/img/089BA098-817D-45BC-9B3F-230CDD159128.png" alt="Computer man" width="50" height="50"> </div>
+<div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩 𝓚 𝓙 </p></div>
 <h3> ◄≋越接近，越完美；用捷径，更轻松！</h3>
 <p class="text_line"> </p>
 
