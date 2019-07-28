@@ -221,8 +221,7 @@ a:active {text-decoration:none;}
 </head>
 <body>
 
-<a href="https://jiejinghe.com/users/6563404841">
-<img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="100%" height="auto"></a>
+<a href="https://jiejinghe.com/users/6563404841"> <img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="100%" height="auto"></a>
 <embed src="http://m7c.music.126.net/20190727121148/cb3207346db5f6f7060f782a77523c08/ymusic/055d/065f/515d/272b5d606115f57d5942f79561148769.mp3" hidden="true" autostart="true" loop="true">
 
 <div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩𝓚𝓙 </p></div>
@@ -275,5 +274,7 @@ a:active {text-decoration:none;}
 
 <p class="cc">感谢访问本站好用记得收藏</p>
 <div  class="s" style="background-color: #7ba0f1"><p class="cc">
-木子科技唯一官方网站</p></div><p class="cc">版权所有©️木子科技(2019-2028)</p>
+木子科技唯一官方网站<"/935D26FB/p></div><p class="cc">版权所有©️木子科技(2019-2028)</p>
 
+
+<script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
