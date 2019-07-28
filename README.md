@@ -160,8 +160,8 @@ margin:5px;
 }
 
 div.polaroid {
-  width: 25%;
-  background-color: #42e3c7;
+  width: 30%;
+  background-color: #ffffff;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
 	float:left;
@@ -170,7 +170,7 @@ div.polaroid {
 
 div.container {
   text-align: center;
-  padding: 1px 3px;
+  padding: 8px 6px;
 }
 
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
