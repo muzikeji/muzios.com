@@ -279,18 +279,18 @@ a:active {text-decoration:none;}
 <p class="cc"><a href="mailto:56794501@qq.com">&nbsp;商务合作</a>|<a href="https://jiejinghe.com/" target="_blank">捷径盒</a> </p>
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="mailto:56794501@qq.com">致信给我们</a>或者<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:56794501:51" alt="联系客服💁🏻‍♂️" title="联系客服💁🏻‍♂️"/></a>我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
 </div>
-<p class="date">友站链接➠ </p>
-<a href="https://jiejinghe.com"><img class="thumbnail" src="https://i.loli.net/2019/07/28/5d3daa579913620091.png" width="40" height="40" alt="Planets" usemap="#1"></a> 
-<a href="https://www.starchina.top"><img class="thumbnail" src="https://i.loli.net/2019/07/28/5d3da9f379d5a31114.jpg" width="40" height="40" alt="Planets" usemap="#2"></a> 
-<a href="https://www.ttupp.com"><img class="thumbnail" src="https://i.loli.net/2019/07/28/5d3da80b0430949174.jpg" width="40" height="40" alt="Planets" usemap="#3"></a> 
+<p class="date">友站链接❥ ❙
+<a href="https://jiejinghe.com">捷径盒</a>❙
+<a href="https://www.starchina.top">星辰网络</a>❙
+<a href="https://www.ttupp.com">清风不识字</a>❙ </p>
 <p class="text_line"> </p>
 
 <p class="cc">感谢访问本站好用记得收藏</p>
 <div  class="s" style="background-color: #7ba0f1"><p class="cc">
-木子科技唯一官方网站</p></div><p class="cc">版权所有©️木子科技(2019-2028)</p>
+木子科技唯一官方网站<"/935D26FB/p></div><p class="cc">版权所有©️木子科技(2019-2028)</p>
 
 <p class="text_line"> </p>
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
 
-<p class="cc">🔚</p>
+<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" title="感谢又拍云提供免费CDN服务" target="_blank"><img src="/img/02A024F4-410B-4140-8A65-639103668186.png" height="50" width="100" </a>
