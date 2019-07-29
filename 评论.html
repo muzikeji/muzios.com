@@ -1,0 +1,268 @@
+<html>
+<head>
+<meta charset="utf-8"> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+<style type="text/css">
+h1 { display:none; }
+body {
+/* 加载背景图 */
+background-image: url();
+/* 背景图垂直、水平均居中 */
+background-position: center center;
+/* 背景图不平铺 */
+background-repeat: no-repeat;
+/* 当内容高度大于图片高度时，背景图像的位置相对于viewport固定 */
+background-attachment: fixed;
+/* 让背景图基于容器大小伸缩 */
+background-size: cover;
+/* 设置背景颜色，背景图加载过程中会显示背景色 */
+background-color: #7ba0f1;
+}
+#div1{
+	border:#06C 0px solid;
+	position:fixed;
+    width:100%;
+    height:0px;
+    z-index:100;    
+    top: 75%;
+	left:0px;
+	text-align:right;
+	background-color:#FFF;
+	}
+	#box{
+		width:340px;
+		height:185px;
+		border:1px solid black;
+		position:relative;
+		overflow:hidden;
+margin:0 auto;
+	}
+div.ex
+{
+background-color: #f4ea00;
+width:auto;
+padding:5px;
+border:5px solid gray;
+margin:0px;
+}
+
+body{ text-align:center} 
+div.cd {border-radius: 10px;
+border: #e9e9e9 solid 1px;
+width:90%;
+	height:60px;
+margin:0 auto;
+border-radius: 5px;
+   }
+div.sm {border-radius: 10px;
+border: #c2afd0 solid 1px;
+width:50px;
+	height:50px;
+margin:0 auto;
+border-radius: 50%;
+   overflow:hidden;}
+
+div.mc {border-radius: 10px;
+border:  #c2afd0 solid 1px;
+width:80px;
+	height:20px;
+margin:0 auto;
+border-radius: 35px;
+   overflow:hidden;}
+
+div.s {border-radius: 10px;
+border: #e9e9e9 solid 1px;
+width:200px;
+	height:20px;
+margin:0 auto;
+border-radius: 35px;
+   overflow:hidden;}
+ .thumbnail
+{
+	float:left;	
+margin:5px;
+}
+div.cz {border-radius: 10px;
+border: #e9e9e9 solid 1px;
+width:89%;
+	height:60px;
+margin:0 auto;
+border-radius: 5px;
+   }
+div.tp {border-radius: 10px;
+width:90%;
+	height:auto;
+margin:0 auto;
+border-radius: 5px;
+   }
+div.sz {border-radius: 10px;
+border: #e9e9e9 solid 1px;
+width:200px;
+	height:20px;
+margin:0 auto;
+border-radius: 35px;
+   }
+div.fd
+{
+	float:left;
+	width:320px;
+	height:175px;
+	margin:5px;
+border: #e9e9e9 solid 1px;
+border-radius: 10px;
+    padding: 5px; 
+overflow:hidden;
+}
+div.CC
+{
+	float:left;
+	width:29%;
+	height:50px;
+	line-height:50px; 
+border:blue solid 1px;
+border-radius: 10px;
+    padding: 1px; 
+overflow:hidden;
+margin:5px; 
+}
+div.CD
+{
+	float:left;
+	width:45%;
+	height:50px;
+	line-height:50px; 
+border:blue solid 1px;
+border-radius: 10px;
+    padding: 1px; 
+overflow:hidden;
+margin:5px; 
+}
+.text_line
+{
+	clear:both;
+	margin-bottom:0px;
+}
+	#red{
+		background-image: url();
+		width:340px;
+	}
+	#green{
+		background-image: url();
+		width:340px;
+	}
+	#blue{
+		background-image: url();
+		width:340px;
+	}
+	.slide{
+		width:340px;
+		height:185px;
+		position:absolute;
+	}
+p.date {text-align: justify; color:#ffffff; font-size:14px;}
+h3  {text-align: justify; color:#ffffff; font-size:20px;}
+h2  {text-align: center; color: #ffffff; font-size:20px;}
+p.cc  {text-align: center; color:#ffffff; font-size:15px;}
+
+a {
+color: #0508b9;
+text-decoration: none;
+}
+a:active {
+text-decoration: none;
+color: #001997;
+}
+
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:none;}
+a:active {text-decoration:none;}
+
+
+</style>
+<script type="text/javascript">
+	onload=function(){
+		var arr = document.getElementsByClassName("slide");
+		for(var i=0;i<arr.length;i++){
+			arr[i].style.left = i*340+"px";
+		}
+	}
+	function LeftMove(){
+		var arr = document.getElementsByClassName("slide");//获取三个子div
+		for(var i=0;i<arr.length;i++){
+			var left = parseFloat(arr[i].style.left);
+			left-=2;
+			var width = 340;//图片的宽度
+			if(left<=-width){
+				left=(arr.length-1)*width;//当图片完全走出显示框，拼接到末尾
+				clearInterval(moveId);
+			}
+			arr[i].style.left = left+"px";
+		}
+	}
+	function divInterval(){
+		moveId=setInterval(LeftMove,20);//设置一个20毫秒定时器
+	}
+	
+	
+	timeId=setInterval(divInterval,3000);//设置一个3秒的定时器。
+	
+	function stop(){
+		clearInterval(timeId);
+	}
+	function start(){
+		clearInterval(timeId);
+		timeId=setInterval(divInterval,3000);
+	}
+	
+	//页面失去焦点停止
+	onblur = function(){
+		stop();
+	}
+	//页面获取焦点时开始
+	onfocus = function(){
+		start();
+	}
+</script>
+</head>
+<body>
+<a href="https://jiejinghe.com/users/6563404841"> <img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="100%" height="auto"></a>
+<embed src="http://m7c.music.126.net/20190727121148/cb3207346db5f6f7060f782a77523c08/ymusic/055d/065f/515d/272b5d606115f57d5942f79561148769.mp3" hidden="true" autostart="true" loop="true">
+
+<div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩𝓚𝓙 </p></div>
+<h3> ◄≋写下你宝贵的意见！</h3>
+<p class="text_line"> </p>
+
+<!-- 来必力City版安装代码 -->
+<div id="lv-container" data-id="city" data-uid="MTAyMC80NTY2OS8yMjE4MA==">
+<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+
+       if (typeof LivereTower === 'function') { return; }
+
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+</script>
+<noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
+</div>
+<!-- City版安装代码已完成 -->
+<p class="text_line"> </p>
+<p class="cc">感谢访问本站好用记得收藏</p>
+<div  class="s" style="background-color: #7ba0f1"><p class="cc">
+木子科技唯一官方网站</p></div><p class="cc">版权所有©️木子科技(2019-2028)</p>
+
+<p class="text_line"> </p>
+<script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
+<script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
+<p class="cc">🔚</p>
+</body>
+
+</html>
