@@ -273,6 +273,9 @@ a:active {text-decoration:none;}
 </div></a><a href="http://v.douyin.com/S7wDt2/" target="_blank"><div  class="CD" style="background-color: #04020c"><p class="cc">
 ♪ 关注抖音</p>
 </div></a></div>
+<a href="/评论.html"><p class="cc"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
+<div  class="tp"> <a href="/评论.html">
+<img  border="0" src="/img/7565B748-6182-4B23-AF05-E67247D6DB19.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div class="ex">
 <h2>【温馨提示】</h2>
@@ -284,9 +287,6 @@ a:active {text-decoration:none;}
 <a href="https://www.starchina.top">星辰网络</a>❙
 <a href="https://www.ttupp.com">清风不识字</a>❙ </p>
 <p class="text_line"> </p>
-<a href="/评论.html"><p class="cc"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
-<div  class="tp"> <a href="/评论.html">
-<img  border="0" src="/img/7565B748-6182-4B23-AF05-E67247D6DB19.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
 
 <p class="text_line"> </p>
 <p class="cc">感谢访问本站好用记得收藏</p>
