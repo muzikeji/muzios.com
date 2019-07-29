@@ -276,7 +276,7 @@ a:active {text-decoration:none;}
 <p class="text_line"> </p>
 <a href="/评论.html"><p class="cc"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
 <div  class="tp"> <a href="/评论.html">
-<img  border="0" src="/img/7565B748-6182-4B23-AF05-E67247D6DB19.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
+<img  border="0" src="/img/7565B748-6182-4B23-AF05-E67247D6DB19.jpeg" alt="快捷指令" width="100%" height="180"></a></div>
 <p class="text_line"> </p>
 <div class="ex">
 <h2>【温馨提示】</h2>
