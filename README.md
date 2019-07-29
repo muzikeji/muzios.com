@@ -206,7 +206,7 @@ a:active {text-decoration:none;}
 		}
 	}
 	function divInterval(){
-		moveId=setInterval(LeftMove,10);//设置一个10毫秒定时器
+		moveId=setInterval(LeftMove,20);//设置一个20毫秒定时器
 	}
 	
 	
@@ -284,12 +284,14 @@ a:active {text-decoration:none;}
 <a href="https://www.starchina.top">星辰网络</a>❙
 <a href="https://www.ttupp.com">清风不识字</a>❙ </p>
 <p class="text_line"> </p>
+<a href="/评论.html"><p class="cc"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
 
+<p class="text_line"> </p>
 <p class="cc">感谢访问本站好用记得收藏</p>
 <div  class="s" style="background-color: #7ba0f1"><p class="cc">
 木子科技唯一官方网站</p></div><p class="cc">版权所有©️木子科技(2019-2028)</p>
 
-<p class="text_line"> </p>
+<p class="text_line"> 发布评论？</p>
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
 <p class="cc">🔚</p>
