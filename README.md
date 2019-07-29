@@ -292,6 +292,4 @@ a:active {text-decoration:none;}
 <p class="text_line"> </p>
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
-
-<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" title="感谢又拍云提供免费CDN服务" target="_blank"><img src="/img/02A024F4-410B-4140-8A65-639103668186.png" height="50" width="100" </a>
 <p class="cc">🔚</p>
