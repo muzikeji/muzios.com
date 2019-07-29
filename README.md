@@ -172,7 +172,7 @@ div.container {
   text-align: center;
   padding: 10px 10px;
 }
-p.d {text-align: center; color:#000000; font-size:10px;}
+p.d {text-align: justify; color:#000000; font-size:10px;}
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
 h3  {text-align: justify; color:#000000; font-size:14px;}
 h2  {text-align: center; color: #ffffff; font-size:20px;}
