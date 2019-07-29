@@ -147,15 +147,15 @@ margin:5px;
 	margin-bottom:0px;
 }
 	#red{
-		background-image: url(/img/7977D825-4EE3-4AEE-BE38-BBBD828F3402.png);
+		background-image: url(https://ae01.alicdn.com/kf/H84e450bedf2c4608892ef17a4ab1974bI.png);
 		width:340px;
 	}
 	#green{
-		background-image: url(/img/9EF84CD6-BF53-49CD-A5BB-49837FA6EC28.jpeg);
+		background-image: url(https://ae01.alicdn.com/kf/H7b9b838063e145d58c16853d0ce0421dZ.jpeg);
 		width:340px;
 	}
 	#blue{
-		background-image: url(/img/A86917D5-993E-4415-B9FB-70F19D3DCB77.png);
+		background-image: url(https://ae01.alicdn.com/kf/H3d2cbc5dd1de4abb8584f11c0b5a01a8Z.png);
 		width:340px;
 	}
 	.slide{
@@ -231,7 +231,7 @@ a:active {text-decoration:none;}
 </script>
 </head>
 <body>
-<a href="https://jiejinghe.com/users/6563404841"> <img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="100%" height="auto"></a>
+<a href="https://jiejinghe.com/users/6563404841"> <img  border="0" src="https://ae01.alicdn.com/kf/He2dada90d0bc4249b1805e31fe631a93V.jpeg" alt="木子李" width="100%" height="auto"></a>
 <embed src="http://m7c.music.126.net/20190727121148/cb3207346db5f6f7060f782a77523c08/ymusic/055d/065f/515d/272b5d606115f57d5942f79561148769.mp3" hidden="true" autostart="true" loop="true">
 
 <div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩𝓚𝓙 </p></div>
@@ -255,28 +255,28 @@ a:active {text-decoration:none;}
 </div></a>
 </div>
 <p class="text_line"> </p>
-<div  class="tp"><img class="thumbnail" src="/img/3B08AB8A-464B-4C4E-8831-F7D5F4D73826.jpeg" width="43%" height="80" alt="Planets" usemap="#1">
+<div  class="tp"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="43%" height="80" alt="Planets" usemap="#1">
 
 <map name="1">
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"></map>
-<img class="thumbnail" src="/img/60EFA89D-EBF4-42AC-83F5-685C3836EA91.png" width="43%" height="80" alt="Planets" usemap="#2">
+<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="43%" height="80" alt="Planets" usemap="#2">
 
 <map name="2">
   <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc">
 </map></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
-<img  border="0" src="/img/EDEBB48A-9538-44EA-BD3F-DDB183C367F4.png" alt="快捷指令" width="100%" height="auto"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="快捷指令" width="100%" height="auto"></a></div>
 
 <div  class="cz"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
 𝕯 关注微博</p>
 </div></a><a href="http://v.douyin.com/S7wDt2/" target="_blank"><div  class="CD" style="background-color: #04020c"><p class="cc">
 ♪ 关注抖音</p>
 </div></a></div>
-<p class="text_line"> </p>
+<h5 class="text_line"> </h5>
 <a href="/评论.html"><p class="cc"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
 <div  class="tp"> <a href="/评论.html">
-<img  border="0" src="/img/7565B748-6182-4B23-AF05-E67247D6DB19.jpeg" alt="快捷指令" width="100%" height="180"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/Hc2f11f65cbf4471bbe3c51eb836718f4P.jpeg" alt="快捷指令" width="100%" height="180"></a></div>
 <p class="text_line"> </p>
 <div class="ex">
 <h2>【温馨提示】</h2>
