@@ -255,15 +255,8 @@ a:active {text-decoration:none;}
 </div></a>
 </div>
 <p class="text_line"> </p>
-<div  class="tp"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="43%" height="80" alt="Planets" usemap="#1">
-
-<map name="1">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"></map>
-<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="43%" height="80" alt="Planets" usemap="#2">
-
-<map name="2">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc">
-</map></div>
+<div  class="tp"><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="43%" height="80" ><a>
+<a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="43%" height="80" ><a></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
 <img  border="0" src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="快捷指令" width="100%" height="auto"></a></div>
@@ -276,7 +269,7 @@ a:active {text-decoration:none;}
 <h5 class="text_line"> </h5>
 <a href="/评论.html"><p class="cc"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
 <div  class="tp"> <a href="/评论.html">
-<img  border="0" src="https://ae01.alicdn.com/kf/Hc2f11f65cbf4471bbe3c51eb836718f4P.jpeg" alt="快捷指令" width="100%" height="180"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/Hc2f11f65cbf4471bbe3c51eb836718f4P.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div class="ex">
 <h2>【温馨提示】</h2>
