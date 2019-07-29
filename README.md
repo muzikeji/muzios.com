@@ -22,6 +22,17 @@ background-size: cover;
 /* 设置背景颜色，背景图加载过程中会显示背景色 */
 background-color: #7ba0f1;
 }
+#div1{
+	border:#06C 0px solid;
+	position:fixed;
+    width:100%;
+    height:0px;
+    z-index:100;    
+    top: 75%;
+	left:0px;
+	text-align:right;
+	background-color:#FFF;
+	}
 	#box{
 		width:340px;
 		height:185px;
@@ -153,27 +164,9 @@ margin:5px;
 		position:absolute;
 	}
 
- .thumbnail
-{
-	float:left;
-	margin:10px;
-}
 
-div.polaroid {
-  width: 18%;
-  background-color: #ffffff;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 4px;
-	float:left;
-	margin:5px;
-}
-
-div.container {
-  padding: 1px 1px;
-}
-p.d {text-align: justify; color:#000000; font-size:10px;}
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
-h3  {text-align: justify; color:#000000; font-size:14px;}
+h3  {text-align: justify; color:#ffffff; font-size:20px;}
 h2  {text-align: center; color: #ffffff; font-size:20px;}
 p.cc  {text-align: center; color:#ffffff; font-size:15px;}
 
@@ -238,12 +231,11 @@ a:active {text-decoration:none;}
 </script>
 </head>
 <body>
-
 <a href="https://jiejinghe.com/users/6563404841"> <img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="100%" height="auto"></a>
 <embed src="http://m7c.music.126.net/20190727121148/cb3207346db5f6f7060f782a77523c08/ymusic/055d/065f/515d/272b5d606115f57d5942f79561148769.mp3" hidden="true" autostart="true" loop="true">
 
 <div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩𝓚𝓙 </p></div>
-<h3> ◄≋</h3>
+<h3> ◄≋越接近，越完美；用捷径，更轻松！</h3>
 <p class="text_line"> </p>
 
 	<a href="/JJ.html" target="_blank"><div id="box" onmouseover="stop()" onmouseout="start()">
@@ -254,8 +246,8 @@ a:active {text-decoration:none;}
 
 <p class="text_line"> </p>
 <div  class="cz"><a href="/JJ.html" target="_blank"><div  class="CC" style="background-color: #f3a073"><p class="cc">
-⌘ 下载捷径</p></div></a>
-<a href="/guanyu.html" target="_blank"><div  class="CC" style="background-color: #335bd6"><p class="cc">
+⌘ 下载捷径</p>
+</div></a><a href="/guanyu.html" target="_blank"><div  class="CC" style="background-color: #335bd6"><p class="cc">
 𝓲 关于捷径</p>
 </div></a>
 <a href="/LX.html" target="_blank"><div  class="CC" style="background-color: #2fe1cb"><p class="cc">
@@ -287,26 +279,24 @@ a:active {text-decoration:none;}
 <p class="cc"><a href="mailto:56794501@qq.com">&nbsp;商务合作</a>|<a href="https://jiejinghe.com/" target="_blank">捷径盒</a> </p>
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="mailto:56794501@qq.com">致信给我们</a>或者<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:56794501:51" alt="联系客服💁🏻‍♂️" title="联系客服💁🏻‍♂️"/></a>我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
 </div>
-<p class="text_line"> </p>
-<h3>友情链接：</h3>
-<a href="https://jiejinghe.com" target="_blank"><div class="polaroid">  <img src="https://i.loli.net/2019/07/28/5d3daa579913620091.png" alt="Norway" style="width:100%"> <div class="container">
-    <p class="d">捷径盒</p>
-  </div>
-</div></a>
-<a href="https://www.starchina.top" target="_blank"><div class="polaroid">  <img src="https://i.loli.net/2019/07/28/5d3da9f379d5a31114.jpg" alt="Norway" style="width:100%"> <div class="container">
-      <p class="d">星辰网络</p>
-  </div>
-</div>
-</a>
-<a href="https://www.ttupp.com" target="_blank"><div class="polaroid">  <img src="https://i.loli.net/2019/07/28/5d3da80b0430949174.jpg" alt="Norway" style="width:100%"> <div class="container">
-      <p class="d">清风不识字</p>
-  </div>
-</div></a>
+<p class="date">友站链接➠ </p>
+<img class="thumbnail" src="https://i.loli.net/2019/07/28/5d3daa579913620091.png" width="40" height="40" alt="Planets" usemap="#1">
+
+<map name="11">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com"></map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/28/5d3da9f379d5a31114.jpg" width="40" height="40" alt="Planets" usemap="#2">
+
+<map name="12">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.starchina.top"></map>
+<img class="thumbnail" src="https://i.loli.net/2019/07/28/5d3da80b0430949174.jpg" width="40" height="40" alt="Planets" usemap="#3">
+
+<map name="13">
+  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.ttupp.com"></map>
 <p class="text_line"> </p>
 
 <p class="cc">感谢访问本站好用记得收藏</p>
 <div  class="s" style="background-color: #7ba0f1"><p class="cc">
-木子科技唯一官方网站</p></div><p class="cc">版权所有©️木子科技(2019-2028)</p>
+木子科技唯一官方网站<"/935D26FB/p></div><p class="cc">版权所有©️木子科技(2019-2028)</p>
 
 <p class="text_line"> </p>
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
