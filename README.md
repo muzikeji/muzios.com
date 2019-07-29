@@ -280,18 +280,9 @@ a:active {text-decoration:none;}
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="mailto:56794501@qq.com">致信给我们</a>或者<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:56794501:51" alt="联系客服💁🏻‍♂️" title="联系客服💁🏻‍♂️"/></a>我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
 </div>
 <p class="date">友站链接➠ </p>
-<img class="thumbnail" src="https://i.loli.net/2019/07/28/5d3daa579913620091.png" width="40" height="40" alt="Planets" usemap="#1">
-
-<map name="11">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://jiejinghe.com"></map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/28/5d3da9f379d5a31114.jpg" width="40" height="40" alt="Planets" usemap="#2">
-
-<map name="12">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.starchina.top"></map>
-<img class="thumbnail" src="https://i.loli.net/2019/07/28/5d3da80b0430949174.jpg" width="40" height="40" alt="Planets" usemap="#3">
-
-<map name="13">
-  <area shape="rect" coords="280,142,310,173" alt="下载" href="https://www.ttupp.com"></map>
+<a href="https://jiejinghe.com"><img class="thumbnail" src="https://i.loli.net/2019/07/28/5d3daa579913620091.png" width="40" height="40" alt="Planets" usemap="#1"></a> 
+<a href="https://www.starchina.top"><img class="thumbnail" src="https://i.loli.net/2019/07/28/5d3da9f379d5a31114.jpg" width="40" height="40" alt="Planets" usemap="#2"></a> 
+<a href="https://www.ttupp.com"><img class="thumbnail" src="https://i.loli.net/2019/07/28/5d3da80b0430949174.jpg" width="40" height="40" alt="Planets" usemap="#3"></a> 
 <p class="text_line"> </p>
 
 <p class="cc">感谢访问本站好用记得收藏</p>
