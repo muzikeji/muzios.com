@@ -256,7 +256,7 @@ a:active {text-decoration:none;}
 </div>
 <p class="text_line"> </p>
 <div  class="tp"><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="45%" height="80" ><a>
-<a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="45%" height="80" ><a></div>
+<a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="45%" height="80" ><a>
 
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
