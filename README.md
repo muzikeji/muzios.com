@@ -285,6 +285,8 @@ a:active {text-decoration:none;}
 <a href="https://www.ttupp.com">清风不识字</a>❙ </p>
 <p class="text_line"> </p>
 <a href="/评论.html"><p class="cc"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
+<div  class="tp"> <a href="/评论.html">
+<img  border="0" src="/img/7565B748-6182-4B23-AF05-E67247D6DB19.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
 
 <p class="text_line"> </p>
 <p class="cc">感谢访问本站好用记得收藏</p>
