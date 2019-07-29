@@ -163,14 +163,14 @@ div.polaroid {
   width: 24%;
   background-color: #ffffff;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 28px;
+  margin-bottom: 8px;
 	float:left;
 	margin:5px;
 }
 
 div.container {
   text-align: center;
-  padding: 10px 10px;
+  padding: 1px 1px;
 }
 p.d {text-align: justify; color:#000000; font-size:10px;}
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
