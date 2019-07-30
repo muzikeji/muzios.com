@@ -256,7 +256,7 @@ a:active {text-decoration:none;}
 </div>
 <p class="text_line"> </p>
 <div  class="tp"><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="45%" height="80" ><a>
-<a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="45%" height="80" ><a>
+<a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="45%" height="80" ><a></div>
 
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
@@ -281,6 +281,26 @@ a:active {text-decoration:none;}
 <a href="https://jiejinghe.com">捷径盒</a>❙
 <a href="https://www.starchina.top">星辰网络</a>❙
 <a href="https://www.ttupp.com">清风不识字</a>❙ </p>
+
+<p class="text_line">联系我们💌</p>
+<a href="http://v.douyin.com/kkpWm9/">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="30" height="auto"></a>
+<a href="mailto: 56794501@qq.com">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/Hf60141ed2e4249389a38ba8a38ad1fefS.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="https://weibo.com/u/5090561214">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6308a6002fe64acdb5ca92ad99bce84fy.png" alt="木子李" width="30" height="auto"></a>
+<a href="https://ae01.alicdn.com/kf/H4fe9e4cc6e3941d2992bc560e1130cff3.jpeg">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6ab49d692360416199684aadf1b64023E.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="https://ae01.alicdn.com/kf/H92b91557d9264af682723e9369a426b0p.png">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/Ha3ee2ed657c34d68a0bb7fb65bdd89caF.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="mqq://im/chat?chat_type=wpa&uin=56794501&version=1&src_type=web">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H8db64cccea0a4ee3bf88ebf242b21d2es.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="https://jq.qq.com/?_wv=1027&k=5wclJSO">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H294277aebe3a45338b6d8b7fa5ee79ecT.png" alt="木子李" width="30" height="auto"></a>
 
 <p class="text_line"> </p>
 <p class="cc">感谢访问本站好用记得收藏</p>
