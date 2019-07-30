@@ -257,7 +257,6 @@ a:active {text-decoration:none;}
 <p class="text_line"> </p>
 <div  class="tp"><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="45%" height="80" ><a>
 <a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="45%" height="80" ><a>
-
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
 <img  border="0" src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="快捷指令" width="100%" height="auto"></a></div>
@@ -290,7 +289,7 @@ a:active {text-decoration:none;}
 
 <a href="https://weibo.com/u/5090561214">
 <img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6308a6002fe64acdb5ca92ad99bce84fy.png" alt="木子李" width="30" height="auto"></a>
-<a href="https://ae01.alicdn.com/kf/H4fe9e4cc6e3941d2992bc560e1130cff3.jpeg">
+<a href="https://s7.addthis.com/static/wechat_follow.html?id=Miss-you_&u=https://u.wechat.com/MIDWVwUtuk6_gUB48_Fy41U">
 <img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6ab49d692360416199684aadf1b64023E.png" alt="木子李" width="30" height="auto"></a>
 
 <a href="https://ae01.alicdn.com/kf/H92b91557d9264af682723e9369a426b0p.png">
