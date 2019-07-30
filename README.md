@@ -8,20 +8,17 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <style type="text/css">
 h1 { display:none; }
+
 body {
-/* 加载背景图 */
-background-image: url();
-/* 背景图垂直、水平均居中 */
-background-position: center center;
-/* 背景图不平铺 */
-background-repeat: no-repeat;
-/* 当内容高度大于图片高度时，背景图像的位置相对于viewport固定 */
-background-attachment: fixed;
-/* 让背景图基于容器大小伸缩 */
-background-size: cover;
-/* 设置背景颜色，背景图加载过程中会显示背景色 */
-background-color: #7ba0f1;
+    background-color:lightgreen;
 }
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color:lightblue;
+    }
+}
+
 #div1{
 	border:#06C 0px solid;
 	position:fixed;
@@ -236,15 +233,6 @@ a:active {text-decoration:none;}
 
 <div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩𝓚𝓙 </p></div>
 <h3> ◄≋</h3>
-<p class="text_line"> </p>
-
-	<a href="/JJ.html" target="_blank"><div id="box" onmouseover="stop()" onmouseout="start()">
-		<div id="red" class="slide"></div>
-		<div id="green" class="slide"></div>
-		<div id="blue" class="slide"></div>
-	</div></a>
-
-<p class="text_line"> </p>
 <div  class="cz"><a href="/JJ.html" target="_blank"><div  class="CC" style="background-color: #f3a073"><p class="cc">
 ⌘ 下载捷径</p>
 </div></a><a href="/guanyu.html" target="_blank"><div  class="CC" style="background-color: #335bd6"><p class="cc">
@@ -255,6 +243,16 @@ a:active {text-decoration:none;}
 </div></a>
 </div>
 <p class="text_line"> </p>
+<p class="text_line"> </p>
+
+	<a href="/JJ.html" target="_blank"><div id="box" onmouseover="stop()" onmouseout="start()">
+		<div id="red" class="slide"></div>
+		<div id="green" class="slide"></div>
+		<div id="blue" class="slide"></div>
+	</div></a>
+
+<p class="text_line"> </p>
+
 <div  class="tp"><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="45%" height="80" ><a>
 <a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="45%" height="80" ><a>
 <p class="text_line"> </p>
