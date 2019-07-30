@@ -87,7 +87,7 @@ border-radius: 35px;
 margin:5px;
 }
 div.cz {border-radius: 10px;
-border: #e9e9e9 solid 1px;
+border: #906326 solid 1px;
 width:89%;
 	height:60px;
 margin:0 auto;
@@ -282,24 +282,26 @@ a:active {text-decoration:none;}
 <a href="https://www.ttupp.com">清风不识字</a>❙ </p>
 
 <p class="text_line">联系我们💌</p>
-<a href="http://v.douyin.com/kkpWm9/">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="30" height="auto"></a>
-<a href="mailto: 56794501@qq.com">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/Hf60141ed2e4249389a38ba8a38ad1fefS.png" alt="木子李" width="30" height="auto"></a>
-
-<a href="https://weibo.com/u/5090561214">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6308a6002fe64acdb5ca92ad99bce84fy.png" alt="木子李" width="30" height="auto"></a>
-<a href="https://s7.addthis.com/static/wechat_follow.html?id=Miss-you_&u=https://u.wechat.com/MIDWVwUtuk6_gUB48_Fy41U">
+<a href="https://s7.addthis.com/static/wechat_follow.html?id=Miss-baby_&u=https://u.wechat.com/MIDWVwUtuk6_gUB48_Fy41U">
 <img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6ab49d692360416199684aadf1b64023E.png" alt="木子李" width="30" height="auto"></a>
-
-<a href="https://ae01.alicdn.com/kf/H92b91557d9264af682723e9369a426b0p.png">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/Ha3ee2ed657c34d68a0bb7fb65bdd89caF.png" alt="木子李" width="30" height="auto"></a>
 
 <a href="mqq://im/chat?chat_type=wpa&uin=56794501&version=1&src_type=web">
 <img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H8db64cccea0a4ee3bf88ebf242b21d2es.png" alt="木子李" width="30" height="auto"></a>
 
+<a href="https://ae01.alicdn.com/kf/H92b91557d9264af682723e9369a426b0p.png">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/Ha3ee2ed657c34d68a0bb7fb65bdd89caF.png" alt="木子李" width="30" height="auto"></a>
+
 <a href="https://jq.qq.com/?_wv=1027&k=5wclJSO">
 <img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H294277aebe3a45338b6d8b7fa5ee79ecT.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="https://weibo.com/u/5090561214">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6308a6002fe64acdb5ca92ad99bce84fy.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="mailto: 56794501@qq.com">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/Hf60141ed2e4249389a38ba8a38ad1fefS.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="http://v.douyin.com/kkpWm9/">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="30" height="auto"></a>
 
 <p class="text_line"> </p>
 <p class="cc">感谢访问本站好用记得收藏</p>
