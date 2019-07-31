@@ -229,19 +229,9 @@ a:active {text-decoration:none;}
 </head>
 <body>
 <p class="text_line"> </p>
-
-	<a href="/JJ.html" target="_blank"><div id="box" onmouseover="stop()" onmouseout="start()">
-		<div id="red" class="slide"></div>
-		<div id="green" class="slide"></div>
-		<div id="blue" class="slide"></div>
-	</div></a>
-
-<p class="text_line"> </p>
 <a href="https://jiejinghe.com/users/6563404841"> <img  border="0" src="https://ae01.alicdn.com/kf/He2dada90d0bc4249b1805e31fe631a93V.jpeg" alt="木子李" width="100%" height="auto"></a>
 <embed src="http://m7c.music.126.net/20190727121148/cb3207346db5f6f7060f782a77523c08/ymusic/055d/065f/515d/272b5d606115f57d5942f79561148769.mp3" hidden="true" autostart="true" loop="true">
-
 <div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩𝓚𝓙 </p></div>
-<h3> </h3>
 <div  class="cz"><a href="/JJ.html" target="_blank"><div  class="CC" style="background-color: #f3a073"><p class="cc">
 ⌘ 下载捷径</p>
 </div></a><a href="/guanyu.html" target="_blank"><div  class="CC" style="background-color: #335bd6"><p class="cc">
@@ -255,6 +245,13 @@ a:active {text-decoration:none;}
 
 <div  class="tp"><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="46%" height="80" ><a>
 <a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="46%" height="80" ><a>
+	<a href="/JJ.html" target="_blank"><div id="box" onmouseover="stop()" onmouseout="start()">
+		<div id="red" class="slide"></div>
+		<div id="green" class="slide"></div>
+		<div id="blue" class="slide"></div>
+	</div></a>
+
+<p class="text_line"> </p>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
 <img border="0" src="https://ae01.alicdn.com/kf/H38a948bc9a6a447eb746c2d0111703781.png" alt="快捷指令" width="320px" height="auto"></a></div>
