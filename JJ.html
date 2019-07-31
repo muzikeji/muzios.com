@@ -10,18 +10,13 @@
 <style>
 
 body {
-/* 加载背景图 */
-background-image: url();
-/* 背景图垂直、水平均居中 */
-background-position: center center;
-/* 背景图不平铺 */
-background-repeat: no-repeat;
-/* 当内容高度大于图片高度时，背景图像的位置相对于viewport固定 */
-background-attachment: fixed;
-/* 让背景图基于容器大小伸缩 */
-background-size: cover;
-/* 设置背景颜色，背景图加载过程中会显示背景色 */
-background-color: #7ba0f1;
+    background-color:lightgreen;
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color:lightblue;
+    }
 }
 
 h1 { display:none; }
@@ -43,12 +38,12 @@ width:90%;
 margin:0 auto;
 border-radius: 5px;
    }
-div.sm {border-radius: 10px;
+div.sm {border-radius: 1px;
 border: #e9e9e9 solid 1px;
 width:200px;
-	height:20px;
+	height:30px;
 margin:0 auto;
-border-radius: 35px;
+border-radius: 20px;
    }
 
 div.ex
@@ -78,7 +73,7 @@ div.fd
 	width:320px;
 	height:175px;
 	margin:5px;
-border: #faaf10 solid 1px;
+border: width solid 1px;
 border-radius: 10px;
     padding: 5px; 
 overflow:hidden;
@@ -95,6 +90,7 @@ border-radius: 10px;
 overflow:hidden;
 margin:5px; 
 }
+p.da {text-align: center; color:#ffffff; font-size:20px;}
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
 h3  {text-align: center; color:#ffffff; font-size:20px;}
 h2  {text-align: center; color: #ffffff; font-size:20px;}
@@ -119,24 +115,12 @@ a:active {text-decoration:none;}
 </style>
 </head>
 <body>
-
-//竖屏处理
-    function landscape(config){
-            var color = config && config.color ? config.color : "#000",
-                txt = config && config.txt ? config.txt : "为了更好的体验，请使用竖屏浏览",
-                images = config && config.images ? config.images : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIYAAADaCAMAAABU68ovAAAAXVBMVEUAAAD29vb////x8fH////////x8fH5+fn29vby8vL////5+fn39/f6+vr////x8fH////////+/v7////09PT////x8fH39/f////////////////////x8fH///+WLTLGAAAAHXRSTlMAIpML+gb4ZhHWn1c2gvHBvq1uKJcC6k8b187lQ9yhhboAAAQYSURBVHja7d3blpowFIDhTUIAOchZDkre/zE7ycySrbUUpsRN2/1fzO18KzEqxEVgTiZNfgmmtxRc8iaR8HNe8x4BtjQePKayYCIoyBSgvNNE1AkNSHqZyLqk97EgUCCHBzZ5mkg7ScvIJuIyOyXBRFxgpqWZyGsAZLB1KjsJi8nutHU4JCRbFRH8tmirI9k8Jx2sqNs8K/m0LQkrktO2crgcgXGB4AiTEsB0hJfo9MGgX7CGcYiYwQxmMOOvZwRhBG8tCoMXjBDeXvWCEcHbi14wgCBmMIMZzGAGM5jxETNwzMAxA8cMHDNwzMAxA8cMHDNwzMAxA8cMHDNwzMAxY6E2rUQxnH2tz9cirlJFwFBJedaPnUv0M7++egPDE8iAJcIDmxwH5wwv9vUviw2kLbVO3TJU5uul/EyB0FoLp4x60PdGUd3qPurrWyjGGTc05u+1dcgI7/+tCCPARWGhH7o5Y7RCf+bH9ctXLp6v2BVDxfqz0oPXeSVaNtINo/1SXDv4dck8IIkbhtC2ol+iouEonTBCbYvVMnXOjxww6s/RFrBUpXHh/gw1rHj5d/qhYn9Gpk2FWh6xRBRX5Oj3Znh2Sq49/L6+y8pB26q9GbE2dbA2mVbx6I+7MfBglLCttm73ZQi7AD3iL4HqjFYJHSPRppqaUaJ3ATpGa+ckpGak2hRRMyqjGMkvl+xyFeSMwjAqcsZgGDdyhl0oNTnDN4yenJGZFGxNChP5/Y3efh6SM2rDOJMzboYxkDMqwyjIGcIw6F+io2FU1IxIm1JqRmgXSkvNKNCXeTpGrU0JNSO2c6LIGPgCS8AuDHz9ta0SXWDtxoDRH+MqlbC2Dt2G2JFRadtQZt2qq/orGowdGb2euxYiqWEpVWhTBnszoNAPdStuQwxqf0aocdWKW4Z+DfszIh8pxJqbuCE4YAC+4bm0evtipjpgJHeFnyyt1Ku2xa0bhjxr27p75rECNwyI9ZwvXkHq+7aTaMEV44YYy/spfgjgjNHaWW+GeUhGEX7tLlVinIFDDSgnOwhi1V6bU0b6tVS9eAERe863g4dRrtiHdc6o+nn5vtyVVgR79Cqt4uL6gfHPQyGqtP2vf7HADGbcYwaOGThm4JiBYwaOGThm4JiBYwaOGThm4JiBYwaOGThm4JiBYwaOGThm4JjhtOM+J/AgT008yDMkN/dPP9hzS8zAMQN3OEYeekp5YU7KOKXwVXqiY+QS7smcinGKABWdiBgpPJTSMHJ4KidhhPBUSMLw4CmPhKHgKUXCkHsygum71ftNSgCX6bsl8FQyfbcL5EdYsDk0R3j7aiA5wpt5AjKg/2gLJEBD/0Hf2OOf/vRrj6z/7GtP4B3nMKyjHA12kIPSjnJs3FEO0TvKkYJHOWCR+rjJH0Vn6fI5PjNbAAAAAElFTkSuQmCC";
-            $('body').append('<style type="text/css">@-webkit-keyframes rotation{10%{transform: rotate(90deg); -webkit-transform: rotate(90deg)} 50%, 60%{transform: rotate(0deg); -webkit-transform: rotate(0deg)} 90%{transform: rotate(90deg); -webkit-transform: rotate(90deg)} 100%{transform: rotate(90deg); -webkit-transform: rotate(90deg)} } @keyframes rotation{10%{transform: rotate(90deg); -webkit-transform: rotate(90deg)} 50%, 60%{transform: rotate(0deg); -webkit-transform: rotate(0deg)} 90%{transform: rotate(90deg); -webkit-transform: rotate(90deg)} 100%{transform: rotate(90deg); -webkit-transform: rotate(90deg)} } #orientLayer{display: none; z-index: 999999;} @media screen and (min-aspect-ratio: 12/7){#orientLayer{display: block;} } .mod-orient-layer{display: none; position: fixed; height: 100%; width: 100%; left: 0; top: 0; right: 0; bottom: 0; background: '+color+'; z-index: 9997} .mod-orient-layer__content{position: absolute; width: 100%; top: 45%; margin-top: -75px; text-align: center} .mod-orient-layer__icon-orient{background-image: url('+images+'); display: inline-block; width: 67px; height: 109px; transform: rotate(90deg); -webkit-transform: rotate(90deg); -webkit-animation: rotation infinite 1.5s ease-in-out; animation: rotation infinite 1.5s ease-in-out; -webkit-background-size: 67px; background-size: 67px} .mod-orient-layer__desc{margin-top: 20px; font-size: 15px; color: #fff}</style><div id="orientLayer" class="mod-orient-layer"> <div class="mod-orient-layer__content"> <i class="icon mod-orient-layer__icon-orient"></i> <div class="mod-orient-layer__desc">'+txt+'</div> </div></div>');
-    }
-    //竖屏提示
-    landscape();
-
-
 <script src="https://muzikeji.cn/tctip-1.0.0.min.js"></script>
   <script> 
   new tctip({
     top: '15%',
     button: {
-      id: 9,
+      id: 4,
       type: 'dashang',
     },
     list: [
@@ -186,38 +170,27 @@ if(('standalone' in window.navigator)&&window.navigator.standalone){
 ✆联系我们</p>
 </div></a></div>
 <h2 class="text_line">  iPhone 快捷指令</h2>
-<a href="https://jiejinghe.com/shortcuts/7076318015" target="_blank"><div  class="fd" style="background-color: #eb4d4d"><h3>
-<span style= "font-family: Arial"> 双色球 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：这是一个双色球摇号和查询开奖的工具，在这里你可以随机抽取属于你的幸运号码！</p>　
+<a href="https://jiejinghe.com/shortcuts/7076318015" target="_blank"><div  class="fd" style="background-color: #eb4d4d"><p class="da"> 双色球</p> <p class="date">简介：这是一个双色球摇号和查询开奖的工具，在这里你可以随机抽取属于你的幸运号码！</p>　
 </div></a>
-<a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe" target="_blank"><div  class="fd" style="background-color: #af54d7"><h3>
-<span style= "font-family: Arial"> 在线影视 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：可‍以‍解析‍各大影视会员视频‍，也可以在线搜索观看视频。解析视频使用方法：1⃣️复制会员视频链接2⃣️运行此捷径，选择解析接口即可播放。</p>　
+<a href="https://www.icloud.com/shortcuts/19b4d6a90dfd40b3b963546cf67b77fe" target="_blank"><div  class="fd" style="background-color: #af54d7"><p class="da"> 在线影视</p> <p class="date">简介：可‍以‍解析‍各大影视会员视频‍，也可以在线搜索观看视频。解析视频使用方法：1⃣️复制会员视频链接2⃣️运行此捷径，选择解析接口即可播放。</p>　
 </div></a>
-<a href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467" target="_blank"><div  class="fd" style="background-color: #5083db"><h3>
-<span style= "font-family: Arial"> 微信引用回复 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：在微信群聊时想针对某条信息进行回复，手机📱不能想电脑💻一样引用回复怎么办？可以用这个快捷指令来实现！</p>　
+<a href="https://www.icloud.com/shortcuts/19b4a3a22f174700ab33605853138467" target="_blank"><div  class="fd" style="background-color: #5083db"><p class="da"> 微信引用回复</p> <p class="date">简介：在微信群聊时想针对某条信息进行回复，手机📱不能想电脑💻一样引用回复怎么办？可以用这个快捷指令来实现！</p>　
 </div></a>
-<a href="https://jiejinghe.com/shortcuts/3012186721" target="_blank"><div  class="fd" style="background-color: #7bef80"><h3>
-<span style= "font-family: Arial"> 天气预报 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：这个天气预报捷功能比较强大，基本可以与同类app相媲美，可查询24小时每小时天气预报，还可以查未来10天天气预报；包括降雨量，风向风速，日出日落，紫外线指数等等功能！</p>　
+<a href="https://jiejinghe.com/shortcuts/3012186721" target="_blank"><div  class="fd" style="background-color: #7bef80"><p class="da"> 天气预报</p> <p class="date">简介：这个天气预报捷功能比较强大，基本可以与同类app相媲美，可查询24小时每小时天气预报，还可以查未来10天天气预报；包括降雨量，风向风速，日出日落，紫外线指数等等功能！</p>　
 </div></a>
-<a href="https://www.icloud.com/shortcuts/e7318c10e7f348ffa9214a3e0482432a" target="_blank"><div  class="fd" style="background-color: #e06b3e"><h3>
-<span style= "font-family: Arial"> 每日壁纸 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：每运行一次更换一次壁纸，内置10万➕壁纸，可设置指定时间或地点自动运行更换壁纸！</p>　
+<a href="https://www.icloud.com/shortcuts/e7318c10e7f348ffa9214a3e0482432a" target="_blank"><div  class="fd" style="background-color: #e06b3e"><p class="da"> 每日壁纸</p> <p class="date">简介：每运行一次更换一次壁纸，内置10万➕壁纸，可设置指定时间或地点自动运行更换壁纸！</p>　
 </div></a>
-<a href="https://www.icloud.com/shortcuts/b703dc604de14130b33aab97f0c99602" target="_blank"><div  class="fd" style="background-color: #a454dc"><h3>
-<span style= "font-family: Arial"> 抖音去水印下载 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：真抖音+tiktok无水印下载，无需VPN @感谢Veritas制作和分享！</p>　
+<a href="https://www.icloud.com/shortcuts/b703dc604de14130b33aab97f0c99602" target="_blank"><div  class="fd" style="background-color: #a454dc"><p class="da"> 抖音去水印下载</p> <p class="date">简介：真抖音+tiktok无水印下载，无需VPN @感谢Veritas制作和分享！</p>　
 </div></a>
-<a href="https://www.icloud.com/shortcuts/5be9a04d07894562ba9bed7d83e5787a" target="_blank"><div  class="fd" style="background-color: #6495f1"><h3>
-<span style= "font-family: Arial"> 应用图标提取器 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：输入app store应用名称可以快速提取应用程序的图标！</p>　
+<a href="https://www.icloud.com/shortcuts/5be9a04d07894562ba9bed7d83e5787a" target="_blank"><div  class="fd" style="background-color: #6495f1"><p class="da"> 应用图标提取器</p> <p class="date">简介：输入app store应用名称可以快速提取应用程序的图标！</p>　
 </div></a>
-<a href="https://jiejinghe.com/shortcuts/3251736150" target="_blank"><div  class="fd" style="background-color: #4aaebd"><h3>
-<span style= "font-family: Arial"> 常用开关集合 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：集合iPhone手机常用开关于一体，包括网络切换、音量控制、前后相机快速打开、🔦、iOS黑白模式切换等等！</p>　
+<a href="https://jiejinghe.com/shortcuts/3251736150" target="_blank"><div  class="fd" style="background-color: #4aaebd"><p class="da"> 常用开关集合</p> <p class="date">简介：集合iPhone手机常用开关于一体，包括网络切换、音量控制、前后相机快速打开、🔦、iOS黑白模式切换等等！</p>　
 </div></a>
-<a href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6" target="_blank"><div  class="fd" style="background-color: #18226a"><h3>
-<span style= "font-family: Arial"> 智能Wi-Fi开关 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：智能管控你的Wi-Fi，运行后如果Wi-Fi处于打开状态则帮你关闭，处于关闭状态则帮你打开，打开后没有可以链接的Wi-Fi将帮你自动关闭，来节省电能！</p>　
+<a href="https://www.icloud.com/shortcuts/6eb9f1ac68b74ce3bb0caeb4488815e6" target="_blank"><div  class="fd" style="background-color: #18226a"><p class="da"> 智能Wi-Fi开关</p> <p class="date">简介：智能管控你的Wi-Fi，运行后如果Wi-Fi处于打开状态则帮你关闭，处于关闭状态则帮你打开，打开后没有可以链接的Wi-Fi将帮你自动关闭，来节省电能！</p>　
 </div></a>
-<a href="https://jiejinghe.com/shortcuts/9718483448" target="_blank"><div  class="fd" style="background-color: #c368d7"><h3>
-<span style= "font-family: Arial"> 百思不得姐 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：‍ ‍上厕所、‍等‍车、‍‍排队‍办理‍业务‍‍很无聊‍怎么办‍？‍就用“‍它”‍百思不得姐，‍一个‍专注‍段子‍的‍捷径！ 哈哈，‍百思‍不得姐，‍‍‍手机‍必备‍段子‍手</p>　
+<a href="https://jiejinghe.com/shortcuts/9718483448" target="_blank"><div  class="fd" style="background-color: #c368d7"><p class="da"> 百思不得姐</p> <p class="date">简介：‍ ‍上厕所、‍等‍车、‍‍排队‍办理‍业务‍‍很无聊‍怎么办‍？‍就用“‍它”‍百思不得姐，‍一个‍专注‍段子‍的‍捷径！ 哈哈，‍百思‍不得姐，‍‍‍手机‍必备‍段子‍手</p>　
 </div></a>
-<a href="https://www.icloud.com/shortcuts/21ef79f2c297417c9ec32dce88775421" target="_blank"><div  class="fd" style="background-color: #a4a4a4"><h3>
-<span style= "font-family: Arial"> iOS配置文件 </span>  <span style="font-family: 宋体"> </span></h3> <p class="date">简介：本捷径提功各种iOS beta 配置文件下载，包括iPhone、iPad、MAC、 Apple TV、watch！</p>　
+<a href="https://www.icloud.com/shortcuts/21ef79f2c297417c9ec32dce88775421" target="_blank"><div  class="fd" style="background-color: #a4a4a4"><p class="da"> iOS配置文件</p> <p class="date">简介：本捷径提功各种iOS beta 配置文件下载，包括iPhone、iPad、MAC、 Apple TV、watch！</p>　
 </div></a>
 <a href="https://jiejinghe.com/users/6563404841" target="_blank"><div  class="fd" style="background-color: #000000">
 <h2>查看更多</h2><p class="date">联系站主请点击右侧QQ图标或者顶部菜单里点击联系项找适合你的方式联系！</p>　
