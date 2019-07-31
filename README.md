@@ -91,7 +91,7 @@ margin:0 auto;
 border-radius: 5px;
    }
 div.tp {border-radius: 10px;
-width:90%;
+width:95%;
 	height:auto;
 margin:0 auto;
 border-radius: 5px;
@@ -260,10 +260,7 @@ a:active {text-decoration:none;}
 <img  border="0" src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
-<img  border="0" src="https://ae01.alicdn.com/kf/H66a18664ea3c487588f28cf4ac0f03f8C.png" alt="快捷指令" width="100%" height="auto"></a></div>
-<p class="text_line"> </p>
-<div  class="tp"> <a href="/JJ.html">
-<img  border="0" src="https://ae01.alicdn.com/kf/He189dda706f943b8a46f49b37d33f5d7X.png" alt="快捷指令" width="100%" height="auto"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/Hdc1e7ef25ade4734889d24a94dd56fe9G.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
 <img  border="0" src="https://ae01.alicdn.com/kf/Hd642943752d9412a8ab016bb62406256f.png" alt="快捷指令" width="100%" height="auto"></a></div>
@@ -272,7 +269,19 @@ a:active {text-decoration:none;}
 <img  border="0" src="https://ae01.alicdn.com/kf/H38a948bc9a6a447eb746c2d0111703781.png" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
+<img  border="0" src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="快捷指令" width="100%" height="auto"></a></div>
+<p class="text_line"> </p>
+<div  class="tp"> <a href="/JJ.html">
+<img  border="0" src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="快捷指令" width="100%" height="auto"></a></div>
+<p class="text_line"> </p>
+<div  class="tp"> <a href="/JJ.html">
+<img  border="0" src="https://ae01.alicdn.com/kf/Hdf80d780315741d29e035ed3f7f9b636Z.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
+<p class="text_line"> </p>
+<div  class="tp"> <a href="/JJ.html">
 <img  border="0" src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="快捷指令" width="100%" height="auto"></a></div>
+<p class="text_line"> </p>
+<div  class="tp"> <a href="/JJ.html">
+<img  border="0" src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="快捷指令" width="100%" height="auto"></a></div>
 <div  class="cz"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
 𝕯 关注微博</p></div></a>
 <a href="http://v.douyin.com/S7wDt2/" target="_blank"><div  class="CD" style="background-color: #04020c"><p class="cc">♪ 关注抖音</p>
