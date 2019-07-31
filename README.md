@@ -10,12 +10,12 @@
 h1 { display:none; }
 
 body {
-    background-color:lightgreen;
+    background-color: #42dbbc;
 }
 
 @media only screen and (max-width: 500px) {
     body {
-        background-color:lightblue;
+        background-color: #e9c89b;
     }
 }
 
@@ -85,7 +85,7 @@ margin:5px;
 }
 div.cz {border-radius: 10px;
 border: #906326 solid 1px;
-width:89%;
+width:90%;
 	height:60px;
 margin:0 auto;
 border-radius: 5px;
@@ -203,7 +203,7 @@ a:active {text-decoration:none;}
 		}
 	}
 	function divInterval(){
-		moveId=setInterval(LeftMove,20);//设置一个20毫秒定时器
+		moveId=setInterval(LeftMove,10);//设置一个10毫秒定时器
 	}
 	
 	
@@ -253,12 +253,26 @@ a:active {text-decoration:none;}
 
 <p class="text_line"> </p>
 
-<div  class="tp"><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="45%" height="80" ><a>
-<a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="45%" height="80" ><a>
+<div  class="tp"><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="46%" height="80" ><a>
+<a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="46%" height="80" ><a>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
 <img  border="0" src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="快捷指令" width="100%" height="auto"></a></div>
-
+<p class="text_line"> </p>
+<div  class="tp"> <a href="/JJ.html">
+<img  border="0" src="https://ae01.alicdn.com/kf/H66a18664ea3c487588f28cf4ac0f03f8C.png" alt="快捷指令" width="100%" height="auto"></a></div>
+<p class="text_line"> </p>
+<div  class="tp"> <a href="/JJ.html">
+<img  border="0" src="https://ae01.alicdn.com/kf/He189dda706f943b8a46f49b37d33f5d7X.png" alt="快捷指令" width="100%" height="auto"></a></div>
+<p class="text_line"> </p>
+<div  class="tp"> <a href="/JJ.html">
+<img  border="0" src="https://ae01.alicdn.com/kf/Hd642943752d9412a8ab016bb62406256f.png" alt="快捷指令" width="100%" height="auto"></a></div>
+<p class="text_line"> </p>
+<div  class="tp"> <a href="/JJ.html">
+<img  border="0" src="https://ae01.alicdn.com/kf/H38a948bc9a6a447eb746c2d0111703781.png" alt="快捷指令" width="100%" height="auto"></a></div>
+<p class="text_line"> </p>
+<div  class="tp"> <a href="/JJ.html">
+<img  border="0" src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="快捷指令" width="100%" height="auto"></a></div>
 <div  class="cz"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
 𝕯 关注微博</p></div></a>
 <a href="http://v.douyin.com/S7wDt2/" target="_blank"><div  class="CD" style="background-color: #04020c"><p class="cc">♪ 关注抖音</p>
