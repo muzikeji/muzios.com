@@ -191,7 +191,7 @@ a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
 div,ul,span,li {
-          padding:0;
+          padding-left:0px;
                 margin: 0;
             }
 
@@ -203,7 +203,7 @@ div,ul,span,li {
             .nav ul li {
                 float: left;
                 list-style-type: none;
-                width: 80px;
+                width: 70px;
             }
             .nav ul li a {
                 color: #fff;
@@ -216,13 +216,13 @@ div,ul,span,li {
             }
             .nav li {
                 line-height: 30px;
-                text-align: center;
+                text-align: justify;
             }
             .nav ul li span{
                 display: none;
                 text-decoration: none;
                 position: absolute;
-                width: 80px;
+                width: 70px;
             }
             .nav span ul li a{
                 background-color: #42b0e0;
