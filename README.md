@@ -153,11 +153,11 @@ margin:5px;
 	margin-bottom:0px;
 }
 	#red{
-		background-image: url(https://ae01.alicdn.com/kf/H84e450bedf2c4608892ef17a4ab1974bI.png);
+		background-image: url(https://ae01.alicdn.com/kf/H9aacb1de7d15407db49dfc13a68021c5A.png);
 		width:340px;
 	}
 	#green{
-		background-image: url(https://ae01.alicdn.com/kf/H7b9b838063e145d58c16853d0ce0421dZ.jpeg);
+		background-image: url(https://ae01.alicdn.com/kf/H580fde9e3c234a14891457eccee90ce04.jpeg);
 		width:340px;
 	}
 	#blue{
@@ -321,17 +321,9 @@ div,ul,span,li {
 <p class="text_line"> </p>
 
 <a href="/JJ.html">
-<img class="thumbnail" src="https://ae01.alicdn.com/kf/H38a948bc9a6a447eb746c2d0111703781.png" alt="快捷指令" width="150px" height="86px"></a>
-<a href="/JJ.html">
-<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hdc1e7ef25ade4734889d24a94dd56fe9G.jpeg" alt="快捷指令" width="150px" height="86px"></a>
-<a href="/JJ.html">
-<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hd642943752d9412a8ab016bb62406256f.png" alt="快捷指令" width="150px" height="86px"></a>
-<a href="/JJ.html">
-<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="快捷指令" width="150px" height="86px"></a>
-<a href="/JJ.html">
 <img class="thumbnail" src="https://ae01.alicdn.com/kf/Hd2e7cf0941e9404fa19d584c9bdd1b5bN.png" alt="快捷指令" width="150px" height="86px"></a>
 <a href="/JJ.html">
-<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hdf80d780315741d29e035ed3f7f9b636Z.jpeg" alt="快捷指令" width="150px" height="86px"></a>
+<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="快捷指令" width="150px" height="86px"></a>
 <a href="/JJ.html">
 <img class="thumbnail" src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="快捷指令" width="150px" height="86px"></a>
 <a href="/JJ.html">
