@@ -24,6 +24,8 @@ div.x
 	background:url(https://ae01.alicdn.com/kf/Ha9e1b15964ed4844850be91f302ad7e2w.png);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
+  width:100%;
+    height:170px;
 }
 
 #div1{
@@ -171,9 +173,10 @@ margin:5px;
 
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
 h3  {text-align: justify; color:#ffffff; font-size:20px;}
-h2  {text-align: center; color: #0223ec; font-size:20px;}
+h2  {text-align: center; color:#ffffff; font-size:20px;}
 p.cc  {text-align: center; color:#ffffff; font-size:15px;}
-
+p.c  {text-align: center; color:#0223ec; font-size:35px;}
+p.cd  {text-align: justify; color:#ffffff; }
 a {
 color: #0508b9;
 text-decoration: none;
@@ -187,6 +190,47 @@ a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
+div,ul,span,li {
+          padding-left:0px;
+                margin: 0;
+            }
+
+            .nav {
+                width: 100%;
+       background-color: rgba(0,0,0,0.5);
+                height: 30px;
+            }
+            .nav ul li {
+                float: left;
+                list-style-type: none;
+                width: 80px;
+            }
+            .nav ul li a {
+                color: #fff;
+                text-decoration: none;
+                display: block;
+            }
+            .nav ul li a:hover {
+                color: #fff;
+                background-color: #45abc1;
+            }
+            .nav li {
+                line-height: 30px;
+                text-align: center;
+            }
+            .nav ul li span{
+                display: none;
+                text-decoration: none;
+                position: absolute;
+                width: 80px;
+            }
+            .nav span ul li a{
+                background-color: #42b0e0;
+            }
+            .nav ul li:hover span {
+                display: block;
+                text-decoration: none;
+            }
 </style>
 <script type="text/javascript">
 	onload=function(){
@@ -234,23 +278,31 @@ a:active {text-decoration:none;}
 </script>
 </head>
 <body>
-<a href="https://jiejinghe.com/users/6563404841"><div  class="x"><p class="date">〰️</p>
+
+<a href="https://jiejinghe.com/users/6563404841"><div  class="x">
+ <div id="sunav" class="nav">
+            <ul>
+            <li class="sunav"><a href="#"> <b>☰ </b></a>
+                <span>
+                <ul>
+                    <li><a href="/JJ.html">下载捷径</a></li>
+                    <li><a href="https://jiejinghe.com/search">搜索捷径</a></li>
+                    <li><a href="/guanyu.html">关于捷径</a></li>
+  <li><a href="/LX.html">联系我们</a></li>
+                </ul>
+                </span>
+            </li>
+       </ul>
+        </div>
 <p class="text_line"> </p>
 <p class="text_line"> </p>
-<h2>木子科技</h2><p class="text_line"> </p>
+<p class="c"><b>木子科技</b></p>
+<p class="text_line"> </p>
 <p class="text_line"> </p>
 <p class="cc">越接近，越完美；用捷径，更轻松！</p><p class="text_line"> </p>
-<p class="text_line"> </p></div></a>
 
-<div  class="cz"><a href="/JJ.html" target="_blank"><div  class="CC" style="background-color: #f3a073"><p class="cc">
-⌘ 下载捷径</p>
-</div></a><a href="/guanyu.html" target="_blank"><div  class="CC" style="background-color: #335bd6"><p class="cc">
-𝓲 关于捷径</p>
 </div></a>
-<a href="/LX.html" target="_blank"><div  class="CC" style="background-color: #2fe1cb"><p class="cc">
-✆联系我们</p>
-</div></a>
-</div>
+
 <p class="text_line"> </p>
 <p class="text_line"> </p>
 
