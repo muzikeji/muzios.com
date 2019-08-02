@@ -15,8 +15,17 @@ body {
 
 @media only screen and (max-width: 500px) {
     body {
-        background-color: #e9c89b;
+        background-color: #ffffff;
     }
+}
+ .fa-5x {
+  font-size: 5em;
+}
+
+.icon-4x {
+
+font-size: 4em;
+
 }
 
 div.x
@@ -190,8 +199,10 @@ a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
+	
 div,ul,span,li {
-                 margin: 0;    padding: 1px; 
+                   padding: 0;
+                margin: 0;
             }
 
             .nav {
@@ -277,11 +288,11 @@ div,ul,span,li {
 </script>
 </head>
 <body>
-
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 <a href="https://jiejinghe.com/users/6563404841"><div  class="x">
  <div id="sunav" class="nav">
             <ul>
-            <li class="sunav"><a href="#"> <b>☰ </b></a>
+            <li class="sunav"><a href="#"> <i class="fa fa-list-ul fa-2x"></i> </a>
                 <span>
                 <ul>
                     <li><a href="/JJ.html">下载捷径</a></li>
