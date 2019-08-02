@@ -191,8 +191,7 @@ a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
 div,ul,span,li {
-          padding-left:0px;
-                margin: 0;
+                 margin: 0;    padding: 1px; 
             }
 
             .nav {
@@ -225,7 +224,7 @@ div,ul,span,li {
                 width: 70px;
             }
             .nav span ul li a{
-                background-color: #42b0e0;
+                background-color: #b3addb;
             }
             .nav ul li:hover span {
                 display: block;
