@@ -284,7 +284,7 @@ div,ul,span,li {
 <a href="https://jiejinghe.com/users/6563404841"><div  class="x">
  <div id="sunav" class="nav">
             <ul>
-            <li class="sunav"><a href="#"> <i class="fa fa-list-ul fa-2x"></i> </a>
+            <li class="sunav"><a style=" color:#fff; font-size:30px;" href="#"> ☰ </a>
                 <span>
                 <ul>
                     <li><a href="/JJ.html">下载捷径</a></li>
