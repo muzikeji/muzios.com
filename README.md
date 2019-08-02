@@ -19,6 +19,13 @@ body {
     }
 }
 
+div.x
+{
+	background:url(https://ae01.alicdn.com/kf/Ha9e1b15964ed4844850be91f302ad7e2w.png);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+
 #div1{
 	border:#06C 0px solid;
 	position:fixed;
@@ -164,7 +171,7 @@ margin:5px;
 
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
 h3  {text-align: justify; color:#ffffff; font-size:20px;}
-h2  {text-align: center; color: #ffffff; font-size:20px;}
+h2  {text-align: center; color: #0223ec; font-size:20px;}
 p.cc  {text-align: center; color:#ffffff; font-size:15px;}
 
 a {
@@ -180,7 +187,6 @@ a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
-
 </style>
 <script type="text/javascript">
 	onload=function(){
@@ -228,10 +234,14 @@ a:active {text-decoration:none;}
 </script>
 </head>
 <body>
+<a href="https://jiejinghe.com/users/6563404841"><div  class="x"><p class="date">〰️</p>
 <p class="text_line"> </p>
-<a href="https://jiejinghe.com/users/6563404841"> <img  border="0" src="https://ae01.alicdn.com/kf/He2dada90d0bc4249b1805e31fe631a93V.jpeg" alt="木子李" width="100%" height="auto"></a>
-<embed src="http://m7c.music.126.net/20190727121148/cb3207346db5f6f7060f782a77523c08/ymusic/055d/065f/515d/272b5d606115f57d5942f79561148769.mp3" hidden="true" autostart="true" loop="true">
-<div  class="mc" style="background-color:  #7ba0f1"> <p class="cc"> 𝓜 𝓩𝓚𝓙 </p></div>
+<p class="text_line"> </p>
+<h2>木子科技</h2><p class="text_line"> </p>
+<p class="text_line"> </p>
+<p class="cc">越接近，越完美；用捷径，更轻松！</p><p class="text_line"> </p>
+<p class="text_line"> </p></div></a>
+
 <div  class="cz"><a href="/JJ.html" target="_blank"><div  class="CC" style="background-color: #f3a073"><p class="cc">
 ⌘ 下载捷径</p>
 </div></a><a href="/guanyu.html" target="_blank"><div  class="CC" style="background-color: #335bd6"><p class="cc">
@@ -242,9 +252,8 @@ a:active {text-decoration:none;}
 </div></a>
 </div>
 <p class="text_line"> </p>
+<p class="text_line"> </p>
 
-<div  class="tp"><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="46%" height="80" ><a>
-<a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="46%" height="80" ><a>
 	<a href="/JJ.html" target="_blank"><div id="box" onmouseover="stop()" onmouseout="start()">
 		<div id="red" class="slide"></div>
 		<div id="green" class="slide"></div>
@@ -252,33 +261,36 @@ a:active {text-decoration:none;}
 	</div></a>
 
 <p class="text_line"> </p>
+
+<div  class="tp"><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="46%" height="80" ><a>
+<a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="46%" height="80" ><a>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
-<img border="0" src="https://ae01.alicdn.com/kf/H38a948bc9a6a447eb746c2d0111703781.png" alt="快捷指令" width="320px" height="auto"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/H38a948bc9a6a447eb746c2d0111703781.png" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
-<img border="0" src="https://ae01.alicdn.com/kf/Hdc1e7ef25ade4734889d24a94dd56fe9G.jpeg" alt="快捷指令" width="320px" height="auto"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/Hdc1e7ef25ade4734889d24a94dd56fe9G.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
-<img border="0" src="https://ae01.alicdn.com/kf/Hd642943752d9412a8ab016bb62406256f.png" alt="快捷指令" width="320px" height="auto"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/Hd642943752d9412a8ab016bb62406256f.png" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
-<img border="0" src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="快捷指令" width="320px" height="auto"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
-<img border="0" src="https://ae01.alicdn.com/kf/Hdf80d780315741d29e035ed3f7f9b636Z.jpeg" alt="快捷指令" width="320px" height="auto"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/Hdf80d780315741d29e035ed3f7f9b636Z.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
-<img border="0" src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="快捷指令" width="320px" height="auto"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
-<img border="0" src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="快捷指令" width="320px" height="auto"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
-<img border="0" src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="快捷指令" width="320px" height="auto"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div  class="tp"> <a href="/JJ.html">
-<img border="0" src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="快捷指令" width="320px" height="auto"></a></div>
+<img  border="0" src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="快捷指令" width="100%" height="auto"></a></div>
 <div  class="cz"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
 𝕯 关注微博</p></div></a>
 <a href="http://v.douyin.com/S7wDt2/" target="_blank"><div  class="CD" style="background-color: #04020c"><p class="cc">♪ 关注抖音</p>
@@ -329,4 +341,3 @@ a:active {text-decoration:none;}
 <p class="text_line"> </p>
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
-<p class="cc">🔚</p>
