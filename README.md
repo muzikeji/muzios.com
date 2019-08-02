@@ -18,15 +18,6 @@ body {
         background-color: #ffffff;
     }
 }
- .fa-5x {
-  font-size: 5em;
-}
-
-.icon-4x {
-
-font-size: 4em;
-
-}
 
 div.x
 {
@@ -183,6 +174,7 @@ margin:5px;
 p.date {text-align: justify; color:#ffffff; font-size:14px;}
 h3  {text-align: justify; color:#ffffff; font-size:20px;}
 h2  {text-align: center; color:#ffffff; font-size:20px;}
+p.o  {text-align: center; color:#000000; font-size:15px;}
 p.cc  {text-align: center; color:#ffffff; font-size:15px;}
 p.c  {text-align: center; color: #4ae414; font-size:35px;}
 p.cd  {text-align: justify; color:#ffffff; }
@@ -354,7 +346,7 @@ div,ul,span,li {
 </div></a>
 </div>
 <h5 class="text_line"> </h5>
-<a href="/评论.html"><p class="cc"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
+<a href="/评论.html"><p class="o"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
 <div  class="tp"> <a href="/评论.html">
 <img  border="0" src="https://ae01.alicdn.com/kf/Hc2f11f65cbf4471bbe3c51eb836718f4P.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
@@ -363,7 +355,7 @@ div,ul,span,li {
 <p class="cc"><a href="mailto:56794501@qq.com">&nbsp;商务合作</a>|<a href="https://jiejinghe.com/" target="_blank">捷径盒</a> </p>
 <p>如果本站内容存在侵权，请提供相关专利证书<a href="mailto:56794501@qq.com">致信给我们</a>或者<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:56794501:51" alt="联系客服💁🏻‍♂️" title="联系客服💁🏻‍♂️"/></a>我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
 </div>
-<p class="date">友站链接❥ ❙
+<p class="o">友站链接❥ ❙
 <a href="https://jiejinghe.com">捷径盒</a>❙
 <a href="https://www.starchina.top">星辰网络</a>❙
 <a href="https://www.ttupp.com">清风不识字</a>❙ </p>
@@ -391,9 +383,9 @@ div,ul,span,li {
 <img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="30" height="auto"></a>
 
 <p class="text_line"> </p>
-<p class="cc">感谢访问本站好用记得收藏</p>
+<p class="o">感谢访问本站好用记得收藏</p>
 <div  class="s" style="background-color: #7ba0f1"><p class="cc">
-木子科技唯一官方网站</p></div><p class="cc">版权所有©️木子科技(2019-2028)</p>
+木子科技唯一官方网站</p></div><p class="o">版权所有©️木子科技(2019-2028)</p>
 
 <p class="text_line"> </p>
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
