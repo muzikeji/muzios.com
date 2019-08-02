@@ -175,7 +175,7 @@ p.date {text-align: justify; color:#ffffff; font-size:14px;}
 h3  {text-align: justify; color:#ffffff; font-size:20px;}
 h2  {text-align: center; color:#ffffff; font-size:20px;}
 p.cc  {text-align: center; color:#ffffff; font-size:15px;}
-p.c  {text-align: center; color:#0223ec; font-size:35px;}
+p.c  {text-align: center; color: #4ae414; font-size:35px;}
 p.cd  {text-align: justify; color:#ffffff; }
 a {
 color: #0508b9;
