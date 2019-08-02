@@ -234,52 +234,8 @@ div,ul,span,li {
                 text-decoration: none;
             }
 </style>
-<script type="text/javascript">
-	onload=function(){
-		var arr = document.getElementsByClassName("slide");
-		for(var i=0;i<arr.length;i++){
-			arr[i].style.left = i*340+"px";
-		}
-	}
-	function LeftMove(){
-		var arr = document.getElementsByClassName("slide");//获取三个子div
-		for(var i=0;i<arr.length;i++){
-			var left = parseFloat(arr[i].style.left);
-			left-=2;
-			var width = 340;//图片的宽度
-			if(left<=-width){
-				left=(arr.length-1)*width;//当图片完全走出显示框，拼接到末尾
-				clearInterval(moveId);
-			}
-			arr[i].style.left = left+"px";
-		}
-	}
-	function divInterval(){
-		moveId=setInterval(LeftMove,10);//设置一个10毫秒定时器
-	}
-	
-	
-	timeId=setInterval(divInterval,3000);//设置一个3秒的定时器。
-	
-	function stop(){
-		clearInterval(timeId);
-	}
-	function start(){
-		clearInterval(timeId);
-		timeId=setInterval(divInterval,3000);
-	}
-	
-	//页面失去焦点停止
-	onblur = function(){
-		stop();
-	}
-	//页面获取焦点时开始
-	onfocus = function(){
-		start();
-	}
-</script>
 </head>
-<body>
+<body  OnLoad="swapPic()">
 
 <a href="https://jiejinghe.com/users/6563404841"><div  class="x">
  <div id="sunav" class="nav">
@@ -308,11 +264,33 @@ div,ul,span,li {
 <p class="text_line"> </p>
 <p class="text_line"> </p>
 
-	<a href="/JJ.html" target="_blank"><div id="box" onmouseover="stop()" onmouseout="start()">
-		<div id="red" class="slide"></div>
-		<div id="green" class="slide"></div>
-		<div id="blue" class="slide"></div>
-	</div></a>
+	<a href="/JJ.html" target="_blank">
+<script language="javascript" type="text/javascript">
+    var ranl = 0;
+    var useRand = 0;
+    images = new Array;
+	images[1] = new Image();
+	images[1].src = "https://ae01.alicdn.com/kf/H9aacb1de7d15407db49dfc13a68021c5A.png";
+	images[2] = new Image();
+	images[2].src = "https://ae01.alicdn.com/kf/H580fde9e3c234a14891457eccee90ce04.jpeg";
+	images[3] = new Image();
+	images[3].src = "https://ae01.alicdn.com/kf/H3d2cbc5dd1de4abb8584f11c0b5a01a8Z.png";
+	images[4] = new Image();
+	images[4].src = "https://ae01.alicdn.com/kf/H84e450bedf2c4608892ef17a4ab1974bI.png";
+	function swapPic(){
+	   var imgnum = images.length-1;
+       do{
+	    var randnum = Math.random();
+		randl = Math.round((imgnum-1)*randnum)+1;
+	   }while(randl==useRand);
+        useRand = randl;
+        document.randimg.src = images[useRand].src		
+		setTimeout('swapPic()',2000);
+	}
+	
+  </script>
+  <img name ="randimg" src="https://ae01.alicdn.com/kf/H9aacb1de7d15407db49dfc13a68021c5A.png">
+</a>
 
 <p class="text_line"> </p>
 
@@ -320,17 +298,17 @@ div,ul,span,li {
 <a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="46%" height="80" ><a>
 <p class="text_line"> </p>
 
-<a href="/JJ.html">
+<a href="https://mb.mbd.baidu.com/bpghx2c?f=cp&u=fb9304181ab91d92">
 <img class="thumbnail" src="https://ae01.alicdn.com/kf/Hd2e7cf0941e9404fa19d584c9bdd1b5bN.png" alt="快捷指令" width="150px" height="86px"></a>
 <a href="/JJ.html">
 <img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="快捷指令" width="150px" height="86px"></a>
-<a href="/JJ.html">
+<a href="/guanyu.html">
 <img class="thumbnail" src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="快捷指令" width="150px" height="86px"></a>
 <a href="/JJ.html">
 <img class="thumbnail" src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="快捷指令" width="150px" height="86px"></a>
-<a href="/JJ.html">
+<a href="https://jiejinghe.com/shortcuts/1014320740">
 <img class="thumbnail" src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="快捷指令" width="150px" height="86px"></a>
-<a href="/JJ.html">
+<a href="/LX.html">
 <img class="thumbnail" src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="快捷指令" width="150px" height="86px"></a><p class="text_line"> 
 <div  class="cz"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
 𝕯 关注微博</p></div></a>
