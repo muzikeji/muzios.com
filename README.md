@@ -21,7 +21,7 @@ body {
 
 div.x
 {
-	background:url(https://ae01.alicdn.com/kf/Ha9e1b15964ed4844850be91f302ad7e2w.png);
+	background:url(https://ae01.alicdn.com/kf/He8d410a88ba04fe7a27f8d720a487e02f.jpeg);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
   width:100%;
@@ -280,6 +280,7 @@ div,ul,span,li {
 </script>
 </head>
 <body>
+
 <a href="https://jiejinghe.com/users/6563404841"><div  class="x">
  <div id="sunav" class="nav">
             <ul>
