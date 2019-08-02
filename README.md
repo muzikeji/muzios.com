@@ -191,7 +191,7 @@ a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
 div,ul,span,li {
-          padding-left:0px;
+          padding:0;
                 margin: 0;
             }
 
