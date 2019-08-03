@@ -9,7 +9,12 @@
 <style type="text/css">
 
 body{width:auto;text-align:center;margin:0 auto;
-max-width:500px; min-width:300px; boder:1px solid #f00;}
+max-width:500px; min-width:300px; boder:1px solid #d87777;
+
+background:#d7e9f5 url(https://ae01.alicdn.com/kf/Ha21caa6885a9453c996ec91ef91dfed3T.png) no-repeat left top;
+  background-size:100%;
+
+}
 
 h1 { display:none; }
 
