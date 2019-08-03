@@ -313,42 +313,42 @@ div.container {
 <p class="text_line"> </p>
 
 <a href="https://mb.mbd.baidu.com/bpghx2c?f=cp&u=fb9304181ab91d92"> <div class="polaroid">
-  <img src="https://ae01.alicdn.com/kf/Hd2e7cf0941e9404fa19d584c9bdd1b5bN.png" alt="Norway" style="width:95%"height="90" >
+  <img src="https://ae01.alicdn.com/kf/Hd2e7cf0941e9404fa19d584c9bdd1b5bN.png" alt="Norway" style="width:95%" height="90" >
   <div class="container">
     <p>关于 iOS 13</p>
   </div>
 </div>
 
 <a href="/JJ.html"> <div class="polaroid">
-  <img src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="Norway" style="width:95%"height="90" >
+  <img src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="Norway" style="width:95%" height="90" >
   <div class="container">
     <p>下载更多捷径</p>
   </div>
 </div>
 
 <a href="https://mz.mbd.baidu.com/k587pu2?f=cp&u=a1f5a448c529819e"> <div class="polaroid">
-  <img src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="Norway" style="width:95%"height="90" >
+  <img src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="Norway" style="width:95%" height="90" >
   <div class="container">
     <p>如何制作捷径</p>
   </div>
 </div>
 
 <a href="/guanyu.html"> <div class="polaroid">
-  <img src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="Norway" style="width:95%"height="90" >
+  <img src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="Norway" style="width:95%" height="90" >
   <div class="container">
     <p>关于捷径</p>
   </div>
 </div>
 
 <a href="https://jiejinghe.com/shortcuts/1014320740"> <div class="polaroid">
-  <img src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="Norway" style="width:95%"height="90" >
+  <img src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="Norway" style="width:95%" height="90" >
   <div class="container">
     <p>iOS 配置文件下载</p>
   </div>
 </div>
 
 <a href="/LX.html"> <div class="polaroid">
-  <img src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="Norway" style="width:95%"height="90" >
+  <img src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="Norway" style="width:95%" height="90" >
   <div class="container">
     <p>联系我们</p>
   </div>
