@@ -317,7 +317,7 @@ div,ul,span,li {
 <img  border="0" src="https://ae01.alicdn.com/kf/Hc2f11f65cbf4471bbe3c51eb836718f4P.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div class="ex">
-<p class="cc"><a style=" font-size:30px;"href="mailto:56794501@qq.com">&nbsp;商务合作</a>｜<a style=" font-size:30px;" href="https://jiejinghe.com/" target="_blank">捷径盒</a> </p>
+<p class="cc"><a style=" font-size:30px;" href="mailto:56794501@qq.com">&nbsp;商务合作</a>｜<a style=" font-size:30px;" href="https://jiejinghe.com/" target="_blank">捷径盒</a> </p>
 </div>
 <p class="o">友站链接❥ ❙
 <a href="https://jiejinghe.com">捷径盒</a>❙
@@ -346,6 +346,7 @@ div,ul,span,li {
 <a href="http://v.douyin.com/kkpWm9/">
 <img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="30" height="auto"></a>
 
+</div>
 <p class="text_line"> </p>
 <p class="o">感谢访问本站好用记得收藏</p>
 <div  class="s" style="background-color: #7ba0f1"><p class="cc">
@@ -354,4 +355,3 @@ div,ul,span,li {
 <p class="text_line"> </p>
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
-</div>
