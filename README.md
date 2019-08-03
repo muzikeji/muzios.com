@@ -7,11 +7,10 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <style type="text/css">
+
+body{width:800px;text-align:center;margin:auto;}
+
 h1 { display:none; }
-
-body{ margin:0; padding:0;}
-#wrap{ width:1003px; margin:0 auto; overflow:hidden;}
-
 
 div.x
 {
@@ -231,7 +230,6 @@ div,ul,span,li {
 </head>
 <body  OnLoad="swapPic()">
 
-<div id="warp">
 
 <a href="https://jiejinghe.com/users/6563404841"><div  class="x">
  <div id="sunav" class="nav">
@@ -347,6 +345,129 @@ div,ul,span,li {
 <img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="30" height="auto"></a>
 
 </div>
+<p class="text_line"> </p>
+<p class="o">感谢访问本站好用记得收藏</p>
+<div  class="s" style="background-color: #7ba0f1"><p class="cc">
+木子科技唯一官方网站</p></div><p class="o">版权所有©️木子科技(2019-2028)</p>
+
+<p class="text_line"> </p>
+<script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
+<script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
+
+
+<a href="https://jiejinghe.com/users/6563404841"><div  class="x">
+ <div id="sunav" class="nav">
+            <ul>
+            <li class="sunav"><a style=" color:#fff; font-size:30px;" href="#"> ☰ </a>
+                <span>
+                <ul>
+                    <li><a href="/JJ.html">下载捷径</a></li>
+                    <li><a href="https://jiejinghe.com/search">搜索捷径</a></li>
+                    <li><a href="/guanyu.html">关于捷径</a></li>
+  <li><a href="/LX.html">联系我们</a></li>
+                </ul>
+                </span>
+            </li>
+       </ul>
+        </div>
+<p class="text_line"> </p>
+<p class="text_line"> </p>
+<p class="c"><b>木子科技</b></p>
+<p class="text_line"> </p>
+<p class="text_line"> </p>
+<p class="cc"><b>越接近，越完美；用捷径，更轻松！</b></p><p class="text_line"> </p>
+
+</div></a>
+
+<p class="text_line"> </p>
+<p class="text_line"> </p>
+
+	<a href="/JJ.html" target="_blank">
+<script language="javascript" type="text/javascript">
+    var ranl = 0;
+    var useRand = 0;
+    images = new Array;
+	images[1] = new Image();
+	images[1].src = "https://ae01.alicdn.com/kf/H9aacb1de7d15407db49dfc13a68021c5A.png";
+	images[2] = new Image();
+	images[2].src = "https://ae01.alicdn.com/kf/H580fde9e3c234a14891457eccee90ce04.jpeg";
+	images[3] = new Image();
+	images[3].src = "https://ae01.alicdn.com/kf/H3d2cbc5dd1de4abb8584f11c0b5a01a8Z.png";
+	images[4] = new Image();
+	images[4].src = "https://ae01.alicdn.com/kf/H84e450bedf2c4608892ef17a4ab1974bI.png";
+	function swapPic(){
+	   var imgnum = images.length-1;
+       do{
+	    var randnum = Math.random();
+		randl = Math.round((imgnum-1)*randnum)+1;
+	   }while(randl==useRand);
+        useRand = randl;
+        document.randimg.src = images[useRand].src		
+		setTimeout('swapPic()',2000);
+	}
+	
+  </script>
+  <img name ="randimg" src="https://ae01.alicdn.com/kf/H9aacb1de7d15407db49dfc13a68021c5A.png">
+</a>
+
+<p class="text_line"> </p>
+
+<div  class="tp"><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="46%" height="80" ><a>
+<a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="46%" height="80" ><a>
+<p class="text_line"> </p>
+
+<a href="https://mb.mbd.baidu.com/bpghx2c?f=cp&u=fb9304181ab91d92">
+<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hd2e7cf0941e9404fa19d584c9bdd1b5bN.png" alt="快捷指令" width="150px" height="86px"></a>
+<a href="/JJ.html">
+<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="快捷指令" width="150px" height="86px"></a>
+<a href="/guanyu.html">
+<img class="thumbnail" src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="快捷指令" width="150px" height="86px"></a>
+<a href="/JJ.html">
+<img class="thumbnail" src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="快捷指令" width="150px" height="86px"></a>
+<a href="https://jiejinghe.com/shortcuts/1014320740">
+<img class="thumbnail" src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="快捷指令" width="150px" height="86px"></a>
+<a href="/LX.html">
+<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="快捷指令" width="150px" height="86px"></a><p class="text_line"> 
+<div  class="cz"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
+𝕯 关注微博</p></div></a>
+<a href="http://v.douyin.com/S7wDt2/" target="_blank"><div  class="CD" style="background-color: #04020c"><p class="cc">♪ 关注抖音</p>
+</div></a>
+</div>
+<h5 class="text_line"> </h5>
+<a href="/评论.html"><p class="o"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
+<div  class="tp"> <a href="/评论.html">
+<img  border="0" src="https://ae01.alicdn.com/kf/Hc2f11f65cbf4471bbe3c51eb836718f4P.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
+<p class="text_line"> </p>
+<div class="ex">
+<p class="cc"><a style=" font-size:30px;" href="mailto:56794501@qq.com">&nbsp;商务合作</a>｜<a style=" font-size:30px;" href="https://jiejinghe.com/" target="_blank">捷径盒</a> </p>
+</div>
+<p class="o">友站链接❥ ❙
+<a href="https://jiejinghe.com">捷径盒</a>❙
+<a href="https://www.starchina.top">星辰网络</a>❙
+<a href="https://www.ttupp.com">清风不识字</a>❙ </p>
+
+<p class="text_line">联系我们💌</p>
+<a href="https://s7.addthis.com/static/wechat_follow.html?id=Miss-baby_&u=https://u.wechat.com/MIDWVwUtuk6_gUB48_Fy41U">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6ab49d692360416199684aadf1b64023E.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="mqq://im/chat?chat_type=wpa&uin=56794501&version=1&src_type=web">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H8db64cccea0a4ee3bf88ebf242b21d2es.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="https://ae01.alicdn.com/kf/H92b91557d9264af682723e9369a426b0p.png">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/Ha3ee2ed657c34d68a0bb7fb65bdd89caF.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="https://jq.qq.com/?_wv=1027&k=5wclJSO">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H294277aebe3a45338b6d8b7fa5ee79ecT.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="https://weibo.com/u/5090561214">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6308a6002fe64acdb5ca92ad99bce84fy.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="mailto: 56794501@qq.com">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/Hf60141ed2e4249389a38ba8a38ad1fefS.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="http://v.douyin.com/kkpWm9/">
+<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="30" height="auto"></a>
+
 <p class="text_line"> </p>
 <p class="o">感谢访问本站好用记得收藏</p>
 <div  class="s" style="background-color: #7ba0f1"><p class="cc">
