@@ -8,7 +8,8 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <style type="text/css">
 
-body{width:360px;text-align:center;margin:auto;}
+body{width:auto;text-align:center;margin:0 auto;
+max-width:500px; min-width:300px; }
 
 h1 { display:none; }
 
