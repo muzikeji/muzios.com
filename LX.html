@@ -7,6 +7,22 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <style>
+
+public class BaseActivity extends Activity {
+    //@Nullable@Nullable 表示定义的字段可以为空.
+    @Override
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        /**
+         * 设置为横屏
+         */
+        if (getRequestedOrientation() != ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE) {
+            setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+        }
+    }
+}
+
+
 h1 { display:none; }
 body{ text-align:center} 
 div.CC
@@ -49,12 +65,6 @@ p.cc  {text-align: center; color:#ffffff; font-size:14px;}
 	margin:10px;
 }
 
-.text_line
-{
-	clear:both;
-	margin-bottom:0px;
-}
-
 div.img {
     margin: 5px;
     border: 1px solid #ccc;
@@ -79,16 +89,18 @@ a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
-
+#wrap {display:block;bottom:0px;right:1px!important;right:18px;width:100%;line-height:30px;position:fixed;border:1px solid #fff;text-align:center;color:#fff;  background-color: rgba(0,0,0,0.5);}
+*html{overflow-x:auto;overflow-y:auto;} 
+* html #wrap {position:absolute;}
 </style>
 </head>
 
 <a href="https://jiejinghe.com/users/6563404841">
-<img  border="0" src="/935D26FB-3F0A-4139-8675-B15DE2E30D14.jpeg" alt="木子李" width="350" height="auto"></a>
+<img  border="0" src="https://ae01.alicdn.com/kf/He2dada90d0bc4249b1805e31fe631a93V.jpeg" alt="木子李" width="350" height="auto"></a>
 
 <p class="text_line"> </p>
 <a href="http://muzikeji.cn" target="_blank"><div  class="CC" style="background-color: #f18d3a"><p class="cc">
-☖ 首页</p>
+❖首页</p>
 </div></a>
 <a href="https://jiejinghe.com/search" target="_blank"><div  class="CC" style="background-color: #37a6e2"><p class="cc">
 𝙌搜索捷径</p>
@@ -98,26 +110,26 @@ a:active {text-decoration:none;}
 </div></a>
 
 <p class="text_line">┉ ┉ ┉ ┉ ┉  ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ </p>
-<a href="mailto: 56794501@qq.com">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/Hf60141ed2e4249389a38ba8a38ad1fefS.png" alt="木子李" width="50" height="auto"></a>
-
-<a href="https://weibo.com/u/5090561214">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6308a6002fe64acdb5ca92ad99bce84fy.png" alt="木子李" width="50" height="auto"></a>
-
-<a href="http://v.douyin.com/kkpWm9/">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="50" height="auto"></a>
-
-<a href="https://ae01.alicdn.com/kf/H4fe9e4cc6e3941d2992bc560e1130cff3.jpeg">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6ab49d692360416199684aadf1b64023E.png" alt="木子李" width="50" height="auto"></a>
-
-<a href="https://ae01.alicdn.com/kf/H92b91557d9264af682723e9369a426b0p.png">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/Ha3ee2ed657c34d68a0bb7fb65bdd89caF.png" alt="木子李" width="50" height="auto"></a>
+<a href="https://s7.addthis.com/static/wechat_follow.html?id=Miss-baby_&u=https://u.wechat.com/MIDWVwUtuk6_gUB48_Fy41U">
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H6ab49d692360416199684aadf1b64023E.png" alt="木子李" width="30" height="auto"></a>
 
 <a href="mqq://im/chat?chat_type=wpa&uin=56794501&version=1&src_type=web">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H8db64cccea0a4ee3bf88ebf242b21d2es.png" alt="木子李" width="50" height="auto"></a>
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H8db64cccea0a4ee3bf88ebf242b21d2es.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="https://ae01.alicdn.com/kf/H92b91557d9264af682723e9369a426b0p.png">
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/Ha3ee2ed657c34d68a0bb7fb65bdd89caF.png" alt="木子李" width="30" height="auto"></a>
 
 <a href="https://jq.qq.com/?_wv=1027&k=5wclJSO">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H294277aebe3a45338b6d8b7fa5ee79ecT.png" alt="木子李" width="50" height="auto"></a>
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H294277aebe3a45338b6d8b7fa5ee79ecT.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="https://weibo.com/u/5090561214">
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H6308a6002fe64acdb5ca92ad99bce84fy.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="mailto: 56794501@qq.com">
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/Hf60141ed2e4249389a38ba8a38ad1fefS.png" alt="木子李" width="30" height="auto"></a>
+
+<a href="http://v.douyin.com/kkpWm9/">
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="30" height="auto"></a>
 
 <h5 class="text_line"> 
 <h5>微信号:
@@ -146,5 +158,8 @@ alert("微信公众号已复制好，打开微信贴粘。");
 <textarea cols="10" rows="1" 
 id="biao2">苹果捷径科技</textarea> 
 <input type="button" onClick="copyUrl3()" value="点击复制" /> <h3><a href="weixin://
-" target="_blank">打开微信</a> 
-
+" target="_blank">打开微信</a> </h3>
+<div style="height:100px;"></div>
+<div id="wrap"><a href="https://muzikeji.cn/">首页</a>丨<a href="/JJ.html">下载捷径</a>丨<a href="https://jiejinghe.com/search">搜索捷径</a>｜<a href="/guanyu.html">关于捷径</a>｜<a href="/LX.html">联系我们</a><br>
+-
+</div>
