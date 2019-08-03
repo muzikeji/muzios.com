@@ -233,6 +233,18 @@ div,ul,span,li {
                 display: block;
                 text-decoration: none;
             }
+
+div.polaroid {
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
 </style>
 </head>
 <body  OnLoad="swapPic()">
@@ -298,18 +310,48 @@ div,ul,span,li {
 <a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="46%" height="80" ><a>
 <p class="text_line"> </p>
 
-<a href="https://mb.mbd.baidu.com/bpghx2c?f=cp&u=fb9304181ab91d92">
-<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hd2e7cf0941e9404fa19d584c9bdd1b5bN.png" alt="快捷指令" width="45%" height="86px"></a>
-<a href="/JJ.html">
-<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="快捷指令" width="45%" height="86px"></a>
-<a href="/guanyu.html">
-<img class="thumbnail" src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="快捷指令" width="45%" height="86px"></a>
-<a href="/JJ.html">
-<img class="thumbnail" src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="快捷指令" width="45%" height="86px"></a>
-<a href="https://jiejinghe.com/shortcuts/1014320740">
-<img class="thumbnail" src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="快捷指令" width="45%" height="86px"></a>
-<a href="/LX.html">
-<img class="thumbnail" src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="快捷指令" width="45%" height="86px"></a><p class="text_line"> 
+<a href="https://mb.mbd.baidu.com/bpghx2c?f=cp&u=fb9304181ab91d92"> <div class="polaroid">
+  <img class="thumbnail"  src="https://ae01.alicdn.com/kf/Hd2e7cf0941e9404fa19d584c9bdd1b5bN.png" alt="Norway" style="width:100%">
+  <div class="container">
+    <p>关于 iOS 13</p>
+  </div>
+</div>
+
+<a href="/JJ.html"> <div class="polaroid">
+  <img class="thumbnail"  src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="Norway" style="width:100%">
+  <div class="container">
+    <p>下载更多捷径</p>
+  </div>
+</div>
+
+<a href="https://mz.mbd.baidu.com/k587pu2?f=cp&u=a1f5a448c529819e"> <div class="polaroid">
+  <img class="thumbnail"  src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="Norway" style="width:100%">
+  <div class="container">
+    <p>如何制作捷径</p>
+  </div>
+</div>
+
+<a href="/guanyu.html"> <div class="polaroid">
+  <img class="thumbnail"  src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="Norway" style="width:100%">
+  <div class="container">
+    <p>关于捷径</p>
+  </div>
+</div>
+
+<a href="https://jiejinghe.com/shortcuts/1014320740"> <div class="polaroid">
+  <img class="thumbnail"  src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="Norway" style="width:100%">
+  <div class="container">
+    <p>iOS 13 配置文件下载</p>
+  </div>
+</div>
+
+<a href="/LX.html"> <div class="polaroid">
+  <img class="thumbnail"  src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="Norway" style="width:100%">
+  <div class="container">
+    <p>联系我们</p>
+  </div>
+</div>
+<p class="text_line"> 
 <div  class="cz"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
 𝕯 关注微博</p></div></a>
 <a href="http://v.douyin.com/S7wDt2/" target="_blank"><div  class="CD" style="background-color: #04020c"><p class="cc">♪ 关注抖音</p>
