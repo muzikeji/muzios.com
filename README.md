@@ -9,15 +9,9 @@
 <style type="text/css">
 h1 { display:none; }
 
-body {
-    background-color: #42dbbc;
-}
+body{ margin:0; padding:0;}
+#wrap{ width:1003px; margin:0 auto; overflow:hidden;}
 
-@media only screen and (max-width: 500px) {
-    body {
-        background-color: #ffffff;
-    }
-}
 
 div.x
 {
@@ -237,6 +231,8 @@ div,ul,span,li {
 </head>
 <body  OnLoad="swapPic()">
 
+<div id="warp">
+
 <a href="https://jiejinghe.com/users/6563404841"><div  class="x">
  <div id="sunav" class="nav">
             <ul>
@@ -358,3 +354,4 @@ div,ul,span,li {
 <p class="text_line"> </p>
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
+</div>
