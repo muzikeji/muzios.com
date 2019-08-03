@@ -234,7 +234,7 @@ div,ul,span,li {
                 text-decoration: none;
             }
 
-div.polaroid {
+div.po {
   width: 46%;
   background-color: white;
 float:left;
@@ -243,7 +243,7 @@ float:left;
 margin:5px; 
 }
 
-div.container {
+div.co {
   text-align: center;
   padding: 1px 1px;
 }
@@ -312,47 +312,53 @@ div.container {
 <a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="46%" height="80" ><a>
 <p class="text_line"> </p>
 
-<a href="https://mb.mbd.baidu.com/bpghx2c?f=cp&u=fb9304181ab91d92"> <div class="polaroid">
+<a href="https://mb.mbd.baidu.com/bpghx2c?f=cp&u=fb9304181ab91d92"> <div class="po">
   <img src="https://ae01.alicdn.com/kf/Hd2e7cf0941e9404fa19d584c9bdd1b5bN.png" alt="Norway" style="width:95%" height="90" >
-  <div class="container">
+  <div class="co">
     <p>关于 iOS 13</p>
   </div>
-</div></a>
+</div>
+</a>
 
-<a href="/JJ.html"> <div class="polaroid">
+<a href="/JJ.html"> <div class="po">
   <img src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="Norway" style="width:95%" height="90" >
-  <div class="container">
+  <div class="co">
     <p>下载更多捷径</p>
   </div>
-</div></a>
+</div>
+</a>
 
-<a href="https://mz.mbd.baidu.com/k587pu2?f=cp&u=a1f5a448c529819e"> <div class="polaroid">
+<a href="https://mz.mbd.baidu.com/k587pu2?f=cp&u=a1f5a448c529819e"> <div class="po">
   <img src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="Norway" style="width:95%" height="90" >
-  <div class="container">
+  <div class="co">
     <p>如何制作捷径</p>
   </div>
-</div></a>
+</div>
+</a>
 
-<a href="/guanyu.html"> <div class="polaroid">
+<a href="/guanyu.html"> <div class="po">
   <img src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="Norway" style="width:95%" height="90" >
-  <div class="container">
+  <div class="co">
     <p>关于捷径</p>
   </div>
-</div></a>
+</div>
+</a>
 
-<a href="https://jiejinghe.com/shortcuts/1014320740"> <div class="polaroid">
+<a href="https://jiejinghe.com/shortcuts/1014320740"> <div class="po">
   <img src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="Norway" style="width:95%" height="90" >
-  <div class="container">
+  <div class="co">
     <p>iOS 配置文件下载</p>
   </div>
-</div></a>
+</div>
+</a>
 
-<a href="/LX.html"> <div class="polaroid">
+<a href="/LX.html"> <div class="po">
   <img src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="Norway" style="width:95%" height="90" >
-  <div class="container">
+  <div class="co">
     <p>联系我们</p>
   </div>
-</div></a>
+</div>
+</a>
 <p class="text_line"> 
 <div  class="cz"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
 𝕯 关注微博</p></div></a>
