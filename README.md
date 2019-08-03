@@ -9,7 +9,7 @@
 <style type="text/css">
 
 body{width:auto;text-align:center;margin:0 auto;
-max-width:500px; min-width:300px; }
+max-width:500px; min-width:300px; boder:1px solid #f00;}
 
 h1 { display:none; }
 
