@@ -235,15 +235,17 @@ div,ul,span,li {
             }
 
 div.polaroid {
-  width: 100%;
+  width: 46%;
   background-color: white;
+float:left;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
+margin:5px; 
 }
 
 div.container {
   text-align: center;
-  padding: 10px 20px;
+  padding: 1px 1px;
 }
 </style>
 </head>
@@ -311,42 +313,42 @@ div.container {
 <p class="text_line"> </p>
 
 <a href="https://mb.mbd.baidu.com/bpghx2c?f=cp&u=fb9304181ab91d92"> <div class="polaroid">
-  <img class="thumbnail"  src="https://ae01.alicdn.com/kf/Hd2e7cf0941e9404fa19d584c9bdd1b5bN.png" alt="Norway" style="width:100%">
+  <img src="https://ae01.alicdn.com/kf/Hd2e7cf0941e9404fa19d584c9bdd1b5bN.png" alt="Norway" style="width:95%"height="90" >
   <div class="container">
     <p>关于 iOS 13</p>
   </div>
 </div>
 
 <a href="/JJ.html"> <div class="polaroid">
-  <img class="thumbnail"  src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="Norway" style="width:100%">
+  <img src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="Norway" style="width:95%"height="90" >
   <div class="container">
     <p>下载更多捷径</p>
   </div>
 </div>
 
 <a href="https://mz.mbd.baidu.com/k587pu2?f=cp&u=a1f5a448c529819e"> <div class="polaroid">
-  <img class="thumbnail"  src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="Norway" style="width:100%">
+  <img src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="Norway" style="width:95%"height="90" >
   <div class="container">
     <p>如何制作捷径</p>
   </div>
 </div>
 
 <a href="/guanyu.html"> <div class="polaroid">
-  <img class="thumbnail"  src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="Norway" style="width:100%">
+  <img src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="Norway" style="width:95%"height="90" >
   <div class="container">
     <p>关于捷径</p>
   </div>
 </div>
 
 <a href="https://jiejinghe.com/shortcuts/1014320740"> <div class="polaroid">
-  <img class="thumbnail"  src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="Norway" style="width:100%">
+  <img src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="Norway" style="width:95%"height="90" >
   <div class="container">
-    <p>iOS 13 配置文件下载</p>
+    <p>iOS 配置文件下载</p>
   </div>
 </div>
 
 <a href="/LX.html"> <div class="polaroid">
-  <img class="thumbnail"  src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="Norway" style="width:100%">
+  <img src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="Norway" style="width:95%"height="90" >
   <div class="container">
     <p>联系我们</p>
   </div>
@@ -372,25 +374,25 @@ div.container {
 
 <p class="text_line">联系我们💌</p>
 <a href="https://s7.addthis.com/static/wechat_follow.html?id=Miss-baby_&u=https://u.wechat.com/MIDWVwUtuk6_gUB48_Fy41U">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6ab49d692360416199684aadf1b64023E.png" alt="木子李" width="30" height="auto"></a>
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H6ab49d692360416199684aadf1b64023E.png" alt="木子李" width="30" height="auto"></a>
 
 <a href="mqq://im/chat?chat_type=wpa&uin=56794501&version=1&src_type=web">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H8db64cccea0a4ee3bf88ebf242b21d2es.png" alt="木子李" width="30" height="auto"></a>
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H8db64cccea0a4ee3bf88ebf242b21d2es.png" alt="木子李" width="30" height="auto"></a>
 
 <a href="https://ae01.alicdn.com/kf/H92b91557d9264af682723e9369a426b0p.png">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/Ha3ee2ed657c34d68a0bb7fb65bdd89caF.png" alt="木子李" width="30" height="auto"></a>
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/Ha3ee2ed657c34d68a0bb7fb65bdd89caF.png" alt="木子李" width="30" height="auto"></a>
 
 <a href="https://jq.qq.com/?_wv=1027&k=5wclJSO">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H294277aebe3a45338b6d8b7fa5ee79ecT.png" alt="木子李" width="30" height="auto"></a>
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H294277aebe3a45338b6d8b7fa5ee79ecT.png" alt="木子李" width="30" height="auto"></a>
 
 <a href="https://weibo.com/u/5090561214">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H6308a6002fe64acdb5ca92ad99bce84fy.png" alt="木子李" width="30" height="auto"></a>
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H6308a6002fe64acdb5ca92ad99bce84fy.png" alt="木子李" width="30" height="auto"></a>
 
 <a href="mailto: 56794501@qq.com">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/Hf60141ed2e4249389a38ba8a38ad1fefS.png" alt="木子李" width="30" height="auto"></a>
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/Hf60141ed2e4249389a38ba8a38ad1fefS.png" alt="木子李" width="30" height="auto"></a>
 
 <a href="http://v.douyin.com/kkpWm9/">
-<img  class="thumbnail 1"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="30" height="auto"></a>
+<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="30" height="auto"></a>
 
 <p class="text_line"> </p>
 <p class="o">感谢访问本站好用记得收藏</p>
