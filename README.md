@@ -22,11 +22,12 @@ h1 { display:none; }
 
 div.x
 {
-	background:url(https://ae01.alicdn.com/kf/He8d410a88ba04fe7a27f8d720a487e02f.jpeg);
+	background:url(https://ae01.alicdn.com/kf/H86742c1e6ec34bedb1989423f2f32820t.png);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
-  width:100%;
-    height:30%;
+  width: 100%;
+                height: auto;
+            
 }
 
 #div1{
@@ -254,7 +255,6 @@ div.co {
 </style>
 </head>
 <body  OnLoad="swapPic()">
-
 <a href="https://jiejinghe.com/users/6563404841"><div  class="x">
  <div id="sunav" class="nav">
             <ul>
@@ -276,7 +276,6 @@ div.co {
 <p class="text_line"> </p>
 <p class="text_line"> </p>
 <p class="cc"><b>越接近，越完美；用捷径，更轻松！</b></p><p class="text_line"> </p>
-
 </div></a>
 
 <p class="text_line"> </p>
@@ -303,9 +302,8 @@ div.co {
 	   }while(randl==useRand);
         useRand = randl;
         document.randimg.src = images[useRand].src		
-		setTimeout('swapPic()',2000);
+		setTimeout('swapPic()',3000);
 	}
-	
   </script>
   <img name ="randimg" src="https://ae01.alicdn.com/kf/H9aacb1de7d15407db49dfc13a68021c5A.png">
 </a>
