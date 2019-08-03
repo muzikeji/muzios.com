@@ -9,6 +9,7 @@
 <style type="text/css">
 
 body{width:auto;text-align:center;margin:0 auto;
+padding:0 10px 0 10px;
 max-width:500px; min-width:300px; boder:1px solid #d87777;
 
 background:#d7e9f5 url(https://ae01.alicdn.com/kf/Ha21caa6885a9453c996ec91ef91dfed3T.png) no-repeat left top;
@@ -247,6 +248,9 @@ div.co {
   text-align: center;
   padding: 1px 1px;
 }
+#wrap {display:block;bottom:0px;right:1px!important;right:18px;width:100%;line-height:30px;position:fixed;border:1px solid #fff;text-align:center;color:#fff;  background-color: rgba(0,0,0,0.5);}
+*html{overflow-x:auto;overflow-y:auto;} 
+* html #wrap {position:absolute;}
 </style>
 </head>
 <body  OnLoad="swapPic()">
@@ -408,3 +412,7 @@ div.co {
 <p class="text_line"> </p>
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
+<div style="height:100px;"></div>
+<div id="wrap"><a href="https://muzikeji.cn/">首页</a>丨<a href="/JJ.html">下载捷径</a>丨<a href="https://jiejinghe.com/search">搜索捷径</a>｜<a href="/guanyu.html">关于捷径</a>｜<a href="/LX.html">联系我们</a><br>
+-
+</div>
