@@ -8,9 +8,10 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <style type="text/css">
 
-body{width:800px;text-align:center;margin:auto;}
+body{width:360px;text-align:center;margin:auto;}
 
 h1 { display:none; }
+
 
 div.x
 {
@@ -230,7 +231,6 @@ div,ul,span,li {
 </head>
 <body  OnLoad="swapPic()">
 
-
 <a href="https://jiejinghe.com/users/6563404841"><div  class="x">
  <div id="sunav" class="nav">
             <ul>
@@ -352,4 +352,3 @@ div,ul,span,li {
 <p class="text_line"> </p>
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
-
