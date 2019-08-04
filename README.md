@@ -8,7 +8,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <style type="text/css">
 
-body{bottom:0px;width:100%;border:1px solid #fff;text-align:center;margin:0 auto;
+body{width:auto;text-align:center;margin:0 auto;
 padding:0 10px 0 10px;
 max-width:500px; min-width:300px; boder:1px solid #d87777;
 
@@ -22,11 +22,11 @@ h1 { display:none; }
 
 div.x
 {
-	background:url(https://ae01.alicdn.com/kf/H86742c1e6ec34bedb1989423f2f32820t.png);
+	background:url(https://ae01.alicdn.com/kf/Hf8b86fa618e2484585ff4df7c9b19e5cz.png);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
   width: 100%;
-                height: 160px;
+                height: 170px;
             
 }
 
