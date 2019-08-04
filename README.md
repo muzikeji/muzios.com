@@ -95,14 +95,14 @@ border-radius: 35px;
 margin:5px;
 }
 div.cz {border-radius: 10px;
-border: #906326 solid 1px;
+border:width  solid 1px;
 width:100%;
 	height:60px;
 margin:0 auto;
 border-radius: 5px;
    }
 div.tp {border-radius: 10px;
-width:95%;
+width:100%;
 	height:auto;
 margin:0 auto;
 border-radius: 5px;
@@ -143,7 +143,7 @@ div.CD
 	width:46%;
 	height:50px;
 	line-height:50px; 
-border:blue solid 1px;
+border:width solid 1px;
 border-radius: 10px;
     padding: 1px; 
 overflow:hidden;
@@ -180,21 +180,15 @@ p.o  {text-align: center; color:#000000; font-size:15px;}
 p.cc  {text-align: center; color:#ffffff; font-size:15px;}
 p.c  {text-align: center; color: #4ae414; font-size:35px;}
 p.cd  {text-align: justify; color:#ffffff; }
-a {
-color: #0508b9;
-text-decoration: none;
-}
-a:active {
-text-decoration: none;
-color: #001997;
-}
+
+a.a1{color: #0a19ed}
 
 a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
 
-a:link {color:#000000;}      /* 未访问链接*/
+a.a2:link {color:#000000;}      /* 未访问链接*/
 a:visited {color:#00FF00;}  /* 已访问链接 */
 a:hover {color:#FF00FF;}  /* 鼠标移动到链接上 */
 a:active {color:#0000FF;}  /* 鼠标点击时 */
@@ -325,18 +319,14 @@ div.co {
 <a href="http://v.douyin.com/S7wDt2/" target="_blank"><div  class="CD" style="background-color: #04020c"><p class="cc">♪ 关注抖音</p>
 </div></a>
 </div>
-<h5 class="text_line"> </h5>
-<a href="/评论.html"><p class="o"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
-<div  class="tp"> <a href="/评论.html">
-<img  border="0" src="https://ae01.alicdn.com/kf/Hc2f11f65cbf4471bbe3c51eb836718f4P.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <div class="ex">
-<p class="cc"><a style=" font-size:30px;" href="mailto:56794501@qq.com">&nbsp;商务合作</a>｜<a style=" font-size:30px;" href="https://jiejinghe.com/" target="_blank">捷径盒</a> </p>
+<p class="cc"><a  class="a1" style=" font-size:35px;" href="mailto:56794501@qq.com">&nbsp;商务合作</a>｜<a class="a1" style=" font-size:35px;" href="https://jiejinghe.com/" target="_blank">捷径盒</a> </p>
 </div>
 <p class="o">友站链接❥ ❙
-<a href="https://jiejinghe.com">捷径盒</a>❙
-<a href="https://www.starchina.top">星辰网络</a>❙
-<a href="https://www.ttupp.com">清风不识字</a>❙ </p>
+<a class="a1" href="https://jiejinghe.com">捷径盒</a>❙
+<a class="a1" href="https://www.starchina.top">星辰网络</a>❙
+<a class="a1" href="https://www.ttupp.com">清风不识字</a>❙ </p>
 
 <p class="text_line">联系我们💌</p>
 <a href="https://s7.addthis.com/static/wechat_follow.html?id=Miss-baby_&u=https://u.wechat.com/MIDWVwUtuk6_gUB48_Fy41U">
@@ -360,6 +350,10 @@ div.co {
 <a href="http://v.douyin.com/kkpWm9/">
 <img class="thumbnail"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="30" height="auto"></a>
 
+<h5 class="text_line"> </h5>
+<a class="a1" href="/评论.html"><p class="o"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
+<div  class="tp"> <a href="/评论.html">
+<img  border="0" src="https://ae01.alicdn.com/kf/Hc2f11f65cbf4471bbe3c51eb836718f4P.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
 <p class="text_line"> </p>
 <p class="o">感谢访问本站好用记得收藏</p>
 <div  class="s" style="background-color: #7ba0f1"><p class="cc">
@@ -369,5 +363,5 @@ div.co {
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
 <div style="height:100px;"></div>
-<div id="wrap"><a href="https://muzikeji.cn/"> <i class="fa fa-home fa-3x"> </i></a> &nbsp;  &nbsp; &nbsp; <a href="/JJ.html"> <i class="fa fa-download fa-3x"></i> </a> &nbsp;  &nbsp; &nbsp; <a href="https://jiejinghe.com/search"> <i class="fa fa-search fa-3x"></i> </a> &nbsp;  &nbsp; &nbsp; <a href="/guanyu.html"> <i class="fa fa-info-circle fa-3x"></i> </a> &nbsp;  &nbsp; &nbsp; <a href="/LX.html"> <i class="fa fa-headphones fa-3x"></i> </a>
+<div id="wrap"><a class="a2"  href="https://muzikeji.cn/"> <i class="fa fa-home fa-3x"> </i></a> &nbsp;  &nbsp; &nbsp; <a class="a2"  href="/JJ.html"> <i class="fa fa-download fa-3x"></i> </a> &nbsp;  &nbsp; &nbsp; <a class="a2"  href="https://jiejinghe.com/search"> <i class="fa fa-search fa-3x"></i> </a> &nbsp;  &nbsp; &nbsp; <a class="a2"  href="/guanyu.html"> <i class="fa fa-info-circle fa-3x"></i> </a> &nbsp;  &nbsp; &nbsp; <a class="a2"  href="/LX.html"> <i class="fa fa-headphones fa-3x"></i> </a>
 </div>
