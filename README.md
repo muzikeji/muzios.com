@@ -8,7 +8,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <style type="text/css">
 
-body{width:auto;text-align:center;margin:0 auto;
+body{bottom:0px;width:100%;border:1px solid #fff;text-align:center;margin:0 auto;
 padding:0 10px 0 10px;
 max-width:500px; min-width:300px; boder:1px solid #d87777;
 
@@ -26,7 +26,7 @@ div.x
 	background-size:100% 100%;
 	background-repeat:no-repeat;
   width: 100%;
-                height: 170px;
+                height: 175px;
             
 }
 
@@ -193,7 +193,12 @@ a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
-	
+
+a:link {color:#000000;}      /* 未访问链接*/
+a:visited {color:#00FF00;}  /* 已访问链接 */
+a:hover {color:#FF00FF;}  /* 鼠标移动到链接上 */
+a:active {color:#0000FF;}  /* 鼠标点击时 */
+
 div,ul,span,li {
                    padding: 0;
                 margin: 0;
@@ -249,12 +254,13 @@ div.co {
   text-align: center;
   padding: 1px 1px;
 }
-#wrap {display:block;bottom:0px;right:1px!important;right:18px;width:100%;line-height:30px;position:fixed;border:1px solid #fff;text-align:center;color:#fff;  background-color: rgba(0,0,0,0.5);}
+#wrap {display:block;bottom:0px;right:1px!important;right:18px;width:100%;line-height:30px;position:fixed;border:1px solid #fff;text-align:center;color:#fff;  background-color: #ffffff;}
 *html{overflow-x:auto;overflow-y:auto;} 
 * html #wrap {position:absolute;}
 </style>
 </head>
 <body  OnLoad="swapPic()">
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 <a href="https://jiejinghe.com/users/6563404841"><div  class="x">
  <div id="sunav" class="nav">
             <ul>
@@ -314,54 +320,6 @@ div.co {
 <a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="46%" height="80" ><a>
 <p class="text_line"> </p>
 
-<a href="https://mb.mbd.baidu.com/bpghx2c?f=cp&u=fb9304181ab91d92"> <div class="po">
-  <img src="https://ae01.alicdn.com/kf/Hd2e7cf0941e9404fa19d584c9bdd1b5bN.png" alt="Norway" style="width:95%" height="90" >
-  <div class="co">
-    <p>关于 iOS 13</p>
-  </div>
-</div>
-</a>
-
-<a href="/JJ.html"> <div class="po">
-  <img src="https://ae01.alicdn.com/kf/Hc56d45c5f865427d91e84562f26e3c98d.png" alt="Norway" style="width:95%" height="90" >
-  <div class="co">
-    <p>下载更多捷径</p>
-  </div>
-</div>
-</a>
-
-<a href="https://mz.mbd.baidu.com/k587pu2?f=cp&u=a1f5a448c529819e"> <div class="po">
-  <img src="https://ae01.alicdn.com/kf/He3b8bb526cc648658e617210c09ccda1E.png" alt="Norway" style="width:95%" height="90" >
-  <div class="co">
-    <p>如何制作捷径</p>
-  </div>
-</div>
-</a>
-
-<a href="/guanyu.html"> <div class="po">
-  <img src="https://ae01.alicdn.com/kf/H7be5df09cd124b05b72f07b93a71424e4.png" alt="Norway" style="width:95%" height="90" >
-  <div class="co">
-    <p>关于捷径</p>
-  </div>
-</div>
-</a>
-
-<a href="https://jiejinghe.com/shortcuts/1014320740"> <div class="po">
-  <img src="https://ae01.alicdn.com/kf/He40012c871de4ebdb843c6bc634643e2U.png" alt="Norway" style="width:95%" height="90" >
-  <div class="co">
-    <p>iOS 配置文件下载</p>
-  </div>
-</div>
-</a>
-
-<a href="/LX.html"> <div class="po">
-  <img src="https://ae01.alicdn.com/kf/Hfedc1bdbfe7e4d86bfd20afb3cb1eb89G.png" alt="Norway" style="width:95%" height="90" >
-  <div class="co">
-    <p>联系我们</p>
-  </div>
-</div>
-</a>
-<p class="text_line"> 
 <div  class="cz"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
 𝕯 关注微博</p></div></a>
 <a href="http://v.douyin.com/S7wDt2/" target="_blank"><div  class="CD" style="background-color: #04020c"><p class="cc">♪ 关注抖音</p>
@@ -411,5 +369,5 @@ div.co {
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
 <div style="height:100px;"></div>
-<div id="wrap"><a href="https://muzikeji.cn/">首页</a>丨<a href="/JJ.html">下载捷径</a>丨<a href="https://jiejinghe.com/search">搜索捷径</a>｜<a href="/guanyu.html">关于捷径</a>｜<a href="/LX.html">联系我们</a>
+<div id="wrap"><a href="https://muzikeji.cn/"> <i class="fa fa-home fa-3x"> </i></a> &nbsp;  &nbsp; <a href="/JJ.html"> <i class="fa fa-download fa-3x"></i> </a> &nbsp;  &nbsp; <a href="https://jiejinghe.com/search"> <i class="fa fa-search fa-3x"></i> </a> &nbsp;  &nbsp; <a href="/guanyu.html"> <i class="fa fa-info-circle fa-3x"></i> </a> &nbsp;  &nbsp; <a href="/LX.html"> <i class="fa fa-phone-square fa-3x"></i> </a>
 </div>
