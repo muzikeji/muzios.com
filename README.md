@@ -96,7 +96,7 @@ margin:5px;
 }
 div.cz {border-radius: 10px;
 border: #906326 solid 1px;
-width:90%;
+width:100%;
 	height:60px;
 margin:0 auto;
 border-radius: 5px;
@@ -140,7 +140,7 @@ margin:5px;
 div.CD
 {
 	float:left;
-	width:45%;
+	width:46%;
 	height:50px;
 	line-height:50px; 
 border:blue solid 1px;
@@ -369,5 +369,5 @@ div.co {
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
 <div style="height:100px;"></div>
-<div id="wrap"><a href="https://muzikeji.cn/"> <i class="fa fa-home fa-3x"> </i></a> &nbsp;  &nbsp; <a href="/JJ.html"> <i class="fa fa-download fa-3x"></i> </a> &nbsp;  &nbsp; <a href="https://jiejinghe.com/search"> <i class="fa fa-search fa-3x"></i> </a> &nbsp;  &nbsp; <a href="/guanyu.html"> <i class="fa fa-info-circle fa-3x"></i> </a> &nbsp;  &nbsp; <a href="/LX.html"> <i class="fa fa-phone-square fa-3x"></i> </a>
+<div id="wrap"><a href="https://muzikeji.cn/"> <i class="fa fa-home fa-3x"> </i></a> &nbsp;  &nbsp; &nbsp; <a href="/JJ.html"> <i class="fa fa-download fa-3x"></i> </a> &nbsp;  &nbsp; &nbsp; <a href="https://jiejinghe.com/search"> <i class="fa fa-search fa-3x"></i> </a> &nbsp;  &nbsp; &nbsp; <a href="/guanyu.html"> <i class="fa fa-info-circle fa-3x"></i> </a> &nbsp;  &nbsp; &nbsp; <a href="/LX.html"> <i class="fa fa-headphones fa-3x"></i> </a>
 </div>
