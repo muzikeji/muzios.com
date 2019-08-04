@@ -322,7 +322,7 @@ div.co {
 </div>
 <p class="text_line"> </p>
 <div>
-<img src="https://ae01.alicdn.com/kf/H1d6fa9a81cab4d1786db944d368ed281D.jpeg" alt="Smiley face" width="100%" height="auto"> </p>
+<img src="https://ae01.alicdn.com/kf/H1d6fa9a81cab4d1786db944d368ed281D.jpeg" alt="Smiley face" width="100%" height="auto"> 
 </div>
 <p class="o">友站链接❥ ❙
 <a class="a1" href="https://jiejinghe.com">捷径盒</a>❙
