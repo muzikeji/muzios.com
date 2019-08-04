@@ -26,7 +26,7 @@ div.x
 	background-size:100% 100%;
 	background-repeat:no-repeat;
   width: 100%;
-                height: 40%;
+                height: 180px;
             
 }
 
