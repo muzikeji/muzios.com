@@ -26,7 +26,7 @@ div.x
 	background-size:100% 100%;
 	background-repeat:no-repeat;
   width: 100%;
-                height: 180px;
+                height: 160px;
             
 }
 
@@ -412,5 +412,5 @@ div.co {
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
 <div style="height:100px;"></div>
 <div id="wrap"><a href="https://muzikeji.cn/">首页</a>丨<a href="/JJ.html">下载捷径</a>丨<a href="https://jiejinghe.com/search">搜索捷径</a>｜<a href="/guanyu.html">关于捷径</a>｜<a href="/LX.html">联系我们</a><br>
--
+<img src="https://ae01.alicdn.com/kf/Hf02552d026104f4493dae02a504d4e05v.gif" alt="Computer man" width="100%" height="25">
 </div>
