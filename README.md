@@ -19,6 +19,7 @@ background:#d7e9f5 url(https://ae01.alicdn.com/kf/Ha21caa6885a9453c996ec91ef91df
 
 h1 { display:none; }
 
+img{ border-radius:10px; }
 
 div.x
 {
@@ -320,8 +321,8 @@ div.co {
 </div></a>
 </div>
 <p class="text_line"> </p>
-<div class="ex">
-<p class="cc"><a  class="a1" style=" font-size:35px;" href="mailto:56794501@qq.com">&nbsp;商务合作</a>｜<a class="a1" style=" font-size:35px;" href="https://jiejinghe.com/" target="_blank">捷径盒</a> </p>
+<div>
+<img src="https://ae01.alicdn.com/kf/H1d6fa9a81cab4d1786db944d368ed281D.jpeg" alt="Smiley face" width="100%" height="auto"> </p>
 </div>
 <p class="o">友站链接❥ ❙
 <a class="a1" href="https://jiejinghe.com">捷径盒</a>❙
