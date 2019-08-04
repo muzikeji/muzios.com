@@ -322,41 +322,15 @@ div.co {
 </div>
 <p class="text_line"> </p>
 <div>
-<img src="https://ae01.alicdn.com/kf/H1d6fa9a81cab4d1786db944d368ed281D.jpeg" alt="Smiley face" width="100%" height="auto"> 
+<img src="https://ae01.alicdn.com/kf/H9a99e3ddd52c46dab407a2c09afbe2c0G.jpeg" alt="Smiley face" width="100%" height="auto"> 
 </div>
 <p class="o">友站链接❥ ❙
 <a class="a1" href="https://jiejinghe.com">捷径盒</a>❙
 <a class="a1" href="https://www.starchina.top">星辰网络</a>❙
 <a class="a1" href="https://www.ttupp.com">清风不识字</a>❙ </p>
 
-<p class="text_line">联系我们💌</p>
-<a href="https://s7.addthis.com/static/wechat_follow.html?id=Miss-baby_&u=https://u.wechat.com/MIDWVwUtuk6_gUB48_Fy41U">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H6ab49d692360416199684aadf1b64023E.png" alt="木子李" width="30" height="auto"></a>
+<p class="text_line"></p>
 
-<a href="mqq://im/chat?chat_type=wpa&uin=56794501&version=1&src_type=web">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H8db64cccea0a4ee3bf88ebf242b21d2es.png" alt="木子李" width="30" height="auto"></a>
-
-<a href="https://ae01.alicdn.com/kf/H92b91557d9264af682723e9369a426b0p.png">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/Ha3ee2ed657c34d68a0bb7fb65bdd89caF.png" alt="木子李" width="30" height="auto"></a>
-
-<a href="https://jq.qq.com/?_wv=1027&k=5wclJSO">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H294277aebe3a45338b6d8b7fa5ee79ecT.png" alt="木子李" width="30" height="auto"></a>
-
-<a href="https://weibo.com/u/5090561214">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H6308a6002fe64acdb5ca92ad99bce84fy.png" alt="木子李" width="30" height="auto"></a>
-
-<a href="mailto: 56794501@qq.com">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/Hf60141ed2e4249389a38ba8a38ad1fefS.png" alt="木子李" width="30" height="auto"></a>
-
-<a href="http://v.douyin.com/kkpWm9/">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H3d53a50f12af40cda87601096b153325z.jpeg" alt="木子李" width="30" height="auto"></a>
-
-<h5 class="text_line"> </h5>
-<a class="a1" href="/评论.html"><p class="o"> 说说你对本站的看法或建议？💁🏻‍♂️</p></a>
-<div  class="tp"> <a href="/评论.html">
-<img  border="0" src="https://ae01.alicdn.com/kf/Hc2f11f65cbf4471bbe3c51eb836718f4P.jpeg" alt="快捷指令" width="100%" height="auto"></a></div>
-<p class="text_line"> </p>
-<p class="o">感谢访问本站好用记得收藏</p>
 <div  class="s" style="background-color: #7ba0f1"><p class="cc">
 木子科技唯一官方网站</p></div><p class="o">版权所有©️木子科技(2019-2028)</p>
 
