@@ -156,15 +156,15 @@ margin:5px;
 	margin-bottom:0px;
 }
 	#red{
-		background-image: url(https://ae01.alicdn.com/kf/H9aacb1de7d15407db49dfc13a68021c5A.png);
+		background-image: url(https://ae01.alicdn.com/kf/H4070de447c404e4fb93120c6d96b10c3a.png);
 		width:340px;
 	}
 	#green{
-		background-image: url(https://ae01.alicdn.com/kf/H580fde9e3c234a14891457eccee90ce04.jpeg);
+		background-image: url(https://ae01.alicdn.com/kf/H6c685fe5784249148643513a2fc916e1p.png);
 		width:340px;
 	}
 	#blue{
-		background-image: url(https://ae01.alicdn.com/kf/H3d2cbc5dd1de4abb8584f11c0b5a01a8Z.png);
+		background-image: url(https://ae01.alicdn.com/kf/H9dc4fd32915c4316a0625d69e3dfd008u.jpeg);
 		width:340px;
 	}
 	.slide{
@@ -288,13 +288,13 @@ div.co {
     var useRand = 0;
     images = new Array;
 	images[1] = new Image();
-	images[1].src = "https://ae01.alicdn.com/kf/H9aacb1de7d15407db49dfc13a68021c5A.png";
+	images[1].src = "https://ae01.alicdn.com/kf/H4070de447c404e4fb93120c6d96b10c3a.png";
 	images[2] = new Image();
-	images[2].src = "https://ae01.alicdn.com/kf/H580fde9e3c234a14891457eccee90ce04.jpeg";
+	images[2].src = "https://ae01.alicdn.com/kf/H6c685fe5784249148643513a2fc916e1p.png";
 	images[3] = new Image();
-	images[3].src = "https://ae01.alicdn.com/kf/H3d2cbc5dd1de4abb8584f11c0b5a01a8Z.png";
+	images[3].src = "https://ae01.alicdn.com/kf/H9dc4fd32915c4316a0625d69e3dfd008u.jpeg";
 	images[4] = new Image();
-	images[4].src = "https://ae01.alicdn.com/kf/H84e450bedf2c4608892ef17a4ab1974bI.png";
+	images[4].src = "https://ae01.alicdn.com/kf/Hb1cca01378f54984b84a4cd08509f3996.png";
 	function swapPic(){
 	   var imgnum = images.length-1;
        do{
@@ -306,13 +306,13 @@ div.co {
 		setTimeout('swapPic()',3000);
 	}
   </script>
-  <img name ="randimg" src="https://ae01.alicdn.com/kf/H9aacb1de7d15407db49dfc13a68021c5A.png">
+  <img name ="randimg" src="https://ae01.alicdn.com/kf/H4070de447c404e4fb93120c6d96b10c3a.png">
 </a>
 
 <p class="text_line"> </p>
 
 <div  class="tp"><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="46%" height="80" ><a>
-<a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hc6f126b58f94406e901d7d79fb4229f5R.png" width="46%" height="80" ><a>
+<a href="https://www.icloud.com/shortcuts/c4bc0fed9a054e6db76976e505ff38dc"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hd00d94d6b2684098a468da0697637cf8g.png" width="46%" height="80" ><a>
 <p class="text_line"> </p>
 
 <div  class="cz"><a href="https://weibo.com/u/5090561214" target="_blank"><div  class="CD" style="background-color: #f4b300"><p class="cc">
