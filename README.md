@@ -1,5 +1,5 @@
 
-
+<style type="text/css">
 body{bottom:0px;width:100%;text-align:center;margin:0 auto;
 max-width:500px; min-width:300px; boder:1px solid #d87777;
 
