@@ -19,7 +19,9 @@ background:#d7e9f5 url(https://ae01.alicdn.com/kf/Ha21caa6885a9453c996ec91ef91df
   background-size:100%;
 
 }
-
+#wrap {display:block;bottom:0px;right:1px!important;right:18px;width:100%;line-height:30px;position:fixed;border:1px solid #fff;text-align:center;color:#fff;  background-color: #ffffff;}
+*html{overflow-x:auto;overflow-y:auto;} 
+* html #wrap {position:absolute;}
 div.CC
 {
 	float:left;
@@ -62,23 +64,26 @@ body {font-size:100%;}
 h1 {font-size:2.5em;}
 h2 {font-size:1.875em;}
 p {font-size:0.875em;}
-a:hover {background-color:#FF704D;}   /* 鼠标移动到链接上 */
-a:active {background-color:#FF704D;}  /* 鼠标点击时 */
-
-h2 {text-align:center;}
-p {text-align:left;}
-p.cc  {text-align: center; color:#ffffff; font-size:14px;}
+a.a1{color: #0a19ed}
 
 a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
-#wrap {display:block;bottom:0px;right:1px!important;right:18px;width:100%;line-height:30px;position:fixed;border:1px solid #fff;text-align:center;color:#fff;  background-color: rgba(0,0,0,0.5);}
-*html{overflow-x:auto;overflow-y:auto;} 
-* html #wrap {position:absolute;}
+
+a.a2:link {color:#000000;}      /* 未访问链接*/
+a:visited {color:#00FF00;}  /* 已访问链接 */
+a:hover {color:#FF00FF;}  /* 鼠标移动到链接上 */
+a:active {color:#0000FF;}  /* 鼠标点击时 */
+
+
+h2 {text-align:center;}
+p {text-align:left;}
+p.cc  {text-align: center; color:#ffffff; font-size:14px;}
+
 </style>
 </head>
-
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://ae01.alicdn.com/kf/He2dada90d0bc4249b1805e31fe631a93V.jpeg" alt="木子李" width="350" height="auto"></a>
 
@@ -128,5 +133,5 @@ important;height:35px !important;" src="http://pic.kuaizhan.com/g2/M00/71/9D/wKj
 important;height:35px!important;" src="http://pic.kuaizhan.com/g2/M00/71/80/CgpQVFbSmpCAdtMEAAEO6ESdBwI3920068" />
 
 <div style="height:100px;"></div>
-<div id="wrap"><a href="https://muzikeji.cn/">首页</a>丨<a href="/JJ.html">下载捷径</a>丨<a href="https://jiejinghe.com/search">搜索捷径</a>｜<a href="/guanyu.html">关于捷径</a>｜<a href="/LX.html">联系我们</a>
+<div id="wrap"><a class="a2"  href="https://muzikeji.cn/"> <i class="fa fa-home fa-3x"> </i></a> &nbsp;  &nbsp; &nbsp; <a class="a2"  href="/JJ.html"> <i class="fa fa-download fa-3x"></i> </a> &nbsp;  &nbsp; &nbsp; <a class="a2"  href="https://jiejinghe.com/search"> <i class="fa fa-search fa-3x"></i> </a> &nbsp;  &nbsp; &nbsp; <a class="a2"  href="/guanyu.html"> <i class="fa fa-info-circle fa-3x"></i> </a> &nbsp;  &nbsp; &nbsp; <a class="a2"  href="/LX.html"> <i class="fa fa-headphones fa-3x"></i> </a>
 </div>
