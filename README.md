@@ -8,8 +8,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <style type="text/css">
 
-body{bottom:0px;width:100%;border:1px solid #fff;text-align:center;margin:0 auto;
-padding:0 10px 0 10px;
+body{bottom:0px;width:100%;text-align:center;margin:0 auto;
 max-width:500px; min-width:300px; boder:1px solid #d87777;
 
 background:#d7e9f5 url(https://ae01.alicdn.com/kf/Ha21caa6885a9453c996ec91ef91dfed3T.png) no-repeat left top;
