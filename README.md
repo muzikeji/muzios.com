@@ -246,7 +246,7 @@ div.co {
 </style>
 <body  OnLoad="swapPic()">
 
-<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.bootcss.com/font-awesome/5.10.0-12/css/all.css" />
 
 <a href="https://jiejinghe.com/users/6563404841"><div  class="x">
  <div id="sunav" class="nav">
