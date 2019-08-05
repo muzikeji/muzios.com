@@ -245,7 +245,6 @@ div.co {
 *html{overflow-x:auto;overflow-y:auto;} 
 * html #wrap {position:absolute;}
 </style>
-</head>
 <body  OnLoad="swapPic()">
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 <a href="https://jiejinghe.com/users/6563404841"><div  class="x">
