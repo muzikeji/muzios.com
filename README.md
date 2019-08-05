@@ -1,5 +1,4 @@
 
-<style type="text/css">
 
 body{bottom:0px;width:100%;text-align:center;margin:0 auto;
 max-width:500px; min-width:300px; boder:1px solid #d87777;
@@ -246,7 +245,9 @@ div.co {
 * html #wrap {position:absolute;}
 </style>
 <body  OnLoad="swapPic()">
-<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+<link href="http://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
 <a href="https://jiejinghe.com/users/6563404841"><div  class="x">
  <div id="sunav" class="nav">
             <ul>
