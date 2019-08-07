@@ -206,35 +206,6 @@ id="biao2">苹果捷径科技</textarea>
 </div>
 <!-- City版安装代码已完成 -->
 <p class="text_line"> </p>
-<script type="text/javascript"> 
-function sc_send(  $text , $desp = '' , $key = 'SCU57030T1379dae0a25edc121f49d48b4db3ef555d4a53f0cb633'  )
-{
-	$postdata = http_build_query(
-    array(
-        'text' => $text,
-        'desp' => $desp
-    )
-);
-
-$opts = array('http' =>
-    array(
-        'method'  => 'POST',
-        'header'  => 'Content-type: application/x-www-form-urlencoded',
-        'content' => $postdata
-    )
-);
-$context  = stream_context_create($opts);
-return $result = file_get_contents('https://sc.ftqq.com/'.$key.'.send', false, $context);
-
-}</script> 
-<h5>发送信息给官方微</h5>
-
-<form action="https://sc.ftqq.com/SCU57030T1379dae0a25edc121f49d48b4db3ef555d4a53f0cb633.send?text=" target="_blank">
-<table bgcolor="#FFFFFF"><tr><td>
-<input name=tn type=hidden value=baidu>
-<input type=text name=word size=30>
-<input type="submit" value="发送">
-</td></tr></table>
 
 <p class="text_line"> </p>
 <div style="height:100px;"></div>
