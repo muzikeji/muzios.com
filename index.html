@@ -271,20 +271,6 @@ div.co {
 </style>
 
 
-  // 从本地存储中获取存储的id
-  var aClick = sessionStorage.getItem('aClick');
-  if(aClick){
-    //改变id对应的a标签的字体颜色以及加粗
-    $('#'+aClick).css('color','green');
-    $('#'+aClick).css('font-weight','400');
-  }
-
-  //点击时存储id
-  $('.left').find('a').on('click',function(){
-    sessionStorage.setItem('aClick',$(this).attr('id'));
-  })
-
-
 <body  OnLoad="swapPic()">
 
 <link rel="stylesheet" type="text/css" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" />
