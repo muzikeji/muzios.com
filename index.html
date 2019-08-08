@@ -20,7 +20,6 @@ background:#d7e9f5 url(https://ae01.alicdn.com/kf/Ha21caa6885a9453c996ec91ef91df
 h1 { display:none; }
 
 img{ border-radius:10px; }
-.acss{background-color:black;color:white;}
 div.fe
 {
 	float:left;
@@ -199,10 +198,18 @@ p.o  {text-align: center;}
 p.cc  {text-align: center; color:#ffffff; font-size:15px;}
 p.c  {text-align: center; color: #4ae414; font-size:35px;  line-height:0px; }
 p.cd  {text-align: justify; color:#ffffff; }
+
+a.a1{color: #0a19ed}
+
 a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
+
+a.a2:link {color: #939292;}      /* 未访问链接*/
+a:visited {color: #939292;}  /* 已访问链接 */
+a:hover {color: #adf2ed;}  /* 鼠标移动到链接上 */
+a:active {color #adf2ed;}  /* 鼠标点击时 */
 
 .dropbtn {
     background-color: rgba(0,0,0,0.5);
@@ -262,21 +269,6 @@ div.co {
 *html{overflow-x:auto;overflow-y:auto;} 
 * html #wrap {position:absolute;}
 </style>
-<script>
-var t=1;
-function test(x){
-<!-- 这个是判断第一次点击 -->
-	if(x==1&&t==1){
-	document.getElementById(x).style.background="blue";
-	}
-	<!-- 这个判断是防止重复点击 -->
-	else if(x!=t){
-	document.getElementById(x).style.background="blue";
-	document.getElementById(t).style.background="black";
-	}	
-	t=x;
-}
-</script>
 <body  OnLoad="swapPic()">
 
 <link rel="stylesheet" type="text/css" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" />
@@ -355,9 +347,9 @@ function test(x){
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
 </div>
 <div style="height:60px;"></div>
-<div id="wrap"><a class="acss" id="1" href="https://muzikeji.cn/" onclick="test(1)"> <div  class="fe" style="line-height:2px" > <i class="fa fa-th-large fa-lg"></i><br><p class="o" >主页</p></div></a>
-<a class="acss" id="2" href="/JJ.html" onclick="test(2)"> <div  class="fe" style="line-height:2px" > <i class="fa fa-clone fa-lg"></i><br><p class="o" >捷径</p></div></a>
-<a class="acss" id="3" href="/yy.html" onclick="test(3)"> <div  class="fe" style="line-height:2px" > <i class="fa fa-briefcase fa-lg"></i><br><p class="o" >应用</p></div></a>
-<a class="acss" id="4" href="/guanyu.html" onclick="test(4)"> <div  class="fe" style="line-height:2px" > <i class="fa fa-info fa-lg"></i><br><p class="o" >关于</p></div></a>
-<a class="acss" id="5" href="/LX.html" onclick="test(5)"> <div  class="fe" style="line-height:2px" > <i class="fa fa-qq fa-lg"></i><br><p class="o" >联系</p></div></a>
+<div id="wrap"><a class="a2"  href="https://muzikeji.cn/"><div  class="fe" style="background-color: #d4d1d0; line-height:2px" > <i class="fa fa-th-large fa-lg"></i><br><p class="o" >主页</p></div></a>
+<a class="a2"  href="/JJ.html"><div  class="fe" style="background-color: #d4d1d0; line-height:2px" > <i class="fa fa-clone fa-lg"></i><br><p class="o" >捷径</p></div></a>
+<a class="a2"  href="/yy.html"><div  class="fe" style="background-color: #d4d1d0; line-height:2px" > <i class="fa fa-briefcase fa-lg"></i><br><p class="o" >应用</p></div></a>
+<a class="a2"  href="/guanyu.html"><div  class="fe" style="background-color: #d4d1d0; line-height:2px" > <i class="fa fa-info fa-lg"></i><br><p class="o" >关于</p></div></a>
+<a class="a2"  href="/LX.html"><div  class="fe" style="background-color: #d4d1d0; line-height:2px" > <i class="fa fa-qq fa-lg"></i><br><p class="o" >联系</p></div></a>
 </div>
