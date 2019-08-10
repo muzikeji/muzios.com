@@ -1,0 +1,73 @@
+{
+    "link": {
+        "GetItemTklLink": "http://api.xuandan.com/DataApi/GetItemTklLink?appkey=1woiwqisl9&id=",
+        "GetKzShorkLinkByTkl": "http://www.xuandan.com/Home/GetKzShorkLinkByTkl",
+        "GetArticle": "http://api.xuandan.com/DataApi/GetArticle?appkey=1woiwqisl9",
+        "pricetrend": "https://app.gwdang.com/app/v2/price_trend?dp_id=",
+        "MarketProducts": "https://app.gwdang.com/app/v2/MarketProducts?filters=similar&dp_id=",
+        "PyqGoods": "http://api.xuandan.com/DataApi/PyqGoods?AppKey=1woiwqisl9",
+        "Top100": "http://api.xuandan.com/DataApi/Top100?AppKey=1woiwqisl9",
+        "index": "http://api.xuandan.com/DataApi/index?AppKey=1woiwqisl9",
+        "search": "http://api.xuandan.com/DataApi/GetGoodsPyq?appkey=1woiwqisl9&key=",
+        "web": "http://shop.starchina.top",
+        "ontime":"粉丝专享无门槛购物红包"
+    },
+    "promotion": {
+        "天猫国际-进口日": {
+            "link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DNXtVM7BtJx8cQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMfOZVu%2FROVS679%2FTFaMDK6QViIn%2FXBYnZQbxqcbAlh%2FtDcdoHlajoVirBTehej%2FFI05U%2BEi82A4gU9jONtfgAYE735YeP4ao%2FPQho7GrRW4P5MRYl0%2FyOZHb9no%2FURc5w7o18kPD%2BYRAFveQ9Ld2jooCjx9V9yoTYU4kXbLDIonifSB7C2van8PnVhy7NygGKsmTlB2q%2BNrO6MTJx9vZq35iwB5%2F2%2BEWCN8HngduECFbnpofN3Q8FvT%2BCfa7pmXFalFpVZW3PRloxiXvDf8DaRs%3D",
+            "tkl": "￥bNuobvY4NFO￥"
+        },
+        "淘抢购": {
+            "link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DZK1krz%2FfPHwcQipKwQzePCperVdZeJvi7UTzUAW%2BpR4YX8TY%2BNEwd8rCnlHblheqz%2BnB8CFd%2BwLDijKU1qu9lgwzLgKCVQEoebBKuPya4rXw2hm5hcteiABXgSuv7Sv7L0vsvZysITsM%2FFagDb8ME%2Bsxi8xrFVUqRIhXpwzXCM5Pf2BYFhAHdEg7AspuPl2Bfjxl6AIniNpmPYaQAGl3H9QyzCLV9IJ6Ge41S%2Bzgh4IKaG3sZf8f2Q%3D%3D",
+            "tkl": "￥QZVubvY8ZwA￥"
+        },
+        "天猫超市-领券399减80": {
+            "link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DlIsqC5jXhw4cQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMUm6UfV4SHdVJ1gyddu7kN8ViIn%2FXBYnZQbxqcbAlh%2FtDcdoHlajoVirBTehej%2FFI05U%2BEi82A4gnwlx7qeSvoo735YeP4ao%2FPQho7GrRW4P5MRYl0%2FyOZHb9no%2FURc5w7o18kPD%2BYRAFveQ9Ld2jopI6hq4ZBly3fZbe7%2BT1VrxFeX0WK60lulsDvbh8Qt7h3xPh9IGwtCqZA1eON6i3S4ui8PJmXxh4WSOfHTzM0dCe%2Bmw%2B752n%2FMvuUiVtz%2FqCvW4AAix28j5cSpj5qSCmbA%3D",
+            "tkl": "￥jkXobvYjXM5￥"
+        },
+        "天猫生鲜-领券238减60": {
+            "link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D3g9RJJXGOVQcQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMTjK%2BOb7WUJaMMgx22UI05YViIn%2FXBYnZQbxqcbAlh%2FtDcdoHlajoVirBTehej%2FFI05U%2BEi82A4gU9jONtfgAYE735YeP4ao%2FPQho7GrRW4PnynZ4bvuOISqGxr42djOuvQ2dTYp%2Bn82sd%2B%2Ff4Fhw9acZaZLNbaIunA84LCy58V0xg5p7bh%2BFbQ%3D",
+            "tkl": "￥KgAQbvY9QxN￥"
+        },
+        "天猫超市大包装超值抢": {
+            "link": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dpvk%2F%2BNcnZSkcQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMcMkrEFDCRO7xq3IhSJN6GQViIn%2FXBYnZQbxqcbAlh%2FtDcdoHlajoVirBTehej%2FFI05U%2BEi82A4gU9jONtfgAYE735YeP4ao%2FPQho7GrRW4P5MRYl0%2FyOZHaxllc%2F1XJzJkjOqrZZ9d1iBqx4AoGTRzqVHto6Vk%2BC%2FVuBIwNzRIF6g9fIVsxLF0%3D",
+            "tkl": "￥Lm2HbvY9q4Z￥"
+        },
+        "天猫超市1元超值抢": {
+            "link": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dv%2FLk8MWbuQkcQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMQ2mtu%2BfsTol8sviUM61dt0ViIn%2FXBYnZQbxqcbAlh%2FtDcdoHlajoVirBTehej%2FFI05U%2BEi82A4gU9jONtfgAYE735YeP4ao%2FPQho7GrRW4P5MRYl0%2FyOZHaxllc%2F1XJzJkjOqrZZ9d1iBqx4AoGTRyorLd93QuCUMYOae24fhW0",
+            "tkl": "￥7HzXbvYkIsW￥"
+        },
+        "天猫国际进口超市99任性3件": {
+            "link": "https://s.click.taobao.com/t?e=m%3D2%26s%3Doq90bEzxmOEcQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMcHabeGHA8JWJ1gyddu7kN8ViIn%2FXBYnZQbxqcbAlh%2FtDcdoHlajoVirBTehej%2FFI05U%2BEi82A4gU9jONtfgAYE735YeP4ao%2FPQho7GrRW4P5MRYl0%2FyOZHb9no%2FURc5w7o18kPD%2BYRAFveQ9Ld2jooCjx9V9yoTYU4kXbLDIoniZJ87aqC8t1DYVf58bDljnzVJqVSiRmmLxgxdTc00KD8%3D",
+            "tkl": "￥SqEKbvYP86q￥"
+        },
+        "天猫手机-天天搞机频道": {
+            "link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DMTEKZifxvyUcQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMUEBXlZqTdJb5x%2BIUlGKNpUViIn%2FXBYnZQbxqcbAlh%2FtDcdoHlajoVirBTehej%2FFI05U%2BEi82A4gU9jONtfgAYE735YeP4ao%2FPQho7GrRW4P5MRYl0%2FyOZHb9no%2FURc5w7o18kPD%2BYRAFveQ9Ld2jorbb1HceYpe8LhMF5ABfSzPr%2BYvfpJTanEKaG3sZf8f2Q%3D%3D",
+            "tkl": "￥ZhHPbvYljum￥"
+        },
+        "香港包郵會場": {
+            "link": "https://s.click.taobao.com/t?e=m%3D2%26s%3Do%2BCUeQDOEPwcQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMfa3MpxE6peQlovu%2FCElQOsViIn%2FXBYnZQbxqcbAlh%2FtDcdoHlajoVirBTehej%2FFI05U%2BEi82A4gU9jONtfgAYE735YeP4ao%2FPQho7GrRW4P5MRYl0%2FyOZHEhRTtIV89Udb4BU1T8%2FDjwFMQSe0DLrwP%2FYlp79bs%2FR%2FVli7e8T47h4gD1W39jduREzNtiY8EnBSBVAzdYLtMEki01jbdoLQUGJ9IFYDhpsYOae24fhW0",
+            "tkl": "￥WKzAbwpX8xy￥"
+        },
+        "新人红包0元购": {
+            "link": "https://mos.m.taobao.com/activity_newer?from=pub&pid=mm_13052465_296450321_80979350361",
+            "tkl": "￥OBJgbwpjI1H￥"
+        },
+        "绿色出行季，扫码得红包": {
+            "link": "https://qr.alipay.com/cpx00405gzkrxnhi4m8qj34",
+            "tkl": ""
+        },
+        "AppSotre折扣红包": {
+            "link": "https://qr.alipay.com/01606892xxgwakcva1zml7a",
+            "tkl": ""
+        }
+    },
+    "ontime": {
+ 
+        "余额宝体验金-免费领取坐享收益": {
+            "link": "http://render.46mlsv.com/p/f/fd-jqqeh032/pages/outside/index.html?shareid=2088002021470330&sign=JbZvdxL1VgV3JrqlZi8pJPieOVR40HtJPx98iuET6Ww%3D",
+            "tkl": "体验金34427933"
+        }
+
+    }
+}
