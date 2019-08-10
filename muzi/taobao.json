@@ -1,14 +1,14 @@
 {
     "link": {
-        "GetItemTklLink": "http://api.xuandan.com/DataApi/GetItemTklLink?appkey=1woiwqisl9&id=",
+        "GetItemTklLink": "http://api.xuandan.com/DataApi/GetItemTklLink?appkey=11975mkwww&id=",
         "GetKzShorkLinkByTkl": "http://www.xuandan.com/Home/GetKzShorkLinkByTkl",
-        "GetArticle": "http://api.xuandan.com/DataApi/GetArticle?appkey=1woiwqisl9",
+        "GetArticle": "http://api.xuandan.com/DataApi/GetArticle?appkey=11975mkwww",
         "pricetrend": "https://app.gwdang.com/app/v2/price_trend?dp_id=",
         "MarketProducts": "https://app.gwdang.com/app/v2/MarketProducts?filters=similar&dp_id=",
-        "PyqGoods": "http://api.xuandan.com/DataApi/PyqGoods?AppKey=1woiwqisl9",
-        "Top100": "http://api.xuandan.com/DataApi/Top100?AppKey=1woiwqisl9",
-        "index": "http://api.xuandan.com/DataApi/index?AppKey=1woiwqisl9",
-        "search": "http://api.xuandan.com/DataApi/GetGoodsPyq?appkey=1woiwqisl9&key=",
+        "PyqGoods": "http://api.xuandan.com/DataApi/PyqGoods?AppKey=11975mkwww",
+        "Top100": "http://api.xuandan.com/DataApi/Top100?AppKey=11975mkwww",
+        "index": "http://api.xuandan.com/DataApi/index?AppKey=11975mkwww",
+        "search": "http://api.xuandan.com/DataApi/GetGoodsPyq?appkey=11975mkwww&key=",
         "web": "http://shop.starchina.top",
         "ontime":"粉丝专享无门槛购物红包"
     },
