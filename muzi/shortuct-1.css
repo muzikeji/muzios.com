@@ -49,7 +49,7 @@ div.fd
 {
 	float:left;
 	width:320px;
-	height:100px;
+	height:105px;
 	margin:5px;
 border: width solid 1px;
 border-radius: 10px;
@@ -115,7 +115,7 @@ a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
 
 a:link {color: #1500f9;}      /* 未访问链接*/
-a:visited {color: #939292;}  /* 已经访问链接 */
+a:visited {color: #939292;}  /* 已访问链接 */
 a:hover {color: #adf2ed;}  /* 鼠标移动到链接上 */
 a:active {color #adf2ed;}  /* 鼠标点击时 */
 
