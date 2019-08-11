@@ -48,8 +48,8 @@ p1.outset {border-bottom-style:outset;}
 div.fd
 {
 	float:left;
-	width:97%;
-	height:100px;
+	width:46%;
+	height:180px;
 	margin:5px;
 border: width solid 1px;
 border-radius: 10px;
@@ -79,7 +79,7 @@ p.b { margin:5 7;text-align: justify; color:#ffffff; font-size:125%; float:left;
 p.date {border: 1px solid #;
 overflow: hidden;
 display: -webkit-box;
--webkit-line-clamp: 2;
+-webkit-line-clamp: 4;
 -webkit-box-orient: vertical;
  text-align: justify;
 color:#ffffff;
