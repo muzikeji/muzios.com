@@ -49,7 +49,7 @@ div.fd
 {
 	float:left;
 	width:320px;
-	height:100px;
+	height:120px;
 	margin:5px;
 border: width solid 1px;
 border-radius: 10px;
@@ -73,7 +73,7 @@ margin:5px;
 
 p.o  {text-align: center;}
 p.db {margin:0 0; text-align: right; color:#ffffff; font-size:105%;}
-p.da {margin:0 0; text-align: right; color:#ffffff; font-size:100%; padding-top:8px;}
+p.da {margin:0 0; text-align: right; color:#ffffff; font-size:10px; padding-top:8px;}
 p.d {margin:0 0; text-align: justify; color:#ffffff; font-size:21px; float:left;padding-top:0px;}
 p.b { margin:5 7;text-align: justify; color:#ffffff; font-size:125%; float:left;}
 p.date {border: 1px solid #;
@@ -81,6 +81,7 @@ overflow: hidden;
 display: -webkit-box;
 -webkit-line-clamp: 2;
 -webkit-box-orient: vertical;
+ text-align: justify;
 color:#ffffff;
 }
 h3  {text-align: center; color:#ffffff; font-size:20px;}
