@@ -49,7 +49,7 @@ div.fd
 {
 	float:left;
 	width:320px;
-	height:120px;
+	height:100px;
 	margin:5px;
 border: width solid 1px;
 border-radius: 10px;
@@ -73,7 +73,7 @@ margin:5px;
 
 p.o  {text-align: center;}
 p.db {margin:0 0; text-align: right; color:#ffffff; font-size:105%;}
-p.da {margin:0 0; text-align: right; color:#ffffff; font-size:70%; padding-top:8px;}
+p.da {margin:0 0; text-align: right; color:#ffffff; font-size:100%; padding-top:8px;}
 p.d {margin:0 0; text-align: justify; color:#ffffff; font-size:21px; float:left;padding-top:0px;}
 p.b { margin:5 7;text-align: justify; color:#ffffff; font-size:125%; float:left;}
 p.date {border: 1px solid #;
