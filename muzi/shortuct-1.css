@@ -76,11 +76,12 @@ p.db {margin:0 0; text-align: right; color:#ffffff; font-size:105%;}
 p.da {margin:0 0; text-align: right; color:#ffffff; font-size:12px; padding-top:5px;}
 p.d {margin:0 0; text-align: justify; color:#ffffff; font-size:21px; float:left;padding-top:0px;}
 p.dd {margin:0 0; text-align: justify; color:#ffffff; font-size:12px; float:left;padding-top:5px;}
+p.dc {margin:0 0; text-align: right; color:#ffffff; font-size:12px; padding-top:5px;}
 p.b { margin:5 7;text-align: justify; color:#ffffff; font-size:125%; float:left;}
 p.date {border: 1px solid #;
 overflow: hidden;
 display: -webkit-box;
--webkit-line-clamp: 3;
+-webkit-line-clamp: 2;
 -webkit-box-orient: vertical;
  text-align: justify;
 color:#ffffff;
