@@ -59,8 +59,8 @@ overflow:hidden;
 }
 div.CC
 {
-	float:left;
-	width:97%;
+	
+	width:100px;
 	height:30px;
 	line-height:15px; 
 border:blue solid 1px;
@@ -68,7 +68,8 @@ border-radius: 15px;
      padding-left:10px;
 padding-top:1px;
 overflow:hidden;
-margin:5px; 
+margin:0 auto;
+
 }
 
 p.o  {text-align: center;}
