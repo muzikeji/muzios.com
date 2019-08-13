@@ -57,6 +57,18 @@ border-radius: 10px;
 padding-top:10px;
 overflow:hidden;
 }
+div.ff
+{
+	float:left;
+	width:45%;
+	height:100px;
+	margin:5px;
+border: width solid 1px;
+border-radius: 10px;
+   padding-left:10px;
+padding-top:10px;
+overflow:hidden;
+}
 div.CC
 {
 	
