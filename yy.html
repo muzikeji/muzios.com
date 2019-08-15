@@ -276,44 +276,4 @@ important;height:35px !important;" src="https://ae01.alicdn.com/kf/H3aa837761ac1
 		</ul>
 	</div>
 </body>
-<script>
- 
-	//var num1=$("ul > a:eq(0)").attr("ID");
-	//var num2=$("ul").children("a:eq(0)").attr("ID");
-	//var num3=$("ul").find("a:eq(0)").attr("ID");
- 
-	//点击bottom-li
-	$('.bottom-li').click(function(){
-		//这个被点击的bottom-li加上这个类
-		$(this).addClass('bottomBackground');
-		//bottom-li不包含被点击的这个的都去掉bottomBackground这个类
-		$('.bottom-li').not($(this)).removeClass('bottomBackground');
-		//被点击的这个在bottom-li中是第几个
-		var idx = $(this).index('.bottom-li');
- 
-		//如果被点击的这个是第一个的话,则改变第一个图片
-		if(idx == 0){
-			$(this).find('img').attr('src','https://ae01.alicdn.com/kf/H63618b3fc06440229c0b229d998314caU.png');
-		}else{
-			$('.bottom-li').eq(0).find('img').attr('src','https://ae01.alicdn.com/kf/H3d0e2abb4bbf46648afbbf89a6ff559cf.png');
-		}
- 
-		if(idx == 1){
-			$(this).find('img').attr('src','https://ae01.alicdn.com/kf/H6cac4a266fce4ae7b78d7310633e697eF.png');
-		}else{
-			$('.bottom-li').eq(1).find('img').attr('src','https://ae01.alicdn.com/kf/Hb5ba1dd8e5744985ad04ed34e5a407d2O.png');
-		}		
-if(idx == 2){
-			$(this).find('img').attr('src','https://ae01.alicdn.com/kf/H08bf860b438946aeaeac47dad6ed5a46n.png');
-		}else{
-			$('.bottom-li').eq(2).find('img').attr('src','https://ae01.alicdn.com/kf/He054d0c6e2c94554ba8f157b805a8dafQ.png');
-		}
- 
-		if(idx == 3){
-			$(this).find('img').attr('src','https://ae01.alicdn.com/kf/H3646dade8b524b05b714100237ff56f4z.png');
-		}else{
-			$('.bottom-li').eq(3).find('img').attr('src','https://ae01.alicdn.com/kf/H982dce97b55840929862dddfac5345adX.png');
-		}		
-	});
-</script>
 </html>
