@@ -7,8 +7,58 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <title> 木子科技◈关于捷径</title> 
+	<script type="text/javascript" src='http://libs.baidu.com/jquery/2.1.1/jquery.min.js'></script>
+<link rel="stylesheet" href="https://cdn.bootcss.com/mui/3.7.1/css/mui.css" type="text/css" />
 <style>
+*{
+			margin:0;
+			padding:0;
+			font-family:微软雅黑;
+		}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:none;}
+a:active {text-decoration:none;}
 
+a:link {color: #000000;}      /* 未访问链接*/
+		ul{
+			list-style:none;
+		}
+		#content{
+background-color:#ffffff;
+			position:fixed;
+			bottom:0;
+			left:0;
+			width:100%;
+			height:4rem;
+			box-shadow:0 0 1rem #222;
+		}
+		#content ul{
+			display:flex;
+			flex-wrap:wrap;
+			justify-content:space-around;
+			align-items:center;
+			width:100%;
+			height:100%;
+		}
+		#content ul li{
+			width:25%;
+			height:4rem;
+			text-align:center;
+		}
+		#content ul li img{
+			margin-top:0.8rem;
+			width:1.5rem;
+			height:1.5rem;
+			line-height:3rem;
+		}
+		#content ul li p{
+			font-size:0.8rem;
+		}
+ 
+		.bottomBackground{
+			color:#fc6;
+		}
 h1 { display:none; }
 
 body{width:auto;text-align:center;margin:0 auto;
@@ -139,6 +189,64 @@ important;height:35px !important;" src="http://pic.kuaizhan.com/g2/M00/71/9D/wKj
 important;height:35px!important;" src="http://pic.kuaizhan.com/g2/M00/71/80/CgpQVFbSmpCAdtMEAAEO6ESdBwI3920068" />
 
 <div style="height:100px;"></div>
-<div id="wrap"> <div class="box">   <!-- a + span --> <!-- (a{首页}+span{|})*5 --><iframe src="/daohang.html" width="100%"; height="94px" frameborder="0" scrolling="no" name="headFrame"></iframe>
-</div> 
-</div>
+<div id="content">
+		<ul>
+	<li class='bottom-li'>						  <a id="defaultTab" class="mui-tab-item mui-active" href="https://muzikeji.cn/" target="sy"><img src="https://ae01.alicdn.com/kf/H00ce21d9273f433f88b33931db38d684P.png" width='358' height='131' alt="">
+				<p class="o">主页</p></a>
+			</li>
+			<li class='bottom-li'>   <a class="mui-tab-item" href="https://muzikeji.cn/JJ.html" target="jj">
+				<img src="https://ae01.alicdn.com/kf/H8ca34e0f13fd448a8ecb37df3094943fD.png" width='358' height='131' alt="">
+				<p class="o">捷径</p></a>
+			</li>
+			<li class='bottom-li'>  <a class="mui-tab-item" href="https://muzikeji.cn/yy.html" target="yy">
+				<img src="https://ae01.alicdn.com/kf/He054d0c6e2c94554ba8f157b805a8dafQ.png" width='358' height='131' alt="">
+				<p class="o">APP</p></a>
+			</li>
+			<li class='bottom-li'>  <a class="mui-tab-item" href="https://muzikeji.cn/guanyu.html" target="gy">
+				<img src="https://ae01.alicdn.com/kf/Hea911b1d16814ec48183995da9eae1c9b.png" width='358' height='131' alt="">
+				<p class="o">关于</p></a>
+			</li>
+		</ul>
+	</div>
+</body>
+<script>
+ 
+	//var num1=$("ul > a:eq(0)").attr("ID");
+	//var num2=$("ul").children("a:eq(0)").attr("ID");
+	//var num3=$("ul").find("a:eq(0)").attr("ID");
+ 
+	//点击bottom-li
+	$('.bottom-li').click(function(){
+		//这个被点击的bottom-li加上这个类
+		$(this).addClass('bottomBackground');
+		//bottom-li不包含被点击的这个的都去掉bottomBackground这个类
+		$('.bottom-li').not($(this)).removeClass('bottomBackground');
+		//被点击的这个在bottom-li中是第几个
+		var idx = $(this).index('.bottom-li');
+ 
+		//如果被点击的这个是第一个的话,则改变第一个图片
+		if(idx == 0){
+			$(this).find('img').attr('src','https://ae01.alicdn.com/kf/H63618b3fc06440229c0b229d998314caU.png');
+		}else{
+			$('.bottom-li').eq(0).find('img').attr('src','https://ae01.alicdn.com/kf/H3d0e2abb4bbf46648afbbf89a6ff559cf.png');
+		}
+ 
+		if(idx == 1){
+			$(this).find('img').attr('src','https://ae01.alicdn.com/kf/H6cac4a266fce4ae7b78d7310633e697eF.png');
+		}else{
+			$('.bottom-li').eq(1).find('img').attr('src','https://ae01.alicdn.com/kf/Hb5ba1dd8e5744985ad04ed34e5a407d2O.png');
+		}		
+if(idx == 2){
+			$(this).find('img').attr('src','https://ae01.alicdn.com/kf/H08bf860b438946aeaeac47dad6ed5a46n.png');
+		}else{
+			$('.bottom-li').eq(2).find('img').attr('src','https://ae01.alicdn.com/kf/He054d0c6e2c94554ba8f157b805a8dafQ.png');
+		}
+ 
+		if(idx == 3){
+			$(this).find('img').attr('src','https://ae01.alicdn.com/kf/H3646dade8b524b05b714100237ff56f4z.png');
+		}else{
+			$('.bottom-li').eq(3).find('img').attr('src','https://ae01.alicdn.com/kf/H982dce97b55840929862dddfac5345adX.png');
+		}		
+	});
+</script>
+</html>
