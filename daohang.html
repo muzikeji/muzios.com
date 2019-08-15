@@ -6,110 +6,118 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>木子科技</title>
 	<script type="text/javascript" src='http://libs.baidu.com/jquery/2.1.1/jquery.min.js'></script>
-
 <link rel="stylesheet" href="https://cdn.bootcss.com/mui/3.7.1/css/mui.css" type="text/css" />
+	<style>
+		*{
+			margin:0;
+			padding:0;
+			font-family:微软雅黑;
+		}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:none;}
+a:active {text-decoration:none;}
+
+a:link {color: #000000;}      /* 未访问链接*/
+		ul{
+			list-style:none;
+		}
+		#content{
+			position:fixed;
+			bottom:0;
+			left:0;
+			width:100%;
+			height:4rem;
+			box-shadow:0 0 1rem #222;
+		}
+		#content ul{
+			display:flex;
+			flex-wrap:wrap;
+			justify-content:space-around;
+			align-items:center;
+			width:100%;
+			height:100%;
+		}
+		#content ul li{
+			width:25%;
+			height:4rem;
+			text-align:center;
+		}
+		#content ul li img{
+			margin-top:0.8rem;
+			width:1.5rem;
+			height:1.5rem;
+			line-height:3rem;
+		}
+		#content ul li p{
+			font-size:0.8rem;
+		}
+ 
+		.bottomBackground{
+			color:#fc6;
+		}
+	</style>
 
 </head>
 <body>
-
-<!--主页面底部选项卡-->
-<nav class="mui-bar mui-bar-tab">
-    <a id="defaultTab" class="mui-tab-item mui-active" href="https://muzikeji.cn/" target="sy">
-        <span class="mui-icon mui-icon-home"></span>
-        <span class="mui-tab-label">
-            首页
-        </span>
-    </a>
-    <a class="mui-tab-item" href="https://muzikeji.cn/JJ.html"  target="jj">
-        <span class="mui-icon mui-icon-list"></span>
-        <span class="mui-tab-label" >
-            捷径
-        </span>
-    </a>
-    <a class="mui-tab-item" href="https://muzikeji.cn/yy.html" target="yy">
-        <span class="mui-icon iconfont icon-cart">
-            <span class="mui-badge" id="shopCartCount">2</span>
-        </span>
-        <span class="mui-tab-label">
-            APP
-        </span>
-    </a>
-    <a class="mui-tab-item" href="https://muzikeji.cn/guanyu.html" target="gy">
-        <span class="mui-icon mui-icon-person"></span>
-        <span class="mui-tab-label" >
-            关于
-        </span>
-    </a>
-</nav>
+	<div id="content">
+		<ul>
+	<li class='bottom-li'>						  <a id="defaultTab" class="mui-tab-item mui-active" href="https://muzikeji.cn/" target="sy"><img src="https://ae01.alicdn.com/kf/H3d0e2abb4bbf46648afbbf89a6ff559cf.png" width='358' height='131' alt="">
+				<p>主页</p></a>
+			</li>
+			<li class='bottom-li'>   <a class="mui-tab-item" href="https://muzikeji.cn/JJ.html" target="jj">
+				<img src="https://ae01.alicdn.com/kf/Hb5ba1dd8e5744985ad04ed34e5a407d2O.png" width='358' height='131' alt="">
+				<p>捷径</p></a>
+			</li>
+			<li class='bottom-li'>  <a class="mui-tab-item" href="https://muzikeji.cn/yy.html" target="yy">
+				<img src="https://ae01.alicdn.com/kf/He054d0c6e2c94554ba8f157b805a8dafQ.png" width='358' height='131' alt="">
+				<p>APP</p></a>
+			</li>
+			<li class='bottom-li'>  <a class="mui-tab-item" href="https://muzikeji.cn/guanyu.html" target="gy">
+				<img src="https://ae01.alicdn.com/kf/H982dce97b55840929862dddfac5345adX.png" width='358' height='131' alt="">
+				<p>关于</p></a>
+			</li>
+		</ul>
+	</div>
 </body>
 <script>
-mui.plusReady(function() {
-    //要切换的子页面
-    var subpages=[
-    'https://muzikeji.cn/',
-    'https://muzikeji.cn/JJ.html',
-    'https://muzikeji.cn/yy.html',
-    'https://muzikeji.cn/guanyu.html'];
-    //子页面样式，这里只有主页的底部是公用的，所以距离底部51个px,距离顶部0个px
-    var subpage_style = {
-        top: '0px',
-        bottom: '51px'
-    };
-
-    var aniShow = {};
-
-    var self = plus.webview.currentWebview();
-
-    for (var i = 0; i < 4; i++) {
-        var temp = {};
-        var sub = plus.webview.create(subpages[i],subpages[i],subpage_style,{});
-        if (i > 0) {
-            sub.hide();
-        }else{
-            temp[subpages[i]] = "true";
-            mui.extend(aniShow,temp);
-        }
-        self.append(sub);
-    }
-    //当前激活选项
-    var activeTab = subpages[0];
-
-    //选项卡点击事件
-    mui('.mui-bar-tab').on('tap', 'a', function(e) {
-        var targetTab = this.getAttribute('href');
-        if (targetTab == activeTab) {
-            return;
-        }
-
-        //显示目标选项卡
-        //若为iOS平台或非首次显示，则直接显示
-        if(mui.os.ios||aniShow[targetTab]){
-            plus.webview.show(targetTab);
-        }else{
-            //否则，使用fade-in动画，且保存变量
-            var temp = {};
-            temp[targetTab] = "true";
-            mui.extend(aniShow,temp);
-            plus.webview.show(targetTab,"fade-in",300);
-        }
-        //隐藏当前;
-        plus.webview.hide(activeTab);
-        //更改当前活跃的选项卡
-        activeTab = targetTab;
-    });
-    //自定义事件，模拟点击“首页选项卡”   
-    //即一加载的时候就显示默认的子页面，不然在点击选项卡之前，除了底部选项卡是一片空白
-    document.addEventListener('gohome', function() {
-        var defaultTab = document.getElementById("defaultTab");
-        //模拟首页点击
-        mui.trigger(defaultTab, 'tap');
-        //切换选项卡高亮
-        var current = document.querySelector(".mui-bar-tab>.mui-tab-item.mui-active");
-        if (defaultTab !== current) {
-            current.classList.remove('mui-active');
-            defaultTab.classList.add('mui-active');
-        }
-    });
-});
+ 
+	//var num1=$("ul > a:eq(0)").attr("ID");
+	//var num2=$("ul").children("a:eq(0)").attr("ID");
+	//var num3=$("ul").find("a:eq(0)").attr("ID");
+ 
+	//点击bottom-li
+	$('.bottom-li').click(function(){
+		//这个被点击的bottom-li加上这个类
+		$(this).addClass('bottomBackground');
+		//bottom-li不包含被点击的这个的都去掉bottomBackground这个类
+		$('.bottom-li').not($(this)).removeClass('bottomBackground');
+		//被点击的这个在bottom-li中是第几个
+		var idx = $(this).index('.bottom-li');
+ 
+		//如果被点击的这个是第一个的话,则改变第一个图片
+		if(idx == 0){
+			$(this).find('img').attr('src','https://ae01.alicdn.com/kf/H63618b3fc06440229c0b229d998314caU.png');
+		}else{
+			$('.bottom-li').eq(0).find('img').attr('src','https://ae01.alicdn.com/kf/H3d0e2abb4bbf46648afbbf89a6ff559cf.png');
+		}
+ 
+		if(idx == 1){
+			$(this).find('img').attr('src','https://ae01.alicdn.com/kf/H6cac4a266fce4ae7b78d7310633e697eF.png');
+		}else{
+			$('.bottom-li').eq(1).find('img').attr('src','https://ae01.alicdn.com/kf/Hb5ba1dd8e5744985ad04ed34e5a407d2O.png');
+		}		
+if(idx == 2){
+			$(this).find('img').attr('src','https://ae01.alicdn.com/kf/H08bf860b438946aeaeac47dad6ed5a46n.png');
+		}else{
+			$('.bottom-li').eq(2).find('img').attr('src','https://ae01.alicdn.com/kf/He054d0c6e2c94554ba8f157b805a8dafQ.png');
+		}
+ 
+		if(idx == 3){
+			$(this).find('img').attr('src','https://ae01.alicdn.com/kf/H3646dade8b524b05b714100237ff56f4z.png');
+		}else{
+			$('.bottom-li').eq(3).find('img').attr('src','https://ae01.alicdn.com/kf/H982dce97b55840929862dddfac5345adX.png');
+		}		
+	});
 </script>
 </html>
