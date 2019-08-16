@@ -2,6 +2,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
  <title> 木子科技◈首页</title>
+
+<base target="_blank" />
+<script src="http://hovertree.com/ziyuan/jquery/jquery-2.1.4.min.js"></script>
+<link rel="stylesheet" href="http://hovertree.com/texiao/mobile/2/hvtmoblilecss2.css">
 <link rel="stylesheet" href="https://cdn.bootcss.com/mui/3.7.1/css/mui.css" type="text/css" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
 <link rel="stylesheet" href="https://jiejingkeji.top/css/swiper.min.css">
@@ -163,6 +167,9 @@
 			padding:0;
 			font-family:微软雅黑;
 		}
+
+a.e{color:white}
+
 a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
@@ -207,7 +214,7 @@ background-color:#ffffff;
 		.bottomBackground{
 			color:#fc6;
 		}
-img{ border-radius:10px; }
+img{ border-radius:5px; }
 .text_line
 {
 	clear:both;
@@ -359,6 +366,7 @@ p.o  {text-align: center;}
 
 p.cc  {text-align: center; color:#ffffff; font-size:15px;  line-height:50px; }
 p.c  {text-align: center; color: #4ae414; font-size:35px;  line-height:0px; }
+p.y  {text-align: center; color: #ffffff; font-size:40px;  line-height:0px; }
 p.cd  {text-align: justify; color:#ffffff; }
 
 a.a1{color: #0a19ed}
@@ -438,16 +446,51 @@ div.co {
 
 <link href="@assets('assets/mui/css/iconfont.css')"" rel="stylesheet"/>
 
-<div  class="x">
-<div class="dropdown" style="float:left;">
-  <button class="dropbtn"> <i class="fa fa-list-ul fa-3x"></i> </button>
-   <div class="dropdown-content" style="left:0;">
-    <a href="/JJ.html"> 下载捷径</a>
-    <a href="https://jiejinghe.com/search">搜索捷径</a>
-    <a href="/guanyu.html">关于捷径</a>
-   <a href="/LX.html">联系我们</a>
-  </div>
+<div class="wrapperhovertree">
+<div class="container">
+<header>
+<h1><a href="javascript:;" class="slide-menu" target="_self"><p class="y"> <b> ☰ </b></p></a><p class="cc"> 木子科技欢迎你的支持</p></h1>
+</header>
+
+<div class="slide-mask"></div>
+<aside class="slide-wrapper">
+<div>
+<div>
+<strong>菜单</strong>
 </div>
+<ul>
+<li><a href="https://muzikeji.cn/JJ.html">下载捷径</a></li>
+<li><a href="https://muzikeji.cn/yy.html">破解app下载</a></li>
+<li><a href="https://muzikeji.cn/shortcut/003">VIP视频解析捷径</a></li>
+<li><a href="https://muzikeji.cn/shortcut/001">淘宝优惠券查询捷径</a></li>
+<li><a href="https://k.weidian.com/98=C5hRT">官方商店（手机配件）</a></li>
+<li><a href="https://muzikeji.cn/pl">留言</a></li>
+</ul>
+</div>
+</aside>
+<footer>
+hovertree.com 2014-2015
+</footer>
+<script>
+$(function(){
+$('aside.slide-wrapper').on('touchstart', 'li', function(e){
+$(this).addClass('current').siblings('li').removeClass('current');
+});
+
+$('a.slide-menu').on('click', function(e){
+var wh = $('div.wrapperhove'+'rtree').height();
+$('div.slide-mask').css('height', wh).show();
+$('aside.slide-wrapper').css('height', wh).addClass('moved');
+});
+
+$('div.slide-mask').on('click', function(){
+$('div.slide-mask').hide();
+$('aside.slide-wrapper').removeClass('moved');
+});
+});
+</script>
+
+<div  class="x">
 <p class="text_line"> </p>
 <div class="sm"> <img src="" alt="Smiley face" width="0" height="0"></div><p class="text_line"> </p><h3>
 <p class="c"> <b>木子科技</b></p><p class="text_line"> </p>
