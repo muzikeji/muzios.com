@@ -10,21 +10,157 @@
 <link rel="stylesheet" href="https://jiejingkeji.top/css/swiper.min.css">
 <script src="https://jiejingkeji.top/js/jquery-1.10.1.min.js"></script>
 <script src="https://jiejingkeji.top/js/swiper.min.js"></script>
-<base target="_blank" />
-<script src="http://hovertree.com/ziyuan/jquery/jquery-2.1.4.min.js"></script>
-<link rel="stylesheet" href="http://hovertree.com/texiao/mobile/2/hvtmoblilecss2.css">
-
 <style>
-body{width:auto;text-align:center;margin:0 auto;
-padding:0 10px 0 10px;
-max-width:750px; min-width:350px; boder:1px solid #d87777;
 
-background:#d7e9f5 url(https://ae01.alicdn.com/kf/Ha21caa6885a9453c996ec91ef91dfed3T.png) no-repeat left top;
-  background-size:100%;
+
+* {
+	margin:0;
+	padding:0;
 }
-p.cc  {text-align: center; color:#ffffff; font-size:25px;  line-height:50px; }
-p.c  {text-align: center; color: #4ae414; font-size:35px;  line-height:0px; }
-p.y  {text-align: center; color: #ffffff; font-size:40px;  line-height:0px; }
+#header {
+	position:absolute;
+	left:0;
+	top:0;
+	z-index:999;
+	width:100%;
+	height:43px;
+	overflow:hidden;
+	background:#fdfdfc;
+	font:12px/40px hiragino sans gb,microsoft yahei,simsun;
+	box-shadow:3px 3px 3px rgba(0,0,0,0.2);
+}
+#top-line {
+	width:100%;
+	height:3px;
+	line-height:0;
+	font-size:0;
+	overflow:hidden;
+	text-align:center;
+	z-index:1;
+	background-color:#0fa6ea;
+	background:-webkit-linear-gradient(left,rgba(15,166,234,1) 0,rgba(89,204,24,1) 10%,rgba(15,166,234,1) 60%,rgba(15,166,234,1) 100%);
+	background:-moz-linear-gradient(left,rgba(15,166,234,1) 0,rgba(89,204,24,1) 10%,rgba(15,166,234,1) 60%,rgba(15,166,234,1) 100%);
+	background:-ms-linear-gradient(left,rgba(15,166,234,1) 0,rgba(89,204,24,1) 10%,rgba(15,166,234,1) 60%,rgba(15,166,234,1) 100%);
+	background:linear-gradient(left,rgba(15,166,234,1) 0,rgba(89,204,24,1) 10%,rgba(15,166,234,1) 60%,rgba(15,166,234,1) 100%);
+}
+#header .swiper-slide {
+	padding:0 20px;
+	width:auto;
+}
+#banner {
+	width:100%;
+	overflow:hidden;
+	margin-top:43px;
+	position:relative;
+}
+#banner .swiper-slide {
+	position:relative;
+	text-align:center;
+}
+#banner img {
+	max-width:100%;
+	display:block;
+}
+#banner h2 {
+	text-align:center;
+	font-size:1em;
+	height:42px;
+	line-height:42px;
+	color:#fafafa;
+	position:absolute;
+	left:0;
+	bottom:0;
+	right:0;
+	font-weight:normal;
+	text-shadow:1px 1px 1px #000;
+	/* background-color:rgba(21,20,20,0.5);*/
+    background-color:rgba(0,0,0,0);
+	background:-moz-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.7));
+	background:-webkit-gradient(linear,top,from(rgba(0,0,0,0)),to(rgba(0,0,0,0.7)));
+	background:-webkit-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.7));
+	background:-o-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.7));
+}
+#banner .pagination {
+	position:absolute;
+	z-index:20;
+	bottom:3px;
+	text-align:center;
+	right:0;
+}
+#banner .swiper-pagination-bullet {
+	display:inline-block;
+	width:5px;
+	height:5px;
+	border-radius:5px;
+	background:#fff;
+	margin:0 2px;
+	opacity:0.8;
+	cursor:pointer;
+}
+#banner .swiper-pagination-bullet-active {
+	background:#ff6600;
+}
+#announcement {
+	height:2em;
+	background:#f5f8fc;
+	border:1px solid #d2e1f1;
+	margin:0.5em;
+}
+#announcement a {
+	color:#294c7f;
+	text-decoration:none;
+	display:block;
+	line-height:2;
+	height:2em;
+	text-indent:0.5em;
+	overflow:hidden;
+}
+#tabs-container {
+	height:400px;
+}
+.tabs {
+	border-top:2px solid #9ac7ed;
+	background:url(images/headbg.png) no-repeat left top #f9fafa;
+	background-size:auto 100%;
+	width:100%;
+	height:38px;
+	overflow:hidden;
+}
+.tabs a {
+	font-weight:normal;
+	text-align:center;
+	float:left;
+	width:64px;
+	height:38px;
+	line-height:38px;
+	color:#2a70be;
+	text-decoration:none;
+}
+.tabs a.active {
+	border-top:2px solid #2a70be;
+	margin-top:-2px;
+	background-image:url(images/tab_ui.png);
+	background-repeat:no-repeat;
+	-webkit-background-size:64px 39px;
+	-moz-background-size:64px 39px;
+	-o-background-size:64px 39px;
+	background-size:64px 39px;
+	background-position:left top;
+	color:#c14545;
+}
+.news-list {
+	padding:0 10px;
+}
+.news-list li {
+	overflow:hidden;
+	border-bottom:1px solid #eceef0;
+	box-shadow:0 1px 1px #fff;
+	font-weight:normal;
+	height:35px;
+	line-height:35px;
+	font-size:80%;
+}
+
 *{
 			margin:0;
 			padding:0;
@@ -88,20 +224,13 @@ div.fe
 padding-top:1px;
 text-align:center;
 }
-div.ff
-{
-  background-color: #fff;
-	width:100%;
-	height:atou;
-text-align:center;
-}
 div.x
 {
 	background-color: #ffffff;
 	background-size:100% 100%;
 	background-repeat:no-repeat;
   width: 100%;
-                height: 145px;
+                height: 195px;
 }
 
 div.xx
@@ -303,53 +432,24 @@ div.co {
 #wrap {display:block;bottom:0px;right:1px!important;right:18px;width:100%;line-height:30px;position:fixed;border:1px solid #fff;text-align:center;color:#fff;  background-color: #ffffff;	float:left;}
 
 </style>
+
+
 <body  OnLoad="swapPic()">
-<div class="wrapperhovertree">
-<div class="container">
-<header>
-<h1><a href="javascript:;" class="slide-menu" target="_self"><p class="y"> <b> ☰ </b></p></a><p class="cc"> 木子科技欢迎你！</p></h1>
-</header>
-
-<div class="slide-mask"></div>
-<aside class="slide-wrapper">
-<div>
-<div>
-<strong>菜单</strong>
-</div>
-<ul>
-<li><a href="https://muzios.com/JJ.html">下载捷径</a></li>
-<li><a href="https://muzios.com/yy.html">破解app下载</a></li>
-<li><a href="https://muzios.com/shortcut/003">VIP视频解析捷径</a></li>
-<li><a href="https://muzios.com/shortcut/001">淘宝优惠券查询捷径</a></li>
-<li><a href="https://k.weidian.com/98=C5hRT">官方商店（手机配件）</a></li>
-<li><a href="https://muzios.com/pl">留言</a></li>
-</ul>
-</div>
-</aside>
-<script>
-$(function(){
-$('aside.slide-wrapper').on('touchstart', 'li', function(e){
-$(this).addClass('current').siblings('li').removeClass('current');
-});
-
-$('a.slide-menu').on('click', function(e){
-var wh = $('div.wrapperhove'+'rtree').height();
-$('div.slide-mask').css('height', wh).show();
-$('aside.slide-wrapper').css('height', wh).addClass('moved');
-});
-
-$('div.slide-mask').on('click', function(){
-$('div.slide-mask').hide();
-$('aside.slide-wrapper').removeClass('moved');
-});
-});
-</script>
 
 <link rel="stylesheet" type="text/css" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" />
 
 <link href="@assets('assets/mui/css/iconfont.css')"" rel="stylesheet"/>
 
 <div  class="x">
+<div class="dropdown" style="float:left;">
+  <button class="dropbtn"> <i class="fa fa-list-ul fa-3x"></i> </button>
+   <div class="dropdown-content" style="left:0;">
+    <a href="/JJ.html"> 下载捷径</a>
+    <a href="https://jiejinghe.com/search">搜索捷径</a>
+    <a href="/guanyu.html">关于捷径</a>
+   <a href="/LX.html">联系我们</a>
+  </div>
+</div>
 <p class="text_line"> </p>
 <p class="c">
  <img src="https://ae01.alicdn.com/kf/H6aead915ccea4b12b723f0a124f62cc9h.png" alt="Smiley face" width="80" height="80"> </p>
@@ -362,7 +462,26 @@ $('aside.slide-wrapper').removeClass('moved');
 <p class="text_line"> </p>
 
 <p class="text_line"> </p>
-     <div  class="ff">
+
+<div id="announcement" class="swiper-container">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <a href="https://mp.weixin.qq.com/s/lQvnxHDVBDsbpMivgn9SRw"></a><p> 知道这个秘密后，我每年少花了两万多！</p></div>
+    <div class="swiper-slide">
+      <a href="https://shimo.im/docs/vtVCx8JdJw3dhYrT/"></a><p>iOS URL Scheme 整理</p></div>
+    <div class="swiper-slide">
+      <a href="https://k.weidian.com/98=C5hRT"></a><p>是时候换个“套”了！</p></div>
+  </div>
+</div>
+
+<div class="tabs">
+  <a href="#" class="active">推荐</a>
+  <a href="#">教程</a>
+  <a href="#">阅读</a></div>
+<div id="tabs-container" class="swiper-container">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <ul class="news-list">
        <div  class="tp"><a href="https://muzios.com/shortcut/001"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H3074e7aa29744596b24a0e4c4eace8dcP.jpeg" width="46%" height="240" ><a>
 <a href="https://weidian.com/i/233876634561669704257?ifr=itemdetail&wfr=c"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hbeabcda199774753b57ab83da6abe0ff4.jpeg" width="46%" height="150" ><a><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="46%" height="80" ></a>
 
@@ -399,6 +518,46 @@ $('aside.slide-wrapper').removeClass('moved');
 <a class="a1" href="https://www.starchina.top">星辰网络</a>❙
 <a class="a1" href="https://www.ttupp.com">清风不识字</a>❙ </p>
 </div>
+</ul>
+    </div>
+    <div class="swiper-slide">
+      <ul class="news-list">
+        <li>   <a href="https://mp.weixin.qq.com/s/QaSkt5Ot09fl4Qw8kpgX9Q">不会用“捷径”？木子教你捷径怎么用！</a></li>
+  
+  <li>   <a href="https://mp.weixin.qq.com/s/ztE0pUZGm6ZruF0Ch1UmuA">新手须知：捷径所需权限及更新机制介绍</a></li>
+  
+  <li>   <a href="https://mp.weixin.qq.com/s/H-unhwM0PbTwI2GDkFqkzQ">人人能创造·捷径的边界</a></li>
+  
+  <li>   <a href="https://mp.weixin.qq.com/s/yXGxznHaPvp4F0_e7qoAoQ">人人能创造·「App Store」操作</a></li>
+  
+  <li>   <a href="https://mp.weixin.qq.com/s/2JXtZim_SxXJwHWwfVP97w">人人能创造·「文本」操作</a></li>
+  
+  <li>   <a href="https://mp.weixin.qq.com/s/35PtrQFRKpqzfwmS6cYt6w">跟着苹果教学视频，5分钟学会制作快捷指令！</a></li>
+  </ul>
+    </div>
+    <div class="swiper-slide">
+      <ul class="news-list">
+      <li>   <a href="https://mp.weixin.qq.com/s/0WEjMf_SR2rrZsUZgoGq3g">十八个iPhone XS/Max使用小技巧</a></li>
+  
+  <li>   <a href="https://mp.weixin.qq.com/s/Z0mTDz_O-9N1e-9JXaLwRA">90%iphone用户不知的个人隐私设置</a></li>
+  
+  <li>   <a href="https://mp.weixin.qq.com/s/c1jk4aRNpBcmFkDAbD2c6w">壁纸高清｜想你想你想你</a></li>
+  
+  <li>   <a href="https://mp.weixin.qq.com/s/Kimhinx7SXYuac-C_h2ZBA">一台iPhone能用多久？国产手机甘拜下风，苹果卖得贵有道理</a></li>
+  
+  <li>   <a href="https://mp.weixin.qq.com/s/ptoVM5RlThjPCWA5ixYyQA">5个iphone使用技巧看看你知道几个！</a></li>
+  
+  <li>   <a href="https://mp.weixin.qq.com/s/x2F0jMczAfATg53nhDUrsA">微商收款不发货，这样收拾他…</a></li>
+  
+  <li>   <a href="https://mp.weixin.qq.com/s/mxDWpwSoc7ETziL78btsZg">苹果手机解压百度网盘资源指南</a></li>
+  
+  <li>   <a href="https://mp.weixin.qq.com/s/77OLsZJsYFmhz6cQoiY_Og">潮图壁纸 | 孤独不是没人爱</a></li>
+  </ul>
+    </div>
+  </div>
+
+</div>
+
 <div id="content"  style="z-index:999">
 		<ul>
 	<li class='bottom-li'>						  <a id="defaultTab" class="mui-tab-item mui-active" href="https://muzios.com/" target="_self"><img src="https://ae01.alicdn.com/kf/H83be833e88164a6ca4a86fa9c28a69b7y.png" width='358' height='131' alt="">
@@ -419,7 +578,6 @@ $('aside.slide-wrapper').removeClass('moved');
 		</ul>
 	</div></div>
 <p class="text_line"> </p>
-</div>#
 <p>
 <script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
 <script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
