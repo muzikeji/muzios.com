@@ -14,161 +14,12 @@
 
 <meta name="keywords"  content="木子科技" /><meta name="description"  content="一个专注iOS捷径和应用分享和交流的网站！"/>
 
+	<script type="text/javascript" src='http://libs.baidu.com/jquery/2.1.1/jquery.min.js'></script>
 <link rel="stylesheet" href="https://cdn.bootcss.com/mui/3.7.1/css/mui.css" type="text/css" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
-<link rel="stylesheet" href="https://jiejingkeji.top/css/swiper.min.css">
-<script src="https://jiejingkeji.top/js/jquery-1.10.1.min.js"></script>
-<script src="https://jiejingkeji.top/js/swiper.min.js"></script>
+    <link href="https://muzios.com/muzi/shortcut.css" rel="stylesheet">
+    <link href="https://muzios.com/muzi/shortuct-1.css" rel="stylesheet">
+<script type="text/javascript" charset="utf-8" async="" src="https://muzios.com/muzi/js1.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://muzios.com/muzi/js2.js"></script>
 <style>
-
-
-* {
-	margin:0;
-	padding:0;
-}
-#header {
-	position:absolute;
-	left:0;
-	top:0;
-	z-index:999;
-	width:100%;
-	height:43px;
-	overflow:hidden;
-	background:#fdfdfc;
-	font:12px/40px hiragino sans gb,microsoft yahei,simsun;
-	box-shadow:3px 3px 3px rgba(0,0,0,0.2);
-}
-#top-line {
-	width:100%;
-	height:3px;
-	line-height:0;
-	font-size:0;
-	overflow:hidden;
-	text-align:center;
-	z-index:1;
-	background-color:#0fa6ea;
-	background:-webkit-linear-gradient(left,rgba(15,166,234,1) 0,rgba(89,204,24,1) 10%,rgba(15,166,234,1) 60%,rgba(15,166,234,1) 100%);
-	background:-moz-linear-gradient(left,rgba(15,166,234,1) 0,rgba(89,204,24,1) 10%,rgba(15,166,234,1) 60%,rgba(15,166,234,1) 100%);
-	background:-ms-linear-gradient(left,rgba(15,166,234,1) 0,rgba(89,204,24,1) 10%,rgba(15,166,234,1) 60%,rgba(15,166,234,1) 100%);
-	background:linear-gradient(left,rgba(15,166,234,1) 0,rgba(89,204,24,1) 10%,rgba(15,166,234,1) 60%,rgba(15,166,234,1) 100%);
-}
-#header .swiper-slide {
-	padding:0 20px;
-	width:auto;
-}
-#banner {
-	width:100%;
-	overflow:hidden;
-	margin-top:43px;
-	position:relative;
-}
-#banner .swiper-slide {
-	position:relative;
-	text-align:center;
-}
-#banner img {
-	max-width:100%;
-	display:block;
-}
-#banner h2 {
-	text-align:center;
-	font-size:1em;
-	height:42px;
-	line-height:42px;
-	color:#fafafa;
-	position:absolute;
-	left:0;
-	bottom:0;
-	right:0;
-	font-weight:normal;
-	text-shadow:1px 1px 1px #000;
-	/* background-color:rgba(21,20,20,0.5);*/
-    background-color:rgba(0,0,0,0);
-	background:-moz-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.7));
-	background:-webkit-gradient(linear,top,from(rgba(0,0,0,0)),to(rgba(0,0,0,0.7)));
-	background:-webkit-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.7));
-	background:-o-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.7));
-}
-#banner .pagination {
-	position:absolute;
-	z-index:20;
-	bottom:3px;
-	text-align:center;
-	right:0;
-}
-#banner .swiper-pagination-bullet {
-	display:inline-block;
-	width:5px;
-	height:5px;
-	border-radius:5px;
-	background:#fff;
-	margin:0 2px;
-	opacity:0.8;
-	cursor:pointer;
-}
-#banner .swiper-pagination-bullet-active {
-	background:#ff6600;
-}
-#announcement {
-	height:2em;
-	background:#f5f8fc;
-	border:1px solid #d2e1f1;
-	margin:0.5em;
-}
-#announcement a {
-	color:#294c7f;
-	text-decoration:none;
-	display:block;
-	line-height:2;
-	height:2em;
-	text-indent:0.5em;
-	overflow:hidden;
-}
-#tabs-container {
-	height:400px;
-}
-.tabs {
-	border-top:2px solid #9ac7ed;
-	background:url(images/headbg.png) no-repeat left top #f9fafa;
-	background-size:auto 100%;
-	width:100%;
-	height:38px;
-	overflow:hidden;
-}
-.tabs a {
-	font-weight:normal;
-	text-align:center;
-	float:left;
-	width:64px;
-	height:38px;
-	line-height:38px;
-	color:#2a70be;
-	text-decoration:none;
-}
-.tabs a.active {
-	border-top:2px solid #2a70be;
-	margin-top:-2px;
-	background-image:url(images/tab_ui.png);
-	background-repeat:no-repeat;
-	-webkit-background-size:64px 39px;
-	-moz-background-size:64px 39px;
-	-o-background-size:64px 39px;
-	background-size:64px 39px;
-	background-position:left top;
-	color:#c14545;
-}
-.news-list {
-	padding:0 10px;
-}
-.news-list li {
-	overflow:hidden;
-	border-bottom:1px solid #eceef0;
-	box-shadow:0 1px 1px #fff;
-	font-weight:normal;
-	height:35px;
-	line-height:35px;
-	font-size:80%;
-}
 
 *{
 			margin:0;
@@ -219,363 +70,120 @@ background-color:#ffffff;
 		.bottomBackground{
 			color:#fc6;
 		}
-img{ border-radius:10px; }
-.text_line
-{
-	clear:both;
-	margin-bottom:0px;
-}
-div.fe
-{
-	float:left;
-	width:20%;
-	height:50px;
-padding-top:1px;
-text-align:center;
-}
-div.x
-{
-	background-color:url(https://ae01.alicdn.com/kf/Ha3c8fdb912d44662addb5198005b7b7eO.png);
-	background-size:100% 100%;
-	background-repeat:no-repeat;
-  width: 100%;
-                height: 195px;
-}
-
-div.xx
-{
-	background-color: #1dd3dd;
-	background-size:100% 100%;
-	background-repeat:no-repeat;  
-margin:0 auto
-width:80%;
-text-align:center;
-border-radius: 3px;
-}
-#div1{
-	border:#06C 0px solid;
-	position:fixed;
-    width:100%;
-    height:0px;
-    z-index:100;    
-    top: 75%;
-	left:0px;
-	text-align:right;
-	background-color:#FFF;
-	}
-div.ex
-{
-background-color: #f4ea00;
-width:auto;
-padding:5px;
-border:5px solid gray;
-margin:0px;
-}
-.box a{ color: black; text-decoration: none; }  
-.box a:hover{ color: #ef5dae; }   
-div.cd {border-radius: 10px;
-border: #e9e9e9 solid 1px;
-width:90%;
-	height:60px;
-margin:0 auto;
-border-radius: 5px;
-   }
-div.sm {
-border: #c2afd0 solid 0px;
-width:50px;
-	height:50px;
-margin:0 auto;
-border-radius: 50%;
-   overflow:hidden;}
-
-div.mc {border-radius: 10px;
-border:  #c2afd0 solid 1px;
-width:80px;
-	height:20px;
-margin:0 auto;
-border-radius: 35px;
-   overflow:hidden;}
-
-div.s {border-radius: 1px;
-border: #e9e9e9 solid 1px;
-width:200px;
-	height:30px;
-margin:0 auto;
-line-height:3px;
-border-radius: 20px;
-   }
- .thumbnail
-{
-	float:left;	
-margin:5px;
-}
-div.cz {border-radius: 10px;
-border:width  solid 20px;
-width:100%;
-	height:60px;
-margin:0 auto;
-   }
-div.tp {border-radius: 10px;
-width:100%;
-	height:auto;
-margin:0 auto;
-border-radius: 5px;
-   }
-div.sz {border-radius: 10px;
-border: #e9e9e9 solid 1px;
-width:200px;
-	height:20px;
-margin:0 auto;
-border-radius: 35px;
-   }
-div.fd
-{
-	float:left;
-	width:320px;
-	height:175px;
-	margin:5px;
-border: #e9e9e9 solid 1px;
-border-radius: 10px;
-    padding: 5px; 
-overflow:hidden;
-}
-div.CC
-{
-	float:left;
-	width:29%;
-	height:50px;
-	line-height:50px; 
-border:blue solid 1px;
-border-radius: 10px;
-    padding: 1px; 
-overflow:hidden;
-margin:5px; 
-}
-div.CD
-{
-	float:left;
-	width:46%;
-	height:50px;
-	line-height:25px; 
-border:width solid 1px;
-border-radius: 10px;
-    padding: 1px; 
-overflow:hidden;
-margin:5px; 
-}
-
-p.date {text-align: justify; color:#ffffff; font-size:14px;}
-h3  {text-align: justify; color:#ffffff; font-size:20px;}
-p.o  {text-align: center;}
-
-p.cc  {text-align: center; color: #cd4bf5; font-size:15px;  line-height:50px; }
-p.c  {text-align: center; color: #4ae414; font-size:35px;  line-height:0px; }
-p.cd  {text-align: justify; color:#ffffff; }
-
-a.a1{color: #0a19ed}
-
-a:link {text-decoration:none;}
-a:visited {text-decoration:none;}
-a:hover {text-decoration:none;}
-a:active {text-decoration:none;}
-
-a:link {color: #1500f9;}      /* 未访问链接*/
-a:visited {color: #939292;}  /* 已访问链接 */
-a:hover {color: #adf2ed;}  /* 鼠标移动到链接上 */
-a:active {color #adf2ed;}  /* 鼠标点击时 */
-
-.dropbtn {
-    background-color: rgba(0,0,0,0.5);
-    color: white;
-    padding: 1px;
-    font-size: 10px;
-    border: none;
-    cursor: pointer;
-  width: 100%;
-}
-
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    right: 0;
-    background-color: #f9f9f9;
-    min-width: 100px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-}
-
-.dropdown-content a {
-    color: black;
-    padding: 1px 1px;
-    text-decoration: none;
-    display: block;
-}
-
-.dropdown-content a:hover {background-color: #f1c185}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-.dropdown:hover .dropbtn {
-    background-color: #ad98da;
-}
-
-div.po {
-  width: 46%;
-  background-color: white;
-float:left;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 25px;
-margin:5px; 
-}
-
-div.co {
-  text-align: center;
-  padding: 1px 1px;
-}
-#wrap {display:block;bottom:0px;right:1px!important;right:18px;width:100%;line-height:30px;position:fixed;border:1px solid #fff;text-align:center;color:#fff;  background-color: #ffffff;	float:left;}
-
 </style>
-
-
-<body  OnLoad="swapPic()">
-
+</head>
+<body>
 <link rel="stylesheet" type="text/css" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" />
 
-<link href="@assets('assets/mui/css/iconfont.css')"" rel="stylesheet"/>
 
-<div  class="x">
-<div class="dropdown" style="float:left;">
-  <button class="dropbtn"> <i class="fa fa-list-ul fa-3x"></i> </button>
-   <div class="dropdown-content" style="left:0;">
-    <a href="/JJ.html"> 下载捷径</a>
-    <a href="https://jiejinghe.com/search">搜索捷径</a>
-    <a href="/guanyu.html">关于捷径</a>
-   <a href="/LX.html">联系我们</a>
-  </div>
+<script src="https://muzios.com/tctip-1.0.0.min.js"></script>
+  <script> 
+  new tctip({
+    top: '15%',
+    button: {
+      id: 4,
+      type: 'dashang',
+    },
+    list: [
+      {
+        type: 'alipay',
+        qrImg: 'https://ae01.alicdn.com/kf/Hc2599b7b8e14475491f70eaf847f96d1D.jpeg'
+      }, {
+        type: 'wechat',
+        qrImg: 'https://ae01.alicdn.com/kf/Hddce11218f244c75ad18b34d66a8acffu.jpeg'
+      }, {
+        type: 'wxq',
+        qrImg: 'https://ae01.alicdn.com/kf/H6031cd82fa0249289913bb0e2a1b0fde1.jpeg'
+      }, {
+        type: 'QQq',
+        qrImg: 'https://ae01.alicdn.com/kf/Heff31b5b438d43459809a7affe4bda640.jpeg'
+      }
+    ]
+  }).init()
+  </script>
+
+<script>
+if(('standalone' in window.navigator)&&window.navigator.standalone){
+        var noddy,remotes=false;
+        document.addEventListener('click',function(event){
+                noddy=event.target;
+                while(noddy.nodeName!=='A'&&noddy.nodeName!=='HTML') noddy=noddy.parentNode;
+                if('href' in noddy&&noddy.href.indexOf('http')!==-1&&(noddy.href.indexOf(document.location.host)!==-1||remotes)){
+                        event.preventDefault();
+                        document.location.href=noddy.href;
+                }
+        },false);
+}
+</script>
+</body>
+
+    <div id="root"> <div class="main-view"> <div class="main-workflow"> <div class="header clearfix"> <div class="pull-left" style="padding:10px 5px"> <span>SHORTCUTS GALLERY</span> <a href="https://jinshuju.net/f/FrvPrF" target="_blank"><span></span> 发布捷径</a> </div> <div class="pull-right" style="padding:10px 0"> <a href="https://jinshuju.net/f/F30ES8" target="_blank" class="feedback">反馈</a> </div> </div> <div class="container"> <div class="wrapper"> 
+ 
+      <section class="row"> <div class="section-nav"> <span class="section-title">iPhone 快捷指令</span> </div> </div> </div> </section>
+<p class="text_line"> </p>
+<a href="https://jiejinghe.com/search" target="_blank"><div  class="sm" style="background-color: #2596dc"><p class="cc">
+<i class="fa fa-search fa-2x">搜索捷径</i> </p>
+</div></a>
+<p class="text_line"> </p>
+<a href="https://muzios.com/shortcut/001" target="_top"><div  class="ff" style="background-color: #ffd502"><p class="d"> <img src="https://ae01.alicdn.com/kf/Hecf01efc749e4c37b1127a0250d9c60dM.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>淘宝商品优惠券查询 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">2600+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://muzios.com/shortcut/002" target="_top"><div  class="ff" style="background-color: #a4a4a4"><p class="d"> <img src="https://ae01.alicdn.com/kf/H5b4153e74ebd427a83eae44b2435e468u.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>iOS配置文件 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">3800+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://muzios.com/shortcut/003" target="_top"><div  class="ff" style="background-color: #f57373"><p class="d"> <img src="https://ae01.alicdn.com/kf/Hbfd12f120d6e47a29b5551f950c4ecbfr.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>在线影视 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">2200+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://muzios.com/shortcut/004" target="_top"><div  class="ff" style="background-color: #a454dc"><p class="d"> <img src="https://ae01.alicdn.com/kf/Hd350bac3046448fda8f7a99a67369d5al.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>抖音去水印下载 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">3100+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://muzios.com/shortcut/005" target="_top"><div  class="ff" style="background-color: #3761e1"><p class="d"> <img src="https://ae01.alicdn.com/kf/H916c4e25a84249ed854d50e8b1a24347Q.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>双色球 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">4600+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://muzios.com/shortcut/006" target="_top"><div  class="ff" style="background-color: #17d2e1"><p class="d"> <img src="https://ae01.alicdn.com/kf/H5ed0e93e96fd41ed8212f7a088aa9a0bM.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>天气预报 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">1700+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://muzios.com/shortcut/007" target="_top"><div  class="ff" style="background-color: #deba25"><p class="d"> <img src="https://ae01.alicdn.com/kf/H22dbd009b5d2415eba8d23bb554ca5d58.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>微信引用回复 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">3600+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://muzios.com/shortcut/008" target="_top"><div  class="ff" style="background-color: #e06b3e"><p class="d"> <img src="https://ae01.alicdn.com/kf/Hf20cff2b879d4b399d282180330d54b5V.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>每日壁纸 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">3200+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://muzios.com/shortcut/009" target="_top"><div  class="ff" style="background-color: #6495f1"><p class="d"> <img src="https://ae01.alicdn.com/kf/H9bf448c9f4764545a7f302450005244bd.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>应用图标提取器 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">1300+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://muzios.com/shortcut/0010" target="_top"><div  class="ff" style="background-color: #4aaebd"><p class="d"> <img src="https://ae01.alicdn.com/kf/H62e387d073424931a0a7bc6f01314123S.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>常用开关集合 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">2200+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://muzios.com/shortcut/0011" target="_top"><div  class="ff" style="background-color: #18226a"><p class="d"> <img src="https://ae01.alicdn.com/kf/H9cbf7291b23749598fe257e76da0e97fQ.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>智能Wi-Fi开关 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">3800+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://muzios.com/shortcut/0012" target="_top"><div  class="ff" style="background-color: #c368d7"><p class="d"> <img src="https://ae01.alicdn.com/kf/Hf8c0512de2624ca8a06f00c0e2ff457fL.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>百思不得姐 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">4800+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://muzios.com/shortcut/0013" target="_top"><div  class="ff" style="background-color: #f4c20e"><p class="d"> <img src="https://ae01.alicdn.com/kf/Hc8946c21ab034baa83abeb583f90d97ar.png" alt="Google Chrome" width="32" height="32">&nbsp;    &nbsp;</p><p class="text_line"> </p><p class="dd"><b>表情包 </b></p><p class="text_line"> </p><div class="download-total"> <p class="dc"> <i class="fa fa-arrow-circle-o-down"></i> <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="下载量">2700+&nbsp;   &nbsp;     &nbsp;</span> </p></div>
+</div></a>
+<a href="https://jiejinghe.com/users/6563404841" target="_blank"><div  class="fd" style="background-color: #000000">
+<p class="cc"> <i class="fa fa-bullhorn fa-2x">查看更多</i></p><p class="date">联系站主请点击右侧QQ图标、赞助本站请点击右侧打赏按钮，感谢你的支持和帮助！</p>　
+</div></a>
+<h2 class="text_line"> </h2>
+<div class="ex">
+<h2>【温馨提示】</h2>
+<h2><a href="mailto:56794501@qq.com">&nbsp;商务合作</a>|<a href="https://jiejinghe.com/" target="_blank">捷径盒</a> </h2>
+<p class="c">如果本站内容存在侵权，请提供相关专利证书<a href="mailto:56794501@qq.com"><button>致信给我们</button></a>或者<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:56794501:51" alt="联系客服💁🏻‍♂️" title="联系客服💁🏻‍♂️"/></a>我们将在5个工作日之内进行处理，若未致信我们将视为默认授权，我们将不承担任何法律责任.</p>
 </div>
-<p class="text_line"> </p>
-<p class="c">
- <img src="https://ae01.alicdn.com/kf/Hd14a92e9cf1c4c75bf69e66f9a4e6acdm.png" alt="Smiley face" width="120" height="80"> </p>
-<p class="c">
-<b>木子科技</b></p><p class="text_line"> </p>
-<p class="text_line"> </p><p class="text_line"> </p>
-<p class="cc"><b>越接近，越完美；用捷径，更轻松！</b></p><p class="text_line"> </p></h3>
-</div>
-
-<p class="text_line"> </p>
-
-<p class="text_line"> </p>
-
-<div id="announcement" class="swiper-container">
-  <div class="swiper-wrapper">
-    <div class="swiper-slide">
-      <a href="https://mp.weixin.qq.com/s/lQvnxHDVBDsbpMivgn9SRw"></a><p> 知道这个秘密后，我每年少花了两万多！</p></div>
-    <div class="swiper-slide">
-      <a href="https://shimo.im/docs/vtVCx8JdJw3dhYrT/"></a><p>iOS URL Scheme 整理</p></div>
-    <div class="swiper-slide">
-      <a href="https://k.weidian.com/98=C5hRT"></a><p>是时候换个“套”了！</p></div>
-  </div>
-</div>
-
-<div class="tabs">
-  <a href="#" class="active">推荐</a>
-  <a href="#">教程</a>
-  <a href="#">阅读</a></div>
-<div id="tabs-container" class="swiper-container">
-  <div class="swiper-wrapper">
-    <div class="swiper-slide">
-      <ul class="news-list">
-       <div  class="tp"><a href="https://muzios.com/shortcut/001"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H3074e7aa29744596b24a0e4c4eace8dcP.jpeg" width="46%" height="240" ><a>
-<a href="https://weidian.com/i/233876634561669704257?ifr=itemdetail&wfr=c"><img class="thumbnail" src="https://ae01.alicdn.com/kf/Hbeabcda199774753b57ab83da6abe0ff4.jpeg" width="46%" height="150" ><a><a href="https://www.icloud.com/shortcuts/d13f35eaee30421ab2e781cb0c8cd493"><img class="thumbnail" src="https://ae01.alicdn.com/kf/H52d01364e8fd4a6c8bab517078d47b3de.jpeg" width="46%" height="80" ></a>
-
-<p class="text_line"> </p>
-<p class="text_line"> </p>
-<p class="text_line"> </p>
-<a href="https://p.pinduoduo.com/4gHXTPcP">
-<img border="0" src="https://ae01.alicdn.com/kf/H0cb57d65c0a94dec9fc19dddd9add2e6P.png" alt="领劵" width="95%" height="auto"></a> 
-</div>
-<div  class="xx">
-<p class="o"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H892633bba82e46989742def5ecf5ebaa3.jpeg" alt="木子李" width="8%" height="auto"></a>
-<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H86e3f226eca343469f56fe3b8032c8c8s.png" alt="木子李" width="8%" height="auto"></a>
-
-<a href="https://s7.addthis.com/static/wechat_follow.html?id=Miss-baby_&u=https://u.wechat.com/MIDWVwUtuk6_gUB48_Fy41U">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H2730d04acc6d4a8aa1e3fd309d67395bN.png" alt="木子李" width="8%" height="auto"></a>
-
-<a href="https://jq.qq.com/?_wv=1027&k=5GhhkGc">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H37df5dda61414c66bd17112a89fb7288y.png" alt="木子李" width="8%" height="auto"></a>
-
-<a href="https://ae01.alicdn.com/kf/H92b91557d9264af682723e9369a426b0p.png">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/H8198f8cdfda54c649de22c8beda6cf7fv.png" alt="木子李" width="8%" height="auto"></a>
-
-<a href="https://weibo.com/u/5090561214">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/Hcbeac8aba8a14e369288171ee4a862785.png" alt="木子李" width="8%" height="auto"></a>
-
-<a href="http://v.douyin.com/kkpWm9/">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/Hc3b237ac0dad4737911599d11209dff1J.jpeg" alt="木子李" width="8%" height="auto"></a>
-
-<a href="mailto:56794501@qq.com">
-<img class="thumbnail"  src="https://ae01.alicdn.com/kf/Hf19f700d2be84088803d5d78d2a48ac9p.png" alt="木子李" width="8%" height="auto"></a></p>
-<p class="text_line"> </p>
-<p class="o">友站❥ ❙ 
-<a class="a1" href="https://jiejinghe.com">捷径盒</a>❙
-<a class="a1" href="https://www.starchina.top">星辰网络</a>❙
-<a class="a1" href="https://www.ttupp.com">清风不识字</a>❙ </p>
-</div>
-</ul>
-    </div>
-    <div class="swiper-slide">
-      <ul class="news-list">
-        <li>   <a href="https://mp.weixin.qq.com/s/QaSkt5Ot09fl4Qw8kpgX9Q">不会用“捷径”？木子教你捷径怎么用！</a></li>
-  
-  <li>   <a href="https://mp.weixin.qq.com/s/ztE0pUZGm6ZruF0Ch1UmuA">新手须知：捷径所需权限及更新机制介绍</a></li>
-  
-  <li>   <a href="https://mp.weixin.qq.com/s/H-unhwM0PbTwI2GDkFqkzQ">人人能创造·捷径的边界</a></li>
-  
-  <li>   <a href="https://mp.weixin.qq.com/s/yXGxznHaPvp4F0_e7qoAoQ">人人能创造·「App Store」操作</a></li>
-  
-  <li>   <a href="https://mp.weixin.qq.com/s/2JXtZim_SxXJwHWwfVP97w">人人能创造·「文本」操作</a></li>
-  
-  <li>   <a href="https://mp.weixin.qq.com/s/35PtrQFRKpqzfwmS6cYt6w">跟着苹果教学视频，5分钟学会制作快捷指令！</a></li>
-  </ul>
-    </div>
-    <div class="swiper-slide">
-      <ul class="news-list">
-      <li>   <a href="https://mp.weixin.qq.com/s/0WEjMf_SR2rrZsUZgoGq3g">十八个iPhone XS/Max使用小技巧</a></li>
-  
-  <li>   <a href="https://mp.weixin.qq.com/s/Z0mTDz_O-9N1e-9JXaLwRA">90%iphone用户不知的个人隐私设置</a></li>
-  
-  <li>   <a href="https://mp.weixin.qq.com/s/c1jk4aRNpBcmFkDAbD2c6w">壁纸高清｜想你想你想你</a></li>
-  
-  <li>   <a href="https://mp.weixin.qq.com/s/Kimhinx7SXYuac-C_h2ZBA">一台iPhone能用多久？国产手机甘拜下风，苹果卖得贵有道理</a></li>
-  
-  <li>   <a href="https://mp.weixin.qq.com/s/ptoVM5RlThjPCWA5ixYyQA">5个iphone使用技巧看看你知道几个！</a></li>
-  
-  <li>   <a href="https://mp.weixin.qq.com/s/x2F0jMczAfATg53nhDUrsA">微商收款不发货，这样收拾他…</a></li>
-  
-  <li>   <a href="https://mp.weixin.qq.com/s/mxDWpwSoc7ETziL78btsZg">苹果手机解压百度网盘资源指南</a></li>
-  
-  <li>   <a href="https://mp.weixin.qq.com/s/77OLsZJsYFmhz6cQoiY_Og">潮图壁纸 | 孤独不是没人爱</a></li>
-  </ul>
-    </div>
-  </div>
-
-</div>
-
-<div id="content"  style="z-index:999">
+<h5 class="text_line"> </h5>
+ <div class="footer text-xs-center"> <div class="logo"> <img src="https://ae01.alicdn.com/kf/H51d4a123d1fa45c19fe0ad2ce811713fq.png" alt=""> <span>木子科技</span> </div> <div>Copyright © 2018-2028 木子科技</div> <div>粤ICP备09128966号-4</div> </div>
+ <div style='height:30px; line-height:30px; text-align:center; color: #b2b2b2;'>
+    <a href="http://wpa.qq.com/msgrd?v=3&uin=56794501&site=qq&menu=yes/">
+ 
+        <img style="position:fixed;right:0; bottom:160px; z-index:99999; width:35px !
+important;height:35px !important;" src="https://ae01.alicdn.com/kf/H68a96fef252642fda2b3039af6819ed5a.png" />
+ 
+    <a style="z-index:99999;" id="goTop" href="#">
+ 
+         <img style="position:fixed;right:0; bottom:100px; z-index:99999; width:35px !
+important;height:35px!important;" src="https://ae01.alicdn.com/kf/H6b0917bee3a445eaa0678320578f0e39s.png" />
+   <a href="https://muzikeji.cn/">
+ 
+        <img style="position:fixed;right:0; bottom:220px; z-index:99999; width:35px !
+important;height:35px !important;" src="https://ae01.alicdn.com/kf/H3aa837761ac143c8899f338e84b7ae071.png" />
+<div style="height:100px;"></div>
+<div id="content">
 		<ul>
-	<li class='bottom-li'>						  <a id="defaultTab" class="mui-tab-item mui-active" href="https://muzios.com/" target="_self"><img src="https://ae01.alicdn.com/kf/H83be833e88164a6ca4a86fa9c28a69b7y.png" width='358' height='131' alt="">
+	<li class='bottom-li'>						  <a id="defaultTab" class="mui-tab-item mui-active" href="https://muzios.com/" target="_self"><img src="https://ae01.alicdn.com/kf/H00ce21d9273f433f88b33931db38d684P.png" width='358' height='131' alt="">
 				<p>主页</p></a>
 			</li>
 			<li class='bottom-li'>   <a class="mui-tab-item" href="https://muzios.com/JJ" target="_self">
-				<img src="https://ae01.alicdn.com/kf/Hb5ba1dd8e5744985ad04ed34e5a407d2O.png" width='358' height='131' alt="">
+				<img src="https://ae01.alicdn.com/kf/Haf8157d242554d36806a2797f3bcc7a1V.png" width='358' height='131' alt="">
 				<p>捷径</p></a>
 			</li>
 			<li class='bottom-li'>  <a class="mui-tab-item" href="https://muzios.com/yy" target="_self">
@@ -587,58 +195,7 @@ div.co {
 				<p>关于</p></a>
 			</li>
 		</ul>
-	</div></div>
-<p class="text_line"> </p>
-<p>
-<script type="text/javascript" src="//js.users.51.la/20228817.js"></script>
-<script type="text/javascript" src="//quote.51.la/q?id=20228817&mb=4"></script>
-</p>
-<div style="height:60px;"></div>
-
-<script type="text/javascript">
-window.onload = function() {
-    var navSwiper = new Swiper('#header', {
-        freeMode: true,
-        slidesPerView: 'auto',
-        freeModeSticky: true,
-    });
-	
-    var bannerSwiper = new Swiper('#banner', {
-        autoplay: 5000,
-        visibilityFullFit: true,
-        loop: true,
-        pagination: {
-            el: '#banner .pagination',
-        }
-    });
-
-    var announcementSwiper = new Swiper('#announcement', {
-        direction: 'vertical',
-		loop: true,
-        autoplay: {
-            delay: 3000,
-            disableOnInteraction: false,
-        }
-    })
-
-    var tabsSwiper = new Swiper('#tabs-container', {
-        speed: 500,
-        on: {
-            slideChangeTransitionStart: function() {
-                $(".tabs .active").removeClass('active');
-                $(".tabs a").eq(this.activeIndex).addClass('active');
-            }
-        }
-    })
-    $(".tabs a").on('click', function(e) {
-        e.preventDefault()
-        $(".tabs .active").removeClass('active')
-        $(this).addClass('active')
-        tabsSwiper.slideTo($(this).index())
-    })
-}
-</script>
-
+	</div>
 </body>
 
 </html>
