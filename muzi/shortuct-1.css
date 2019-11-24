@@ -106,12 +106,12 @@ h2  {text-align: center; color: #000000; font-size:20px;}
 p.cc  {text-align: center; color:#ffffff; font-size:14px;}
 p.c  {text-align: center; color:#000000; font-size:14px;}
 a {
-color: #ffffff;
+color: #45eb72;
 text-decoration: none;
 }
 a:active {
 text-decoration: none;
-color: #ffffff;
+color: #45eb72;
 }
 
 .box a{ color: black; text-decoration: none; }  
@@ -131,7 +131,7 @@ a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
 
-a:link {color: #ffffff;}      /* 未访问链接*/
+a:link {color: #45eb72;}      /* 未访问链接*/
 a:visited {color: #939292;}  /* 已访问链接 */
 a:hover {color: #adf2ed;}  /* 鼠标移动到链接上 */
 a:active {color #adf2ed;}  /* 鼠标点击时 */
