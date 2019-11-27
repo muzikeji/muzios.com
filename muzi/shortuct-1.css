@@ -38,20 +38,19 @@ border-radius: 20px;
     cursor: pointer;
 }
 
-.button1 {
-    background-color: #6699ff; 
+.button2 {
+    background-color: white; 
     color: black; 
-    border: 2px solid white;
+    border: 2px solid #008CBA;;
 
 border-radius: 2px;
 
 }
-.button2 {
-    background-color: white; 
-    color: black; 
-    border: 2px solid #99ccff;
+.button1 {
 
-border-radius: 2px;
+background-color: #008CBA;
+
+border-radius: 8px;
 
 }
 
