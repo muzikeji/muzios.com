@@ -92,13 +92,13 @@ p1.outset {border-bottom-style:outset;}
 div.fd
 {
 	float:left;
-	width:99%;
+	width:100%;
 	height:auto;
-	margin:5px;
+	margin:0px;
 border: width solid 1px;
-border-radius: 10px;
+border-radius: 0px;
    padding-left:10px;
-padding-top:10px;
+padding-top:0px;
 overflow:hidden;
 }
 div.ff
