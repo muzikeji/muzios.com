@@ -26,7 +26,7 @@ border-radius: 20px;
    }
 
 .buttonx {
-     background-color: #4CAF50; /* Green */
+     background-color: #2a50da; /* Green */
     border: none;
     color: white;
     padding: 5px 8px;
@@ -48,9 +48,9 @@ border-radius: 2px;
 }
 .button1 {
 
-background-color: #008CBA;
+background-color: #2a50da;
 
-border-radius: 8px;
+border-radius: 4px;
 
 }
 
