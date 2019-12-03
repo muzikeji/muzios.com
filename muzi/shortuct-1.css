@@ -36,12 +36,12 @@ border-radius: 20px;
      background-color: #2a50da; /* Green */
     border: none;
     color: white;
-    padding: 5px 8px;
+    padding: 0px 0px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 4px 2px;
+    margin: 0px 0px;
     cursor: pointer;
 }
 
