@@ -128,11 +128,14 @@ margin:0 auto;
 
 }
  .c1{
-            width: 40px;
-            height: 40px;
+            width: 32px;
+            height: 32px;
             border: 2px solid white;
             border-radius: 50%;
             overflow: hidden;
+
+margin:0px 5px 5px 5px;
+
 float:left;
         }
 p.o  {text-align: center;}
