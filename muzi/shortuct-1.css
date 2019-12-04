@@ -5,7 +5,7 @@ max-width:750px; min-width:350px; boder:1px solid #d87777;
 background:#d7e9f5 url(https://ae01.alicdn.com/kf/Ha21caa6885a9453c996ec91ef91dfed3T.png) no-repeat left top;
   background-size:100%;
 } 
-
+ .txt {text-align:center; width:100%} .left {float:left; text-align:left; width:20%} 
 div.three
 {
 	
@@ -146,7 +146,7 @@ p.u {margin:10 18 5 5; text-align: center; color: #ffffff; font-size:34px;float:
 p.z {margin:10 5 5 10; text-align: center; color: #ffffff; font-size:21px;float:left;}
 p.n {margin:0 0; text-align:left ; color: #ffffff; font-size:23px; padding-top:8px;}
 p.i {margin:3 3 3 3; text-align: justify; color: #858585; font-size:15px; float:left;}
-p.x {margin:0 0; text-align: justify; color: #ffffff; font-size:21px; float:left;padding-top:0px;}
+p.x {margin:0 0; text-align: justify; color: #ffffff; font-size:20px; float:left;padding-top:0px;}
 p.dd {margin:5 5; text-align: justify; color:#ffffff; font-size:15px; float:left;padding-top:7px;}
 p.dc {margin:0 0; text-align: right; color:#ffffff; font-size:12px; padding-top:5px;}
 p.do {margin:3 3 3 3; text-align: right; color:#858585; font-size:15px;}
