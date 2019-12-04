@@ -10,6 +10,8 @@ div.three
 {
 	border-style:solid;
 	border-width:1px;
+border: width solid 1px;
+border-radius: 10px;
 }
 
 div.cd {border-radius: 10px;
