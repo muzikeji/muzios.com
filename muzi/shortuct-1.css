@@ -93,7 +93,6 @@ p1 {border-style:solid;}
 p1.outset {border-bottom-style:outset;}
 div.fd
 {
-	float:left;
 	width:100%;
 	height:auto;
 	margin:0px 0px 5px;
