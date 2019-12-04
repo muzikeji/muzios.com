@@ -139,7 +139,7 @@ float:left;
         }
 p.o  {text-align: center;}
 p.db {margin:0 0; text-align: right; color:#ffffff; font-size:105%;}
-p.da {margin:0 0; text-align: center; color:#ffffff; font-size:12px; padding-top:5px;}
+p.da {margin:0 0; text-align: center; color:#ffffff; font-size:12px; padding-top:0px;}
 p.g {margin:0 0; text-align: center; color:#707070; font-size:14px; padding-top:3px;}
 p.d {margin:0 0; text-align: left; color: #ffffff; font-size:21px; float:left;padding-top:0px;}
 p.u {margin:10 18 5 5; text-align: center; color: #ffffff; font-size:34px;float:left;}
